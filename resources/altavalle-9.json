@@ -1,0 +1,17 @@
+{
+  "id": "a13f6700dbd5e084b0a62b95acea5dc945eb50f1",
+  "title": "Risorsa altavalle 9",
+  "description": "Risorsa di test per altavalle dataset 9",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/altavalle-9.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/altavalle-9.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

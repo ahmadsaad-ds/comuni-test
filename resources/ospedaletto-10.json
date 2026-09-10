@@ -1,0 +1,17 @@
+{
+  "id": "19e036bba6b4ef4f46a8b65be1022adab7dedba9",
+  "title": "Risorsa ospedaletto 10",
+  "description": "Risorsa di test per ospedaletto dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ospedaletto-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ospedaletto-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "6f8aca1579a43bdf194b02c12171b18280e0281a",
+      "identifier": "test-male-0",
+      "title": "Mobilita male dataset 0",
+      "short_description": "Dati su mobilita del comune di male",
+      "description": "Dataset di test numero 0 riguardante mobilita per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "afb0d634c8ad922f456e3ebc129d6b5ed9592db6",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0ab204c12c6da2024648284d96e1cb16254488a8",
+      "identifier": "test-male-1",
+      "title": "Bilancio male dataset 1",
+      "short_description": "Dati su bilancio del comune di male",
+      "description": "Dataset di test numero 1 riguardante bilancio per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0830de78288bf4177b1c1907d42786692b36fe72",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "1bd3828a3903253959cc56285d0661e085136dc9",
+      "identifier": "test-male-2",
+      "title": "Cultura male dataset 2",
+      "short_description": "Dati su cultura del comune di male",
+      "description": "Dataset di test numero 2 riguardante cultura per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cb1102b2e6a5dcd87a39b4ff28b805ef512504b4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d6c14c7ea55995321fa409873df8c225689ea128",
+      "identifier": "test-male-3",
+      "title": "Trasporti male dataset 3",
+      "short_description": "Dati su trasporti del comune di male",
+      "description": "Dataset di test numero 3 riguardante trasporti per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "6d78b999247b4380970f245fda84974643e8c5a4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "52ec31956694e4118d24c13a473494a478d2508d",
+      "identifier": "test-male-4",
+      "title": "Istruzione male dataset 4",
+      "short_description": "Dati su istruzione del comune di male",
+      "description": "Dataset di test numero 4 riguardante istruzione per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "2cb8e92ff4c1c00a0733cccf470ade386a4dc70f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b126c5b1b3b733c81150b322b9c52aee3ebad7a0",
+      "identifier": "test-male-5",
+      "title": "Catasto male dataset 5",
+      "short_description": "Dati su catasto del comune di male",
+      "description": "Dataset di test numero 5 riguardante catasto per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e35c87a2b8992c9f916b84cefa2cbf210060389c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b7938d95c3a0374bd67389e8e6cc2197bcae53f5",
+      "identifier": "test-male-6",
+      "title": "Turismo male dataset 6",
+      "short_description": "Dati su turismo del comune di male",
+      "description": "Dataset di test numero 6 riguardante turismo per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e6601e6f06c550468560416179a0f56b553153dd",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "06548f45107f73b143d266284a5f3054cbd336cc",
+      "identifier": "test-male-7",
+      "title": "Lavoro male dataset 7",
+      "short_description": "Dati su lavoro del comune di male",
+      "description": "Dataset di test numero 7 riguardante lavoro per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "172aa4051ab20e7ab7201b77928045a30705e00a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "97b9a587731e47ab7893fb1549c7b8279825d784",
+      "identifier": "test-male-8",
+      "title": "Bilancio male dataset 8",
+      "short_description": "Dati su bilancio del comune di male",
+      "description": "Dataset di test numero 8 riguardante bilancio per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "864255549d8db50fc129d93561bc7509000d7b26",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "68679c20465d821c3f86614b20fab90ecda01664",
+      "identifier": "test-male-9",
+      "title": "Agricoltura male dataset 9",
+      "short_description": "Dati su agricoltura del comune di male",
+      "description": "Dataset di test numero 9 riguardante agricoltura per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "78f1d1c258f2b05b99e26467c4792eca2119bb4a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2ed128489d0502c31b04931662161ddb80ef3de5",
+      "identifier": "test-male-10",
+      "title": "Ambiente male dataset 10",
+      "short_description": "Dati su ambiente del comune di male",
+      "description": "Dataset di test numero 10 riguardante ambiente per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "5a0845a9c4f0f0d8df7c5f94b4bcdf160a6f8ca4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "5d9a328dfebc6a76c68fa38377db5fab1e952795",
+      "identifier": "test-male-11",
+      "title": "Turismo male dataset 11",
+      "short_description": "Dati su turismo del comune di male",
+      "description": "Dataset di test numero 11 riguardante turismo per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d9763f7694dd973ba0d69dbf0546a04124c421d7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0bbdf9b58694c8d6b80658a49bc3a1072a231376",
+      "identifier": "test-male-12",
+      "title": "Sport male dataset 12",
+      "short_description": "Dati su sport del comune di male",
+      "description": "Dataset di test numero 12 riguardante sport per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a43c5625a6b477028cb0dcde6cff5a7efc0d07af",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a5cb90baedaf871a1b6b6beae84325b7e4cb3610",
+      "identifier": "test-male-13",
+      "title": "Turismo male dataset 13",
+      "short_description": "Dati su turismo del comune di male",
+      "description": "Dataset di test numero 13 riguardante turismo per il comune di male. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "male",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9f15ccb4891bfdb069468868cc59873f84938bb3",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/male-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

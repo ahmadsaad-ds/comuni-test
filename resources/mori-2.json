@@ -1,0 +1,17 @@
+{
+  "id": "df89a5b11a3de2a2dec3aa2b9accc38e5744ad40",
+  "title": "Risorsa mori 2",
+  "description": "Risorsa di test per mori dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mori-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mori-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

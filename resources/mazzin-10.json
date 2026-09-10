@@ -1,0 +1,17 @@
+{
+  "id": "cd8d6b73715e5a88bb06d9f64fb21a9a579a5b20",
+  "title": "Risorsa mazzin 10",
+  "description": "Risorsa di test per mazzin dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mazzin-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mazzin-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "51b3c07717e29c2c5dc2d9d89860c872044f8186",
+  "title": "Risorsa pievetesino 10",
+  "description": "Risorsa di test per pievetesino dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pievetesino-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pievetesino-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

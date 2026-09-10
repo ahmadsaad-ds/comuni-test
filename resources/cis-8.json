@@ -1,0 +1,17 @@
+{
+  "id": "0b7b877e20fa45dc116555efe146991e9a54de6a",
+  "title": "Risorsa cis 8",
+  "description": "Risorsa di test per cis dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cis-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cis-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

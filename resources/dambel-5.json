@@ -1,0 +1,17 @@
+{
+  "id": "0db91d4561063a583155b06ca984562a3d1c8663",
+  "title": "Risorsa dambel 5",
+  "description": "Risorsa di test per dambel dataset 5",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/dambel-5.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/dambel-5.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

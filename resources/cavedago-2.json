@@ -1,0 +1,17 @@
+{
+  "id": "739bc79dd8fd96e821e89a3980737659e755dcb3",
+  "title": "Risorsa cavedago 2",
+  "description": "Risorsa di test per cavedago dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cavedago-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cavedago-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "0fc06b2c3eb0fccb86f267d71341bb3924d87e9f",
+  "title": "Risorsa aldeno 1",
+  "description": "Risorsa di test per aldeno dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/aldeno-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/aldeno-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

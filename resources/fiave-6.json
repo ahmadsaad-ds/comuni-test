@@ -1,0 +1,17 @@
+{
+  "id": "de23ad1d976c688ad0b410c111044ca66094e6f2",
+  "title": "Risorsa fiave 6",
+  "description": "Risorsa di test per fiave dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/fiave-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/fiave-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

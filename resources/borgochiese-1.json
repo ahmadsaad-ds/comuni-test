@@ -1,0 +1,17 @@
+{
+  "id": "b3fbd11e0762d0d0a69049e0dabcd76bdb9abca4",
+  "title": "Risorsa borgochiese 1",
+  "description": "Risorsa di test per borgochiese dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/borgochiese-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/borgochiese-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

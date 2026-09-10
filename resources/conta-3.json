@@ -1,0 +1,17 @@
+{
+  "id": "105d0cddd841b68df4d96e1ec92bd70b677021f2",
+  "title": "Risorsa conta 3",
+  "description": "Risorsa di test per conta dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/conta-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/conta-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

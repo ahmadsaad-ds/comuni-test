@@ -1,0 +1,17 @@
+{
+  "id": "588936a058167c65b8f56a3e49545e6dc23a8fc5",
+  "title": "Risorsa sover 9",
+  "description": "Risorsa di test per sover dataset 9",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sover-9.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sover-9.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

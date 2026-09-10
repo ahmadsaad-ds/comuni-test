@@ -1,0 +1,17 @@
+{
+  "id": "7d31596800ddfdd04d810c97a2c5bf1091cb0228",
+  "title": "Risorsa ronzone 7",
+  "description": "Risorsa di test per ronzone dataset 7",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ronzone-7.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ronzone-7.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

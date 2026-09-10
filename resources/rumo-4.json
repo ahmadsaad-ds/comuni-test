@@ -1,0 +1,17 @@
+{
+  "id": "164dba7c8cec31f7da035c6d40c99cbd7ab6f1a8",
+  "title": "Risorsa rumo 4",
+  "description": "Risorsa di test per rumo dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/rumo-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/rumo-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

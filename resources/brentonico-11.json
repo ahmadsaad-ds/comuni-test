@@ -1,0 +1,17 @@
+{
+  "id": "9bd5149f3d8d4ef516986b5c64a7c41c6b51db0d",
+  "title": "Risorsa brentonico 11",
+  "description": "Risorsa di test per brentonico dataset 11",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/brentonico-11.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/brentonico-11.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

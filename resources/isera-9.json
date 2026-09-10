@@ -1,0 +1,17 @@
+{
+  "id": "7ff9b7ce67526bc39a2ea49d2f5a17c561a8e608",
+  "title": "Risorsa isera 9",
+  "description": "Risorsa di test per isera dataset 9",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/isera-9.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/isera-9.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

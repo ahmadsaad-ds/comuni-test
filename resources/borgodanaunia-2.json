@@ -1,0 +1,17 @@
+{
+  "id": "7f1f0d1934a76f3b29b7aa41c5b4dbdaf4828d0d",
+  "title": "Risorsa borgodanaunia 2",
+  "description": "Risorsa di test per borgodanaunia dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/borgodanaunia-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/borgodanaunia-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

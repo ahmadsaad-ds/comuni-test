@@ -1,0 +1,17 @@
+{
+  "id": "a0923e900c600de3bdca4b27bd17c9aefccfffea",
+  "title": "Risorsa carzano 4",
+  "description": "Risorsa di test per carzano dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/carzano-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/carzano-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

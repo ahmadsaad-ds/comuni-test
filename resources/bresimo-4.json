@@ -1,0 +1,17 @@
+{
+  "id": "5c15a0b5c6324ee1b7cfac30b2742317fcf3cc78",
+  "title": "Risorsa bresimo 4",
+  "description": "Risorsa di test per bresimo dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/bresimo-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/bresimo-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

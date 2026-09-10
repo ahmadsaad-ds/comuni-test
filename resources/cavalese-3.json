@@ -1,0 +1,17 @@
+{
+  "id": "151ca3535a7a0f948cd0769deac99880ee0cb4d8",
+  "title": "Risorsa cavalese 3",
+  "description": "Risorsa di test per cavalese dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cavalese-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cavalese-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

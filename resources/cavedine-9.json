@@ -1,0 +1,17 @@
+{
+  "id": "7b4b3dc0e8bb3d2bc94c4be5957b40ce22c9c238",
+  "title": "Risorsa cavedine 9",
+  "description": "Risorsa di test per cavedine dataset 9",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cavedine-9.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cavedine-9.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

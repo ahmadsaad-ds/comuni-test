@@ -1,0 +1,17 @@
+{
+  "id": "66b610bf59f4e3fbbbc29383a04468f1f266f7c0",
+  "title": "Risorsa ton 13",
+  "description": "Risorsa di test per ton dataset 13",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ton-13.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ton-13.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "f3b9541e9e7ed8ccc1cb06ae23b3984adcca0a83",
+  "title": "Risorsa moena 1",
+  "description": "Risorsa di test per moena dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/moena-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/moena-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

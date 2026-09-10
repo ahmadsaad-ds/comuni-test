@@ -1,0 +1,17 @@
+{
+  "id": "9882534b9916e2dbfed97d7a1e1f38bd4a7e28c2",
+  "title": "Risorsa arco 2",
+  "description": "Risorsa di test per arco dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/arco-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/arco-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

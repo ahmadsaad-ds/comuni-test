@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "29f9abe9915e7ba885327679b7e2fd256a355ec9",
+      "identifier": "test-dro-0",
+      "title": "Rifiuti dro dataset 0",
+      "short_description": "Dati su rifiuti del comune di dro",
+      "description": "Dataset di test numero 0 riguardante rifiuti per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e4d1cb27537103f51e4cb7a3e5afce28a0e9def8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "18cc322889556ecfa125e65edbf8c0519a910642",
+      "identifier": "test-dro-1",
+      "title": "Ambiente dro dataset 1",
+      "short_description": "Dati su ambiente del comune di dro",
+      "description": "Dataset di test numero 1 riguardante ambiente per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e9a3de34b22d33664a043a9627cbde70f6b7f1ae",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4acfea7d29440f34785c1d640c65f1ac359c5b8f",
+      "identifier": "test-dro-2",
+      "title": "Istruzione dro dataset 2",
+      "short_description": "Dati su istruzione del comune di dro",
+      "description": "Dataset di test numero 2 riguardante istruzione per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a345b12e88622beff2517343ffc8e15663107500",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "32f94cb034b7e6c688d5b6357b0e6f57a3a50a22",
+      "identifier": "test-dro-3",
+      "title": "Lavoro dro dataset 3",
+      "short_description": "Dati su lavoro del comune di dro",
+      "description": "Dataset di test numero 3 riguardante lavoro per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1ac5fdaa9fec9b6a66137f0dba078032d5b44b14",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d98ab823e7e4e33b00c570eb3e5a26834310b841",
+      "identifier": "test-dro-4",
+      "title": "Mobilita dro dataset 4",
+      "short_description": "Dati su mobilita del comune di dro",
+      "description": "Dataset di test numero 4 riguardante mobilita per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "efa2ea70cb2446d6a5eea66a03d66b342b40598d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8251089edb09449206604eed6bbd73d9469d9ec5",
+      "identifier": "test-dro-5",
+      "title": "Catasto dro dataset 5",
+      "short_description": "Dati su catasto del comune di dro",
+      "description": "Dataset di test numero 5 riguardante catasto per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "76694fb624a9ccbe7064974fecc7db32e895eb10",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a348eabf40f8a22a60ac3006e987f259f5bb9b79",
+      "identifier": "test-dro-6",
+      "title": "Catasto dro dataset 6",
+      "short_description": "Dati su catasto del comune di dro",
+      "description": "Dataset di test numero 6 riguardante catasto per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "927601744008b46dc36712ec3bf2ad31c612f311",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f51bbbf01af05de3e4fae717866afaad81c4aa4c",
+      "identifier": "test-dro-7",
+      "title": "Turismo dro dataset 7",
+      "short_description": "Dati su turismo del comune di dro",
+      "description": "Dataset di test numero 7 riguardante turismo per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1009de344567ad063ff322f0ff4c81d4d07885dc",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "ad284b4044367d0845446e6674cce0d835aa9e58",
+      "identifier": "test-dro-8",
+      "title": "Turismo dro dataset 8",
+      "short_description": "Dati su turismo del comune di dro",
+      "description": "Dataset di test numero 8 riguardante turismo per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b887151a4ed4ff04a48d4d218ad57f7a9c447c4b",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "7e2d086fb0080bd2d3ee240cdd4816080861d1e5",
+      "identifier": "test-dro-9",
+      "title": "Trasporti dro dataset 9",
+      "short_description": "Dati su trasporti del comune di dro",
+      "description": "Dataset di test numero 9 riguardante trasporti per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9e2b64acdd6761f6783568ebac9a832faed12dd2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "09f0d08b444e58582e32ca81fba65c85f2f8b9bb",
+      "identifier": "test-dro-10",
+      "title": "Popolazione dro dataset 10",
+      "short_description": "Dati su popolazione del comune di dro",
+      "description": "Dataset di test numero 10 riguardante popolazione per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "75cc97f036430fde913beec4000c148595270bf0",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "6b7b6505d44c6c81526ceeb4be3bb4ddfbd6af78",
+      "identifier": "test-dro-11",
+      "title": "Bilancio dro dataset 11",
+      "short_description": "Dati su bilancio del comune di dro",
+      "description": "Dataset di test numero 11 riguardante bilancio per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4bfcbc67d1fed6321be59a65c14cfa5a32e42a48",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "02ff81980245cfa9042f39eacaa5732f9da42fd5",
+      "identifier": "test-dro-12",
+      "title": "Sport dro dataset 12",
+      "short_description": "Dati su sport del comune di dro",
+      "description": "Dataset di test numero 12 riguardante sport per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "54c653d4c59989af4302918d7a878db3b4cb64ec",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4cf04695c1202ddad2edbccbab00eacfb3d1181e",
+      "identifier": "test-dro-13",
+      "title": "Trasporti dro dataset 13",
+      "short_description": "Dati su trasporti del comune di dro",
+      "description": "Dataset di test numero 13 riguardante trasporti per il comune di dro. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "dro",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "728c5e09061c8fd0d8438e9f071650cd55daaf05",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/dro-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

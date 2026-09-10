@@ -1,0 +1,17 @@
+{
+  "id": "88b2b7809b10b5921172a56886bc020abd3b7bae",
+  "title": "Risorsa ruffre 8",
+  "description": "Risorsa di test per ruffre dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ruffre-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ruffre-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

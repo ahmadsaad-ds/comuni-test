@@ -1,0 +1,17 @@
+{
+  "id": "dbd5ce4b45160af5a324193f397fc5c1ccde56e4",
+  "title": "Risorsa mezzocorona 6",
+  "description": "Risorsa di test per mezzocorona dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mezzocorona-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mezzocorona-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

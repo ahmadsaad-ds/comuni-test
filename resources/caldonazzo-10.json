@@ -1,0 +1,17 @@
+{
+  "id": "4a3bc2ac7b3782e2cbac7255a9c33184fb190ff5",
+  "title": "Risorsa caldonazzo 10",
+  "description": "Risorsa di test per caldonazzo dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caldonazzo-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caldonazzo-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

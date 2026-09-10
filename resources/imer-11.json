@@ -1,0 +1,17 @@
+{
+  "id": "68aff47262ecb3106f7cc9307e721ac311ba6bcd",
+  "title": "Risorsa imer 11",
+  "description": "Risorsa di test per imer dataset 11",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/imer-11.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/imer-11.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

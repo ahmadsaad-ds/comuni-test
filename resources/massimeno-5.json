@@ -1,0 +1,17 @@
+{
+  "id": "8eb7c73c0de0b4907e0e65768fb00f61f4ec5e34",
+  "title": "Risorsa massimeno 5",
+  "description": "Risorsa di test per massimeno dataset 5",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/massimeno-5.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/massimeno-5.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

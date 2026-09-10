@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "0c417f9bc93932256dce182751e63ad2c0cbbfd2",
+      "identifier": "test-giovo-0",
+      "title": "Rifiuti giovo dataset 0",
+      "short_description": "Dati su rifiuti del comune di giovo",
+      "description": "Dataset di test numero 0 riguardante rifiuti per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "11cce9fe6e7cf528822f8bf4f042fac9d4efd9e4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "09456d56974359b2c2a559dd0896cec34a805a75",
+      "identifier": "test-giovo-1",
+      "title": "Turismo giovo dataset 1",
+      "short_description": "Dati su turismo del comune di giovo",
+      "description": "Dataset di test numero 1 riguardante turismo per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "87dc27fa6709033cfc4bc5c3dc8536f0a6a24c36",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4d113b9e1a65e9389d4bcac3a0bc26144766b80a",
+      "identifier": "test-giovo-2",
+      "title": "Lavoro giovo dataset 2",
+      "short_description": "Dati su lavoro del comune di giovo",
+      "description": "Dataset di test numero 2 riguardante lavoro per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "011bd525d4fe2b0637db1f4ceb250378f6dc6e89",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "bcdf05acbdca05746296399c3807988d93ccbfac",
+      "identifier": "test-giovo-3",
+      "title": "Lavoro giovo dataset 3",
+      "short_description": "Dati su lavoro del comune di giovo",
+      "description": "Dataset di test numero 3 riguardante lavoro per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9d76a2d79348a0fab71f9b5d550c5ff803587ea0",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4056547840a7afc3595d03a5c7cfbee42694636c",
+      "identifier": "test-giovo-4",
+      "title": "Cultura giovo dataset 4",
+      "short_description": "Dati su cultura del comune di giovo",
+      "description": "Dataset di test numero 4 riguardante cultura per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0d0a2161b0d99b29781cf269ac30326dd379f081",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d1d33693ad8fd50bc54cf06d23e40dd21a1a28f2",
+      "identifier": "test-giovo-5",
+      "title": "Popolazione giovo dataset 5",
+      "short_description": "Dati su popolazione del comune di giovo",
+      "description": "Dataset di test numero 5 riguardante popolazione per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c5938bf1ed596acc66cc11cd3cc807f40331c9e2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0da2a82e3190d31c2b756314ccafd43350280605",
+      "identifier": "test-giovo-6",
+      "title": "Lavoro giovo dataset 6",
+      "short_description": "Dati su lavoro del comune di giovo",
+      "description": "Dataset di test numero 6 riguardante lavoro per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c18380fc5a552efc17c17f741e76ff7de62e5744",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "55b8cee6b51b2669bb54607f9f0fc7efd8e69770",
+      "identifier": "test-giovo-7",
+      "title": "Ambiente giovo dataset 7",
+      "short_description": "Dati su ambiente del comune di giovo",
+      "description": "Dataset di test numero 7 riguardante ambiente per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9228220fe180fc315cd74abfce94564e51d17ffc",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b1c2594d79691ce41d9bab3b55a4e4ed49dd1359",
+      "identifier": "test-giovo-8",
+      "title": "Sanita giovo dataset 8",
+      "short_description": "Dati su sanita del comune di giovo",
+      "description": "Dataset di test numero 8 riguardante sanita per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d2d0793375670d455859de75e1b25683e72a25df",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "249775e396875c13a2a2eff94a42c1982fb058d8",
+      "identifier": "test-giovo-9",
+      "title": "Turismo giovo dataset 9",
+      "short_description": "Dati su turismo del comune di giovo",
+      "description": "Dataset di test numero 9 riguardante turismo per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "894a1a5993997d52f5614b8219b16f30361add71",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a2545297d7d9fd05bddbb7e17d559317bcff9184",
+      "identifier": "test-giovo-10",
+      "title": "Trasporti giovo dataset 10",
+      "short_description": "Dati su trasporti del comune di giovo",
+      "description": "Dataset di test numero 10 riguardante trasporti per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "68cb4da18be772e8701e0093204c0c62f42ba3d7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "33b3ee28cb02f2c96050ad90bf8ded161411e8fe",
+      "identifier": "test-giovo-11",
+      "title": "Sanita giovo dataset 11",
+      "short_description": "Dati su sanita del comune di giovo",
+      "description": "Dataset di test numero 11 riguardante sanita per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3c19545f1ec8ad17f122cddd18cbef6b4fbbd034",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "801234d1a9fbf92676b3b8690887d68bc2f3a601",
+      "identifier": "test-giovo-12",
+      "title": "Bilancio giovo dataset 12",
+      "short_description": "Dati su bilancio del comune di giovo",
+      "description": "Dataset di test numero 12 riguardante bilancio per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3ddf67e462dc7c80835e8982fa16ff07dee411d5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0bc0a87fe77169891e0119df321e198b988c42c5",
+      "identifier": "test-giovo-13",
+      "title": "Agricoltura giovo dataset 13",
+      "short_description": "Dati su agricoltura del comune di giovo",
+      "description": "Dataset di test numero 13 riguardante agricoltura per il comune di giovo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "giovo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b08cc89592e540e1e50230f94b3a1bfe7e4b8034",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/giovo-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

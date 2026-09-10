@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "f6de97d3452113afb8aab81c7adc77a6d2d7ec4b",
+      "identifier": "test-rabbi-0",
+      "title": "Turismo rabbi dataset 0",
+      "short_description": "Dati su turismo del comune di rabbi",
+      "description": "Dataset di test numero 0 riguardante turismo per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "49269f13773dca3169ea78a9b0e88a4450c6a995",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "1031da9c99c4f07f05e4bfab1dd9665d9c9d29b9",
+      "identifier": "test-rabbi-1",
+      "title": "Ambiente rabbi dataset 1",
+      "short_description": "Dati su ambiente del comune di rabbi",
+      "description": "Dataset di test numero 1 riguardante ambiente per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "238ae4652830810b04cbd4f5b607e02dbcb5dbc2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c60e668446bb97575c3f1ab94873c2cb99ccb9ce",
+      "identifier": "test-rabbi-2",
+      "title": "Trasporti rabbi dataset 2",
+      "short_description": "Dati su trasporti del comune di rabbi",
+      "description": "Dataset di test numero 2 riguardante trasporti per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "dd5e8377aca11ce1ba5440c3b2485b6d6ed31fe2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c86d125417516a60fd32f350915ec177e25af35c",
+      "identifier": "test-rabbi-3",
+      "title": "Energia rabbi dataset 3",
+      "short_description": "Dati su energia del comune di rabbi",
+      "description": "Dataset di test numero 3 riguardante energia per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e4136d43aa042f039c4f20cb3e12892556382153",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "eaafa8e4ff250f00526c44ebc348dac6142f38a3",
+      "identifier": "test-rabbi-4",
+      "title": "Rifiuti rabbi dataset 4",
+      "short_description": "Dati su rifiuti del comune di rabbi",
+      "description": "Dataset di test numero 4 riguardante rifiuti per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "441a7ffe5493bab00448997708ba8ffef2da7182",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2c578b26f21e28a371fe2799a8f69c9bc8c02923",
+      "identifier": "test-rabbi-5",
+      "title": "Agricoltura rabbi dataset 5",
+      "short_description": "Dati su agricoltura del comune di rabbi",
+      "description": "Dataset di test numero 5 riguardante agricoltura per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b3f86550c33cf6ab9eb1834842d49e6e96d312dc",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2519aaed030edae011e653bee0daa69269cf0792",
+      "identifier": "test-rabbi-6",
+      "title": "Catasto rabbi dataset 6",
+      "short_description": "Dati su catasto del comune di rabbi",
+      "description": "Dataset di test numero 6 riguardante catasto per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f2665bbf22ad458e6bbb09b0971e4d06c2dff2d7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f64285b4254501dbad86c4ad29af01d4d4293229",
+      "identifier": "test-rabbi-7",
+      "title": "Trasporti rabbi dataset 7",
+      "short_description": "Dati su trasporti del comune di rabbi",
+      "description": "Dataset di test numero 7 riguardante trasporti per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "31bc9ba4a9832b401747f359aa543295670b18b5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "5ff6bd97b6b6fd1900c177ac01d1f7a877e9f21f",
+      "identifier": "test-rabbi-8",
+      "title": "Energia rabbi dataset 8",
+      "short_description": "Dati su energia del comune di rabbi",
+      "description": "Dataset di test numero 8 riguardante energia per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "22220f6f1d7097488e0b48e9dc5633ece7894ba1",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8e473b60d3e9213890bcce5a63c6ce558cb5b636",
+      "identifier": "test-rabbi-9",
+      "title": "Catasto rabbi dataset 9",
+      "short_description": "Dati su catasto del comune di rabbi",
+      "description": "Dataset di test numero 9 riguardante catasto per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bad481f21e795d662be10081b4eaed9bbb03e70d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d744b2a8811a31724da380a9e36e0ce65f5090df",
+      "identifier": "test-rabbi-10",
+      "title": "Sanita rabbi dataset 10",
+      "short_description": "Dati su sanita del comune di rabbi",
+      "description": "Dataset di test numero 10 riguardante sanita per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "44b23d44dcaca22cb7714f010a5baf5b52e51244",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "705a4b0ae15667cf235067d5902e4b71dfe5a103",
+      "identifier": "test-rabbi-11",
+      "title": "Trasporti rabbi dataset 11",
+      "short_description": "Dati su trasporti del comune di rabbi",
+      "description": "Dataset di test numero 11 riguardante trasporti per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a9484e59246af9f696f16d0fb414319716e77d4e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "89cc7ae733b248d28a9db637fe30c37b0a450dd4",
+      "identifier": "test-rabbi-12",
+      "title": "Popolazione rabbi dataset 12",
+      "short_description": "Dati su popolazione del comune di rabbi",
+      "description": "Dataset di test numero 12 riguardante popolazione per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "80fb46277c90851af4cbaf1a813c570ea964ed61",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e7cebd268bd3716e50bdf01a962d072db9cb1d2f",
+      "identifier": "test-rabbi-13",
+      "title": "Turismo rabbi dataset 13",
+      "short_description": "Dati su turismo del comune di rabbi",
+      "description": "Dataset di test numero 13 riguardante turismo per il comune di rabbi. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "rabbi",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "2088672254d37d3ae9d91c6ebf5ac640525a8244",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/rabbi-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

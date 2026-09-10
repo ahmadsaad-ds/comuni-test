@@ -1,0 +1,17 @@
+{
+  "id": "600e455b1d530bf012194730004e5f01126cc517",
+  "title": "Risorsa roveredellaluna 2",
+  "description": "Risorsa di test per roveredellaluna dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/roveredellaluna-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/roveredellaluna-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

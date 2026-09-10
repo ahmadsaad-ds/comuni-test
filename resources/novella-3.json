@@ -1,0 +1,17 @@
+{
+  "id": "d3fd23b98d711f3816a8d3509753d5218a1fdd03",
+  "title": "Risorsa novella 3",
+  "description": "Risorsa di test per novella dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/novella-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/novella-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

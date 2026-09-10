@@ -1,0 +1,17 @@
+{
+  "id": "7cef7d61258040ee7afc57545545927b98b6f776",
+  "title": "Risorsa mezzolombardo 1",
+  "description": "Risorsa di test per mezzolombardo dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mezzolombardo-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mezzolombardo-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

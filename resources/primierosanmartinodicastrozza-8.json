@@ -1,0 +1,17 @@
+{
+  "id": "1a3c6eb00769c709c68dd4a07771cd74dbe3eb79",
+  "title": "Risorsa primierosanmartinodicastrozza 8",
+  "description": "Risorsa di test per primierosanmartinodicastrozza dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/primierosanmartinodicastrozza-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/primierosanmartinodicastrozza-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "89eb7c7a7d409635cb3065a5a92cc7d7f8fb2768",
+  "title": "Risorsa treville 12",
+  "description": "Risorsa di test per treville dataset 12",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/treville-12.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/treville-12.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

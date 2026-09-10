@@ -1,0 +1,17 @@
+{
+  "id": "444b6a50340d779cd5bc436563ad61cf247d73a4",
+  "title": "Risorsa dimarofolgarida 11",
+  "description": "Risorsa di test per dimarofolgarida dataset 11",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/dimarofolgarida-11.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/dimarofolgarida-11.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

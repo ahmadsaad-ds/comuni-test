@@ -1,0 +1,17 @@
+{
+  "id": "98c4ed5544e1266404f8f55a0d4ee0b2b8fe6a08",
+  "title": "Risorsa nomi 3",
+  "description": "Risorsa di test per nomi dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/nomi-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/nomi-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

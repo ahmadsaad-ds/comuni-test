@@ -1,0 +1,17 @@
+{
+  "id": "4443d9ca3d63b5247098a4ded9e1a71e2e0a150e",
+  "title": "Risorsa sagronmis 8",
+  "description": "Risorsa di test per sagronmis dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sagronmis-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sagronmis-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

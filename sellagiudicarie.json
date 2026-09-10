@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "6d4cdb227c549a37cd811f47be8f7d9010d1ab22",
+      "identifier": "test-sellagiudicarie-0",
+      "title": "Ambiente sellagiudicarie dataset 0",
+      "short_description": "Dati su ambiente del comune di sellagiudicarie",
+      "description": "Dataset di test numero 0 riguardante ambiente per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f8bce16b4182900ff357430f319ea9bcd5f657b5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "10a97f11675831fa03f0c17ed11bdb3c84b5e85b",
+      "identifier": "test-sellagiudicarie-1",
+      "title": "Bilancio sellagiudicarie dataset 1",
+      "short_description": "Dati su bilancio del comune di sellagiudicarie",
+      "description": "Dataset di test numero 1 riguardante bilancio per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c6509d246490d1a3c1bef6fbbdfa287aeda78520",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9e8328b6b40be6587f82d53f7e9591d2e7b771d2",
+      "identifier": "test-sellagiudicarie-2",
+      "title": "Mobilita sellagiudicarie dataset 2",
+      "short_description": "Dati su mobilita del comune di sellagiudicarie",
+      "description": "Dataset di test numero 2 riguardante mobilita per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "45b997d7bc996416c9dad9db4594e0fdd788a601",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "ab565b23e98a27c0f286f85f5c579dfbf2bacc0d",
+      "identifier": "test-sellagiudicarie-3",
+      "title": "Rifiuti sellagiudicarie dataset 3",
+      "short_description": "Dati su rifiuti del comune di sellagiudicarie",
+      "description": "Dataset di test numero 3 riguardante rifiuti per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "33bc1cc164fe3a5aabafb31f1745e81ea5b470f7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9334cf61c7ac8b3cd932c605b564c2e55c4ba101",
+      "identifier": "test-sellagiudicarie-4",
+      "title": "Bilancio sellagiudicarie dataset 4",
+      "short_description": "Dati su bilancio del comune di sellagiudicarie",
+      "description": "Dataset di test numero 4 riguardante bilancio per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "ee96278f03cc876b51e5ea4ffac106725530d10f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "538296b7562e226f93264cc9e73a80eef24531e2",
+      "identifier": "test-sellagiudicarie-5",
+      "title": "Turismo sellagiudicarie dataset 5",
+      "short_description": "Dati su turismo del comune di sellagiudicarie",
+      "description": "Dataset di test numero 5 riguardante turismo per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "49149ff8f3325d1717726eaab4ea736f0d99ddd8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "41b82ac20f4e959991bb58af242af2b390d64c15",
+      "identifier": "test-sellagiudicarie-6",
+      "title": "Mobilita sellagiudicarie dataset 6",
+      "short_description": "Dati su mobilita del comune di sellagiudicarie",
+      "description": "Dataset di test numero 6 riguardante mobilita per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "8efa3508b7c7e7dc93bfc0f960d024485d677d8e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4a215f023d480e2468134ff805005988131df582",
+      "identifier": "test-sellagiudicarie-7",
+      "title": "Catasto sellagiudicarie dataset 7",
+      "short_description": "Dati su catasto del comune di sellagiudicarie",
+      "description": "Dataset di test numero 7 riguardante catasto per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "5de415b03d73dbc34e98cc4c8c0b94ff627c67d5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9280201b1967253ec17e86e71cbe0d4bb95cde3f",
+      "identifier": "test-sellagiudicarie-8",
+      "title": "Lavoro sellagiudicarie dataset 8",
+      "short_description": "Dati su lavoro del comune di sellagiudicarie",
+      "description": "Dataset di test numero 8 riguardante lavoro per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "93bfd6f53b47c86e601df1082251f9f5515abf2e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "534ea6bab89505bde350b0437ef58e005f7c8e3c",
+      "identifier": "test-sellagiudicarie-9",
+      "title": "Trasporti sellagiudicarie dataset 9",
+      "short_description": "Dati su trasporti del comune di sellagiudicarie",
+      "description": "Dataset di test numero 9 riguardante trasporti per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "5bbeaaf4e5c99ca96b4fe727153abd6005ffa867",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f84c3a3a7a0376a6af4feaada936115ff2ea6696",
+      "identifier": "test-sellagiudicarie-10",
+      "title": "Popolazione sellagiudicarie dataset 10",
+      "short_description": "Dati su popolazione del comune di sellagiudicarie",
+      "description": "Dataset di test numero 10 riguardante popolazione per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e6dd2f1b2e8dd209cf6f2203148dc7f4f6d43cc5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "83350027d3501f17b464f40b9e431c36ba36516f",
+      "identifier": "test-sellagiudicarie-11",
+      "title": "Mobilita sellagiudicarie dataset 11",
+      "short_description": "Dati su mobilita del comune di sellagiudicarie",
+      "description": "Dataset di test numero 11 riguardante mobilita per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "fe1e759ac4a7201f7a7333dc9c3468caf377caf0",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3dfde90589bf08e849f5946fbb6503df568b5dc7",
+      "identifier": "test-sellagiudicarie-12",
+      "title": "Sanita sellagiudicarie dataset 12",
+      "short_description": "Dati su sanita del comune di sellagiudicarie",
+      "description": "Dataset di test numero 12 riguardante sanita per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "6ccd030f006bcd5a68912897f4caf7776c62a2f5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "35e6b523b974b9da1b4149b9091bff253904330d",
+      "identifier": "test-sellagiudicarie-13",
+      "title": "Rifiuti sellagiudicarie dataset 13",
+      "short_description": "Dati su rifiuti del comune di sellagiudicarie",
+      "description": "Dataset di test numero 13 riguardante rifiuti per il comune di sellagiudicarie. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "sellagiudicarie",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "29c52d6bd9750e56998e4e93c9aa54e3577b4c4a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sellagiudicarie-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

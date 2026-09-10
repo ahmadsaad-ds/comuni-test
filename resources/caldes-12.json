@@ -1,0 +1,17 @@
+{
+  "id": "f170a72c41b2a624fa8f8d14725b416dfb6e7f5e",
+  "title": "Risorsa caldes 12",
+  "description": "Risorsa di test per caldes dataset 12",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caldes-12.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caldes-12.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

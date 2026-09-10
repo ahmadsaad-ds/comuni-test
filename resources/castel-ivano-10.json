@@ -1,0 +1,17 @@
+{
+  "id": "5884344b6e6aa7bb01d4e3a941c81ba1d7b731e1",
+  "title": "Risorsa castel-ivano 10",
+  "description": "Risorsa di test per castel-ivano dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castel-ivano-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castel-ivano-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "c03baadb9576d1f87f031bbcfcfe94354799b25d",
+  "title": "Risorsa castellomolinadifiemme 11",
+  "description": "Risorsa di test per castellomolinadifiemme dataset 11",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castellomolinadifiemme-11.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castellomolinadifiemme-11.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

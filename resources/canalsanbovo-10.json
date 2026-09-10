@@ -1,0 +1,17 @@
+{
+  "id": "2aab19d26ed6e215c807f9cef7b991a6b725a1a2",
+  "title": "Risorsa canalsanbovo 10",
+  "description": "Risorsa di test per canalsanbovo dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/canalsanbovo-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/canalsanbovo-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

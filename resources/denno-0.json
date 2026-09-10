@@ -1,0 +1,17 @@
+{
+  "id": "a7f499b3b2b30d26fc96407cebdcef08b9f5f240",
+  "title": "Risorsa denno 0",
+  "description": "Risorsa di test per denno dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/denno-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/denno-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

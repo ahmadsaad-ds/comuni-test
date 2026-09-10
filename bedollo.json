@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "0ba451fa1acbbd03338a709cfdb91d08fd44c9f8",
+      "identifier": "test-bedollo-0",
+      "title": "Lavoro bedollo dataset 0",
+      "short_description": "Dati su lavoro del comune di bedollo",
+      "description": "Dataset di test numero 0 riguardante lavoro per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e0e9a20eaa7fafb4065d73501404dba8dfff7340",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "5c1c48593b54dd0d2108d2729e0ce550e8c3decb",
+      "identifier": "test-bedollo-1",
+      "title": "Sanita bedollo dataset 1",
+      "short_description": "Dati su sanita del comune di bedollo",
+      "description": "Dataset di test numero 1 riguardante sanita per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f9403d58e23382e12190daaf239f97f4cce2fa4c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "89ed0a063226d227574766cd5bf84e2e521e77a3",
+      "identifier": "test-bedollo-2",
+      "title": "Energia bedollo dataset 2",
+      "short_description": "Dati su energia del comune di bedollo",
+      "description": "Dataset di test numero 2 riguardante energia per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "8230ef983bf045bf2e741226f0e9de816b7d8dab",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "6d77a7b56e95c71e7deae6dcc7efeb0e115e3675",
+      "identifier": "test-bedollo-3",
+      "title": "Turismo bedollo dataset 3",
+      "short_description": "Dati su turismo del comune di bedollo",
+      "description": "Dataset di test numero 3 riguardante turismo per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c50eb208f41496106c3a6e931d7a29969c2ec595",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "13334eead176147bfe428d79829b85ea58afb453",
+      "identifier": "test-bedollo-4",
+      "title": "Popolazione bedollo dataset 4",
+      "short_description": "Dati su popolazione del comune di bedollo",
+      "description": "Dataset di test numero 4 riguardante popolazione per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "ec9483e4b4494c4c90a17a6394454600493f0b9c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "49f51353c468cd254acbd96da3648431b3f2542f",
+      "identifier": "test-bedollo-5",
+      "title": "Popolazione bedollo dataset 5",
+      "short_description": "Dati su popolazione del comune di bedollo",
+      "description": "Dataset di test numero 5 riguardante popolazione per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "38b1088e64f252199a908e76781f83aef8cb5bea",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "aafb2936723fdf368b8476009e8924a4855156f1",
+      "identifier": "test-bedollo-6",
+      "title": "Rifiuti bedollo dataset 6",
+      "short_description": "Dati su rifiuti del comune di bedollo",
+      "description": "Dataset di test numero 6 riguardante rifiuti per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "363b42016cfd180020c161956d40055ca09d9f7a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "cf5c08b5f8d87c94ce655e08e9f6419f5912f737",
+      "identifier": "test-bedollo-7",
+      "title": "Sport bedollo dataset 7",
+      "short_description": "Dati su sport del comune di bedollo",
+      "description": "Dataset di test numero 7 riguardante sport per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b34f7fdc611d992c8879953702512483a699e5cb",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "af13c4c8aa98ea454807a209dd96b1df4c451017",
+      "identifier": "test-bedollo-8",
+      "title": "Popolazione bedollo dataset 8",
+      "short_description": "Dati su popolazione del comune di bedollo",
+      "description": "Dataset di test numero 8 riguardante popolazione per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bac4a9a091b1c5e77cd80b887620ec03981e78b0",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b26221011812f310dbb32e6096e4b8ba53ba15a2",
+      "identifier": "test-bedollo-9",
+      "title": "Catasto bedollo dataset 9",
+      "short_description": "Dati su catasto del comune di bedollo",
+      "description": "Dataset di test numero 9 riguardante catasto per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cb25f6c6b1ecec353bbc4670226c9675df77b521",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "7414358f9686d662fb94d525b860e0c792483a45",
+      "identifier": "test-bedollo-10",
+      "title": "Sanita bedollo dataset 10",
+      "short_description": "Dati su sanita del comune di bedollo",
+      "description": "Dataset di test numero 10 riguardante sanita per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cff0194a1d88dfd37568f79c43eaad12e5fc1409",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "13f2221f669ba2a8dad529028913a94f1c5901dc",
+      "identifier": "test-bedollo-11",
+      "title": "Rifiuti bedollo dataset 11",
+      "short_description": "Dati su rifiuti del comune di bedollo",
+      "description": "Dataset di test numero 11 riguardante rifiuti per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a59de5c95fd520c5a85be0ab3ae6f8a8d731caf1",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e9580a983b907f96fa1eb37e89ec0cc28c7fdd07",
+      "identifier": "test-bedollo-12",
+      "title": "Lavoro bedollo dataset 12",
+      "short_description": "Dati su lavoro del comune di bedollo",
+      "description": "Dataset di test numero 12 riguardante lavoro per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "011e949e6a8c0bfb55dd5ac69f70fb60336ac96a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8a9a9f8c19526214112ba1f1e6e147f718f62a94",
+      "identifier": "test-bedollo-13",
+      "title": "Catasto bedollo dataset 13",
+      "short_description": "Dati su catasto del comune di bedollo",
+      "description": "Dataset di test numero 13 riguardante catasto per il comune di bedollo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "bedollo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9a62917e2d7f8e2001d5b0f1f3e2826df9b6291b",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bedollo-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

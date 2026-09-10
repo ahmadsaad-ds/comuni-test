@@ -1,0 +1,17 @@
+{
+  "id": "2a3b2d8c4dcadc020babc52e571e6361e9f7e42f",
+  "title": "Risorsa villedanaunia 7",
+  "description": "Risorsa di test per villedanaunia dataset 7",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/villedanaunia-7.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/villedanaunia-7.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

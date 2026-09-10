@@ -1,0 +1,17 @@
+{
+  "id": "865ac5484cde2bc88b864af4564d83641d8689b4",
+  "title": "Risorsa telvedisopra 2",
+  "description": "Risorsa di test per telvedisopra dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/telvedisopra-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/telvedisopra-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "15521a7d9cfac4ebc02cca4909faec918b47cbf6",
+  "title": "Risorsa giustino 0",
+  "description": "Risorsa di test per giustino dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/giustino-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/giustino-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

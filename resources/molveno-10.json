@@ -1,0 +1,17 @@
+{
+  "id": "ca53a9c1a2a07ed4a9cb817fc8e2d50bdcc7333a",
+  "title": "Risorsa molveno 10",
+  "description": "Risorsa di test per molveno dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/molveno-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/molveno-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

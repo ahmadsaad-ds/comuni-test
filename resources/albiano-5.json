@@ -1,0 +1,17 @@
+{
+  "id": "da147108e8acb492ae5951553ed35c014e97ec19",
+  "title": "Risorsa albiano 5",
+  "description": "Risorsa di test per albiano dataset 5",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/albiano-5.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/albiano-5.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

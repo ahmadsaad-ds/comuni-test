@@ -1,0 +1,17 @@
+{
+  "id": "55fb86094beeb3e275cd1ae759b5f8badf6079d7",
+  "title": "Risorsa vermiglio 4",
+  "description": "Risorsa di test per vermiglio dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vermiglio-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vermiglio-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

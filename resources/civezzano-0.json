@@ -1,0 +1,17 @@
+{
+  "id": "45a2b3376a68b2b8e7ab4917bfd15d620c27cd41",
+  "title": "Risorsa civezzano 0",
+  "description": "Risorsa di test per civezzano dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/civezzano-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/civezzano-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

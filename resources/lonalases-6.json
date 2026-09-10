@@ -1,0 +1,17 @@
+{
+  "id": "6d1ccfc6b07cb6f7b63a3cc2736cb4ee6a85cdde",
+  "title": "Risorsa lonalases 6",
+  "description": "Risorsa di test per lonalases dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/lonalases-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/lonalases-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

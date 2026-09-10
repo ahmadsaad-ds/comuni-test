@@ -1,0 +1,17 @@
+{
+  "id": "6abb80f3d9b28272e0817bb9b92dbf702d97c8d9",
+  "title": "Risorsa bleggiosuperiore 8",
+  "description": "Risorsa di test per bleggiosuperiore dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/bleggiosuperiore-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/bleggiosuperiore-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

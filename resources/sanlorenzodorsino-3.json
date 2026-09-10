@@ -1,0 +1,17 @@
+{
+  "id": "d9f5ec9faf3ee882ae303a54b253daf915cd9d38",
+  "title": "Risorsa sanlorenzodorsino 3",
+  "description": "Risorsa di test per sanlorenzodorsino dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sanlorenzodorsino-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sanlorenzodorsino-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

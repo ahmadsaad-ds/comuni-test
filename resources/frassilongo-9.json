@@ -1,0 +1,17 @@
+{
+  "id": "d52d166668ec26486c50fdbf89e71ed75096fed3",
+  "title": "Risorsa frassilongo 9",
+  "description": "Risorsa di test per frassilongo dataset 9",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/frassilongo-9.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/frassilongo-9.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

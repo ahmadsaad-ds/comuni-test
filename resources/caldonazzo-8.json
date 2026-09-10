@@ -1,0 +1,17 @@
+{
+  "id": "3a62c201098868045c4a77524cf45e3a4582bdd3",
+  "title": "Risorsa caldonazzo 8",
+  "description": "Risorsa di test per caldonazzo dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caldonazzo-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caldonazzo-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

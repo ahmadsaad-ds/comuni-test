@@ -1,0 +1,17 @@
+{
+  "id": "3df0b397446ee426f2160af2fc05e45cf56d4aac",
+  "title": "Risorsa roncegnoterme 13",
+  "description": "Risorsa di test per roncegnoterme dataset 13",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/roncegnoterme-13.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/roncegnoterme-13.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

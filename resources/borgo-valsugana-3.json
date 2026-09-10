@@ -1,0 +1,17 @@
+{
+  "id": "5fafd7071306b81257bc07095749dc33855d3af5",
+  "title": "Risorsa borgo-valsugana 3",
+  "description": "Risorsa di test per borgo-valsugana dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/borgo-valsugana-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/borgo-valsugana-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

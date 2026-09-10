@@ -1,0 +1,17 @@
+{
+  "id": "5315d36130e3f76c6e5ab12e0e0c985574f58d5b",
+  "title": "Risorsa paludelfersina 3",
+  "description": "Risorsa di test per paludelfersina dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/paludelfersina-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/paludelfersina-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

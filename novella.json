@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "45590671d2aa3bbb76709b92395a629499bf7af8",
+      "identifier": "test-novella-0",
+      "title": "Trasporti novella dataset 0",
+      "short_description": "Dati su trasporti del comune di novella",
+      "description": "Dataset di test numero 0 riguardante trasporti per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "672f011352e69da3633c543f99a718fd3599e0b5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "68a4989d928eb3d94cea79247713e002a6f592ac",
+      "identifier": "test-novella-1",
+      "title": "Turismo novella dataset 1",
+      "short_description": "Dati su turismo del comune di novella",
+      "description": "Dataset di test numero 1 riguardante turismo per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "656f3bec4ef78f62807b6c82b71e7438b1c13e94",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "aa5bb7f2ffe31040d8ee10ec8dd1ee04314e60b0",
+      "identifier": "test-novella-2",
+      "title": "Bilancio novella dataset 2",
+      "short_description": "Dati su bilancio del comune di novella",
+      "description": "Dataset di test numero 2 riguardante bilancio per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "75bfde81c369b2d29c2dfbb58fa4d119b6366365",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "832289e615cc5bc55147734df94d531f6bafb35a",
+      "identifier": "test-novella-3",
+      "title": "Cultura novella dataset 3",
+      "short_description": "Dati su cultura del comune di novella",
+      "description": "Dataset di test numero 3 riguardante cultura per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cb58dd6417ed076068172a74436d3603e85869c5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "45a09eadaec9d20027cacdb180a25b3ed8e5c9a3",
+      "identifier": "test-novella-4",
+      "title": "Popolazione novella dataset 4",
+      "short_description": "Dati su popolazione del comune di novella",
+      "description": "Dataset di test numero 4 riguardante popolazione per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "340a6b0d5c60ba2ca78dfc8d93448f963890a323",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d0717fedab56fb4a777c0cb1833eaf620f0705ac",
+      "identifier": "test-novella-5",
+      "title": "Mobilita novella dataset 5",
+      "short_description": "Dati su mobilita del comune di novella",
+      "description": "Dataset di test numero 5 riguardante mobilita per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0aae2ba764e435f8a0ea54a575cf0d358fc2b282",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3b2ef18f6be7288dd83d150943863aad06fc777a",
+      "identifier": "test-novella-6",
+      "title": "Agricoltura novella dataset 6",
+      "short_description": "Dati su agricoltura del comune di novella",
+      "description": "Dataset di test numero 6 riguardante agricoltura per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4004b86b2b2b59b44b4d51cbe01d028ba683fad4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "53fead13fac65e67419e9ba75a7e66834b568fe4",
+      "identifier": "test-novella-7",
+      "title": "Trasporti novella dataset 7",
+      "short_description": "Dati su trasporti del comune di novella",
+      "description": "Dataset di test numero 7 riguardante trasporti per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9f8e59ac80dc1067b4ab463365c300dd7a7e78ca",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4c1eacd7a25a8d4c688296c2d732ff2fee586929",
+      "identifier": "test-novella-8",
+      "title": "Istruzione novella dataset 8",
+      "short_description": "Dati su istruzione del comune di novella",
+      "description": "Dataset di test numero 8 riguardante istruzione per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "229407957e572a6bb93114d009ae911051e5a2ae",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d2488204af4795c3d00247758a0bff40a85fc372",
+      "identifier": "test-novella-9",
+      "title": "Turismo novella dataset 9",
+      "short_description": "Dati su turismo del comune di novella",
+      "description": "Dataset di test numero 9 riguardante turismo per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c26e7d326db92b1e04c994f4dce6fd4f15d98cfb",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "54d354d5585c0eb9b3e1b2063d38bd741a866047",
+      "identifier": "test-novella-10",
+      "title": "Trasporti novella dataset 10",
+      "short_description": "Dati su trasporti del comune di novella",
+      "description": "Dataset di test numero 10 riguardante trasporti per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "70d8b56aebaff5f15f84dbcb935c5d97356a765f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a78a65a500c6235470bfaa55e25a4ca8bcb659b9",
+      "identifier": "test-novella-11",
+      "title": "Turismo novella dataset 11",
+      "short_description": "Dati su turismo del comune di novella",
+      "description": "Dataset di test numero 11 riguardante turismo per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "155251b10e1b8c5786078307a4a1cef11bee39bc",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "bd3fa31daa6f5c39121163ee98257d0b760a7c47",
+      "identifier": "test-novella-12",
+      "title": "Energia novella dataset 12",
+      "short_description": "Dati su energia del comune di novella",
+      "description": "Dataset di test numero 12 riguardante energia per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "577ae47c29e4762a5e62b5f539e7a2871bd7b652",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9e37cbc0ccdeb5f3df6394535454cd0dec72f872",
+      "identifier": "test-novella-13",
+      "title": "Turismo novella dataset 13",
+      "short_description": "Dati su turismo del comune di novella",
+      "description": "Dataset di test numero 13 riguardante turismo per il comune di novella. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "novella",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "eda403d5118d000e8d9043604011273d8eebf872",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/novella-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

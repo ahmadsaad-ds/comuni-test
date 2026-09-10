@@ -1,0 +1,17 @@
+{
+  "id": "d6941246355c3c11029ebfc341fded3912d5ea9f",
+  "title": "Risorsa nogaredo 1",
+  "description": "Risorsa di test per nogaredo dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/nogaredo-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/nogaredo-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

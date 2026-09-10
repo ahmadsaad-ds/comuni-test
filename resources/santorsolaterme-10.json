@@ -1,0 +1,17 @@
+{
+  "id": "3bbe23f320694cf1a587f6cce02e56881bb413a4",
+  "title": "Risorsa santorsolaterme 10",
+  "description": "Risorsa di test per santorsolaterme dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/santorsolaterme-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/santorsolaterme-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

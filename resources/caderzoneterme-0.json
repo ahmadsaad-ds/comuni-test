@@ -1,0 +1,17 @@
+{
+  "id": "e42271567bfbe744ec4424f1e90c4941e83001b6",
+  "title": "Risorsa caderzoneterme 0",
+  "description": "Risorsa di test per caderzoneterme dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caderzoneterme-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/caderzoneterme-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

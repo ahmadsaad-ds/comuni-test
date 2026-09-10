@@ -1,0 +1,17 @@
+{
+  "id": "a8af6b139cdb797eee31ef0e716fc14fb7dec744",
+  "title": "Risorsa pellizzano 1",
+  "description": "Risorsa di test per pellizzano dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pellizzano-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pellizzano-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

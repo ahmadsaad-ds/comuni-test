@@ -1,0 +1,17 @@
+{
+  "id": "bfc1a9e50c305a22da6c8e23e6f2cf547a9e389f",
+  "title": "Risorsa campitellodifassa 4",
+  "description": "Risorsa di test per campitellodifassa dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/campitellodifassa-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/campitellodifassa-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "08a48ba643530f8269730240b834c1ba316744e2",
+      "identifier": "test-ruffre-0",
+      "title": "Energia ruffre dataset 0",
+      "short_description": "Dati su energia del comune di ruffre",
+      "description": "Dataset di test numero 0 riguardante energia per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "89456e03450a5c4b2a305190e5689458da54df3a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "621e22079ffc8ef269bd99c8b3122e98a2f2c647",
+      "identifier": "test-ruffre-1",
+      "title": "Lavoro ruffre dataset 1",
+      "short_description": "Dati su lavoro del comune di ruffre",
+      "description": "Dataset di test numero 1 riguardante lavoro per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "68a72e2848c1cb4e1e1b7e0e3703e6dda6283bde",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "ed9f0c8e6a10290f5d2287913e9063da33ebb350",
+      "identifier": "test-ruffre-2",
+      "title": "Mobilita ruffre dataset 2",
+      "short_description": "Dati su mobilita del comune di ruffre",
+      "description": "Dataset di test numero 2 riguardante mobilita per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bf29082af30eaef7b21bef491d4af65cc43928dd",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "1b21c5cedbe682f0370f04479dd5d15b9e512d14",
+      "identifier": "test-ruffre-3",
+      "title": "Mobilita ruffre dataset 3",
+      "short_description": "Dati su mobilita del comune di ruffre",
+      "description": "Dataset di test numero 3 riguardante mobilita per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "32251375869085b0015472595271fc04988c6dad",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c33b8863b8a025d5346666b3783c23a5a1b1e430",
+      "identifier": "test-ruffre-4",
+      "title": "Energia ruffre dataset 4",
+      "short_description": "Dati su energia del comune di ruffre",
+      "description": "Dataset di test numero 4 riguardante energia per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "900e4e007712a1b0196acb25e0489fc4ab286f3d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b06725d12869b087de2b62793a953b1ca0b19ed6",
+      "identifier": "test-ruffre-5",
+      "title": "Sanita ruffre dataset 5",
+      "short_description": "Dati su sanita del comune di ruffre",
+      "description": "Dataset di test numero 5 riguardante sanita per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "de5262bb17b032e7c45d00dbb68f774e81a24cc8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4d4d185c53b4f45cba6cd86d54cc1f7274cf8f9e",
+      "identifier": "test-ruffre-6",
+      "title": "Mobilita ruffre dataset 6",
+      "short_description": "Dati su mobilita del comune di ruffre",
+      "description": "Dataset di test numero 6 riguardante mobilita per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f28bf50527cbbf5729db4eff1d9916d56f394aec",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "41d2c9aa3e445c2af91026cd2d5a7c6068d5e09f",
+      "identifier": "test-ruffre-7",
+      "title": "Mobilita ruffre dataset 7",
+      "short_description": "Dati su mobilita del comune di ruffre",
+      "description": "Dataset di test numero 7 riguardante mobilita per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "2cc0e147b499f13467314cceb3310ea78e30e309",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4f03148988b06991647be14a2288a9dc0d34ce37",
+      "identifier": "test-ruffre-8",
+      "title": "Catasto ruffre dataset 8",
+      "short_description": "Dati su catasto del comune di ruffre",
+      "description": "Dataset di test numero 8 riguardante catasto per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "38b9405583cc9c475b87c7fa6e1b50d1da1ae868",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d82868d995860b41783d8d1beaf246faa404cae0",
+      "identifier": "test-ruffre-9",
+      "title": "Istruzione ruffre dataset 9",
+      "short_description": "Dati su istruzione del comune di ruffre",
+      "description": "Dataset di test numero 9 riguardante istruzione per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "882db29d21478b33ea955263131fa0a233cfbc6b",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3ddc9e0dcbf039d8081a40b357a8b999e47ac253",
+      "identifier": "test-ruffre-10",
+      "title": "Sport ruffre dataset 10",
+      "short_description": "Dati su sport del comune di ruffre",
+      "description": "Dataset di test numero 10 riguardante sport per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "11a990a8a9281160a54ba1f0370615179dfd9931",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "af6a94cf224c856c34ec7ca5061f06824b94c4cd",
+      "identifier": "test-ruffre-11",
+      "title": "Ambiente ruffre dataset 11",
+      "short_description": "Dati su ambiente del comune di ruffre",
+      "description": "Dataset di test numero 11 riguardante ambiente per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d6040574a351128921f11fede13b604b03d9ded8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d778be8a88560f09fbbeb912e583cae95b4e5eb9",
+      "identifier": "test-ruffre-12",
+      "title": "Agricoltura ruffre dataset 12",
+      "short_description": "Dati su agricoltura del comune di ruffre",
+      "description": "Dataset di test numero 12 riguardante agricoltura per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "affd3c461195d1c8664cdbad58d8a7be1ad2df15",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9588b41c1154cab50d0e138243c02e1a406a9740",
+      "identifier": "test-ruffre-13",
+      "title": "Agricoltura ruffre dataset 13",
+      "short_description": "Dati su agricoltura del comune di ruffre",
+      "description": "Dataset di test numero 13 riguardante agricoltura per il comune di ruffre. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "ruffre",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a7295938e04c2cb54e30824ed2229c6cd74af5e5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/ruffre-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

@@ -1,0 +1,17 @@
+{
+  "id": "f78dd88b8450552d7ff10c81fa9d2352885cd28a",
+  "title": "Risorsa portedirendena 6",
+  "description": "Risorsa di test per portedirendena dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/portedirendena-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/portedirendena-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

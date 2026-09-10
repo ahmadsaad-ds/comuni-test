@@ -1,0 +1,17 @@
+{
+  "id": "08b7d6023050b607a0ddf67c2a07ae2746a22f4c",
+  "title": "Risorsa rivadelgarda 3",
+  "description": "Risorsa di test per rivadelgarda dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/rivadelgarda-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/rivadelgarda-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "16fe8e0cf79993a095b59b703f759b40fc5307ef",
+  "title": "Risorsa vallelaghi 2",
+  "description": "Risorsa di test per vallelaghi dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vallelaghi-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vallelaghi-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

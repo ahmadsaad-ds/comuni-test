@@ -1,0 +1,17 @@
+{
+  "id": "91c72bb03714f379f8ef40c59812a1e0c6f36d6f",
+  "title": "Risorsa comunegrigno 5",
+  "description": "Risorsa di test per comunegrigno dataset 5",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/comunegrigno-5.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/comunegrigno-5.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

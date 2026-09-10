@@ -1,0 +1,17 @@
+{
+  "id": "a76b8129b3ee586215edd921aecbc1d1d53c078a",
+  "title": "Risorsa castello-tesino 11",
+  "description": "Risorsa di test per castello-tesino dataset 11",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castello-tesino-11.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castello-tesino-11.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

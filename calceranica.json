@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "a2eda81fbc04897ad7f2045735c12b3a548b7f41",
+      "identifier": "test-calceranica-0",
+      "title": "Turismo calceranica dataset 0",
+      "short_description": "Dati su turismo del comune di calceranica",
+      "description": "Dataset di test numero 0 riguardante turismo per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "984fb6a42c1f46dcdb430fb58cb9b2cdaffbcfb2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "273c5b90838e42a119caca852385890b2392e1a8",
+      "identifier": "test-calceranica-1",
+      "title": "Turismo calceranica dataset 1",
+      "short_description": "Dati su turismo del comune di calceranica",
+      "description": "Dataset di test numero 1 riguardante turismo per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "7e2495b5b7a457e7d11983041fbc9ea1b3b5066d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4bfb7a080ce649faedbe981a6b5f30f3ed489c03",
+      "identifier": "test-calceranica-2",
+      "title": "Lavoro calceranica dataset 2",
+      "short_description": "Dati su lavoro del comune di calceranica",
+      "description": "Dataset di test numero 2 riguardante lavoro per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1afda894272c31c952e728eeb0355b9a3259cda8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f47091a8a08105ff35416359700c7ddae5bf6211",
+      "identifier": "test-calceranica-3",
+      "title": "Energia calceranica dataset 3",
+      "short_description": "Dati su energia del comune di calceranica",
+      "description": "Dataset di test numero 3 riguardante energia per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "7882187c50a0b627b45609316a0a27c444fb7a52",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0cda59bd1776e2db87c6d5571616a84f17654dd4",
+      "identifier": "test-calceranica-4",
+      "title": "Ambiente calceranica dataset 4",
+      "short_description": "Dati su ambiente del comune di calceranica",
+      "description": "Dataset di test numero 4 riguardante ambiente per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bfde1b10210688f1513863ca1501d13facedd121",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0a84b4207c1b6d6a1619bcc1b93a2761600140ed",
+      "identifier": "test-calceranica-5",
+      "title": "Agricoltura calceranica dataset 5",
+      "short_description": "Dati su agricoltura del comune di calceranica",
+      "description": "Dataset di test numero 5 riguardante agricoltura per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c3132e1bbb0fe2079c1f8f4d4b93f3017ab09a8b",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9d9a419f9e80c61af44da650941e57e7f34b13bc",
+      "identifier": "test-calceranica-6",
+      "title": "Catasto calceranica dataset 6",
+      "short_description": "Dati su catasto del comune di calceranica",
+      "description": "Dataset di test numero 6 riguardante catasto per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3f288096114820a06c07c71d331ed95454afd7b4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "caf56c7da5a53ded6487d72fc841fa0c7c553ff2",
+      "identifier": "test-calceranica-7",
+      "title": "Istruzione calceranica dataset 7",
+      "short_description": "Dati su istruzione del comune di calceranica",
+      "description": "Dataset di test numero 7 riguardante istruzione per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c287322e64a00b6b376be1a905bdf8fda40d2cf8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4d278d432eeba111ae56ebf19dbad455572e77d4",
+      "identifier": "test-calceranica-8",
+      "title": "Ambiente calceranica dataset 8",
+      "short_description": "Dati su ambiente del comune di calceranica",
+      "description": "Dataset di test numero 8 riguardante ambiente per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e3b2c6122f37081afb974aa02e95ac6d2484ca21",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a82dda4a9b3b26926dc3b46cc4dce071e5279ae6",
+      "identifier": "test-calceranica-9",
+      "title": "Sanita calceranica dataset 9",
+      "short_description": "Dati su sanita del comune di calceranica",
+      "description": "Dataset di test numero 9 riguardante sanita per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b4a35e28aff7d79d25cf26e635a4ff9ec725159a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c5e73517627d845625d5ddaca6ab904f57485c9c",
+      "identifier": "test-calceranica-10",
+      "title": "Agricoltura calceranica dataset 10",
+      "short_description": "Dati su agricoltura del comune di calceranica",
+      "description": "Dataset di test numero 10 riguardante agricoltura per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3fb4b76cb1a1400175d89b8f8d813eefbaa28357",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f58e4b2aa96c22580aefdab1cacb85e578609559",
+      "identifier": "test-calceranica-11",
+      "title": "Energia calceranica dataset 11",
+      "short_description": "Dati su energia del comune di calceranica",
+      "description": "Dataset di test numero 11 riguardante energia per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d23d5f57d40e424131f1493244ee857fb3b4cbbb",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a9ba30181456b047fdbd913f9ad0760747c3e379",
+      "identifier": "test-calceranica-12",
+      "title": "Popolazione calceranica dataset 12",
+      "short_description": "Dati su popolazione del comune di calceranica",
+      "description": "Dataset di test numero 12 riguardante popolazione per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bff3af2583b923ed7e47503ad6c20e9180d2ea27",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "7a17291317f540f6e862cd950411a34e57c3a00c",
+      "identifier": "test-calceranica-13",
+      "title": "Rifiuti calceranica dataset 13",
+      "short_description": "Dati su rifiuti del comune di calceranica",
+      "description": "Dataset di test numero 13 riguardante rifiuti per il comune di calceranica. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "calceranica",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1438f1749e431f327e9d9879494a2999e1dc1128",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/calceranica-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

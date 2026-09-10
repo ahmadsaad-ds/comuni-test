@@ -1,0 +1,17 @@
+{
+  "id": "a2b45a1f130b99e4f78105e9e0cd938c7f373588",
+  "title": "Risorsa nago-torbole 1",
+  "description": "Risorsa di test per nago-torbole dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/nago-torbole-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/nago-torbole-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

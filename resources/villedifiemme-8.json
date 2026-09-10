@@ -1,0 +1,17 @@
+{
+  "id": "e9e204abcde2ad27fb9db96df5c40b5fc6317fc7",
+  "title": "Risorsa villedifiemme 8",
+  "description": "Risorsa di test per villedifiemme dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/villedifiemme-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/villedifiemme-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

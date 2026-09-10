@@ -1,0 +1,17 @@
+{
+  "id": "756a9aaa9e5bc4567c37cb8a6954af6ede52958d",
+  "title": "Risorsa terragnolo 13",
+  "description": "Risorsa di test per terragnolo dataset 13",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/terragnolo-13.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/terragnolo-13.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

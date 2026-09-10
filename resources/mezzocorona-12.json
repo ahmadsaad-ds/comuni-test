@@ -1,0 +1,17 @@
+{
+  "id": "f2912ee22d71cf1e70eb1a0ec3c45af590253b3f",
+  "title": "Risorsa mezzocorona 12",
+  "description": "Risorsa di test per mezzocorona dataset 12",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mezzocorona-12.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/mezzocorona-12.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

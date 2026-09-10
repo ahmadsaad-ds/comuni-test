@@ -1,0 +1,17 @@
+{
+  "id": "a1afddc47b63ed52a7dd4dfd2cf74b4f6201f201",
+  "title": "Risorsa torcegno 3",
+  "description": "Risorsa di test per torcegno dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/torcegno-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/torcegno-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

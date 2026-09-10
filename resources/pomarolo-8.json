@@ -1,0 +1,17 @@
+{
+  "id": "f3fce1f66edde6f2aa0956aeb9812fdf2fb6d3a5",
+  "title": "Risorsa pomarolo 8",
+  "description": "Risorsa di test per pomarolo dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pomarolo-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pomarolo-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

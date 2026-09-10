@@ -1,0 +1,17 @@
+{
+  "id": "ca9aec0f93ff7f7234ef53d3301d72265e77c5c0",
+  "title": "Risorsa terzolas 9",
+  "description": "Risorsa di test per terzolas dataset 9",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/terzolas-9.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/terzolas-9.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

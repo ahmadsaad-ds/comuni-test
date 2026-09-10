@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "6354e7e41e923f6ee710e7f180f9dd4642ec4e2e",
+      "identifier": "test-avio-0",
+      "title": "Mobilita avio dataset 0",
+      "short_description": "Dati su mobilita del comune di avio",
+      "description": "Dataset di test numero 0 riguardante mobilita per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "6afe7f0493e375ac1c5cdbcc37ce222e3923ce83",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f47699eff10b29329441adbda22e306919583147",
+      "identifier": "test-avio-1",
+      "title": "Sport avio dataset 1",
+      "short_description": "Dati su sport del comune di avio",
+      "description": "Dataset di test numero 1 riguardante sport per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "fafdcfd862f23c75b11d37fbcf2582982067f6d8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9337d09eaf8a47f0e3238041af3c3df61a6d2855",
+      "identifier": "test-avio-2",
+      "title": "Popolazione avio dataset 2",
+      "short_description": "Dati su popolazione del comune di avio",
+      "description": "Dataset di test numero 2 riguardante popolazione per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "89e3ec3874877e816364060a3b2164b9fb275fdd",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c0d71ea1bac3897cacb2c73d0d5a748596d4ecd2",
+      "identifier": "test-avio-3",
+      "title": "Bilancio avio dataset 3",
+      "short_description": "Dati su bilancio del comune di avio",
+      "description": "Dataset di test numero 3 riguardante bilancio per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4797ea26b095ac5d85671f832935d3e8166f6b68",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "38c98a672a27252c237dc9260ae9e5346069bdaa",
+      "identifier": "test-avio-4",
+      "title": "Rifiuti avio dataset 4",
+      "short_description": "Dati su rifiuti del comune di avio",
+      "description": "Dataset di test numero 4 riguardante rifiuti per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bfb34a8a21ff53d8319143087b680060b5a5f987",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a6870f968ee789328605a9c78ecf4f1ceeef8049",
+      "identifier": "test-avio-5",
+      "title": "Ambiente avio dataset 5",
+      "short_description": "Dati su ambiente del comune di avio",
+      "description": "Dataset di test numero 5 riguardante ambiente per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b2a099c360e9c94dfe633d0be84eb0f6436ab7c9",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3fe8ac834ce5bcd23e79b330c76525f2fd894cde",
+      "identifier": "test-avio-6",
+      "title": "Energia avio dataset 6",
+      "short_description": "Dati su energia del comune di avio",
+      "description": "Dataset di test numero 6 riguardante energia per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "64f74a8985fe23c08e2272715658691ac0ca373c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "29a447c179584296647685febe9962e8b8495af9",
+      "identifier": "test-avio-7",
+      "title": "Cultura avio dataset 7",
+      "short_description": "Dati su cultura del comune di avio",
+      "description": "Dataset di test numero 7 riguardante cultura per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a285208480194b424411204655ba9aefed3db612",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "96cf69c896ec3f84cdc445dfb61a4f8bd30c6ebe",
+      "identifier": "test-avio-8",
+      "title": "Sanita avio dataset 8",
+      "short_description": "Dati su sanita del comune di avio",
+      "description": "Dataset di test numero 8 riguardante sanita per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0a62da866d79bc49d07145cbc8faba1e5b60f76c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4114bfa50359e0a4ad0bbbd1aa9f0c5b7eaa1221",
+      "identifier": "test-avio-9",
+      "title": "Bilancio avio dataset 9",
+      "short_description": "Dati su bilancio del comune di avio",
+      "description": "Dataset di test numero 9 riguardante bilancio per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1735c45b972302f6d509e0ac278bcae3e7868703",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "55d77d02a12384f72a5520ab0d0ffcbbfaac7793",
+      "identifier": "test-avio-10",
+      "title": "Bilancio avio dataset 10",
+      "short_description": "Dati su bilancio del comune di avio",
+      "description": "Dataset di test numero 10 riguardante bilancio per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bdec55f4afbac8b833f5a4fbf61d91f4397d584e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "23047fdc634d951dada712f47e52707707c11aeb",
+      "identifier": "test-avio-11",
+      "title": "Istruzione avio dataset 11",
+      "short_description": "Dati su istruzione del comune di avio",
+      "description": "Dataset di test numero 11 riguardante istruzione per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a501867fec33b10301f68d8c7ab96505a597d79c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8d9a4b599b5d61888f5308d559f1dd788a3b3683",
+      "identifier": "test-avio-12",
+      "title": "Mobilita avio dataset 12",
+      "short_description": "Dati su mobilita del comune di avio",
+      "description": "Dataset di test numero 12 riguardante mobilita per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "2cbc76cf6e10aa50fce9b08ee8b464e49c113fd8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f2b664e1ebc17919c8d1870ff20dbd09b79b37b7",
+      "identifier": "test-avio-13",
+      "title": "Energia avio dataset 13",
+      "short_description": "Dati su energia del comune di avio",
+      "description": "Dataset di test numero 13 riguardante energia per il comune di avio. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "avio",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cfe393827a6501b62cf0cf597f547449f80d8f52",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/avio-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

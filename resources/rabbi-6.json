@@ -1,0 +1,17 @@
+{
+  "id": "bf3c5f6aa5db6565ac70de3285fcc4a3b020f748",
+  "title": "Risorsa rabbi 6",
+  "description": "Risorsa di test per rabbi dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/rabbi-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/rabbi-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

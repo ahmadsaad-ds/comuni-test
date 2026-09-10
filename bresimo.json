@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "524a4b82a1ac4c362469c0b0c8b0378398a791eb",
+      "identifier": "test-bresimo-0",
+      "title": "Turismo bresimo dataset 0",
+      "short_description": "Dati su turismo del comune di bresimo",
+      "description": "Dataset di test numero 0 riguardante turismo per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "b515833e1109ae25dc23e6c47fe375cd53e5bb2e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f79207024a87f98df9f8d53427bf22bc3e9af264",
+      "identifier": "test-bresimo-1",
+      "title": "Cultura bresimo dataset 1",
+      "short_description": "Dati su cultura del comune di bresimo",
+      "description": "Dataset di test numero 1 riguardante cultura per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "ca648d792560e811b44e422ce4274a890a39738a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "1c9352e072949b81ed04e57aa7b825e9219f81f2",
+      "identifier": "test-bresimo-2",
+      "title": "Istruzione bresimo dataset 2",
+      "short_description": "Dati su istruzione del comune di bresimo",
+      "description": "Dataset di test numero 2 riguardante istruzione per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0fb958234f35768aca296d88d4eacc461a309400",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "cb4dd0b676d0aace40fa3bf01144875a58526753",
+      "identifier": "test-bresimo-3",
+      "title": "Istruzione bresimo dataset 3",
+      "short_description": "Dati su istruzione del comune di bresimo",
+      "description": "Dataset di test numero 3 riguardante istruzione per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "57d5d6838d9a1548c8ceee0cbfc41e37a34370b8",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "30099b67ad0922770c0273a564cf1399a6f7f194",
+      "identifier": "test-bresimo-4",
+      "title": "Istruzione bresimo dataset 4",
+      "short_description": "Dati su istruzione del comune di bresimo",
+      "description": "Dataset di test numero 4 riguardante istruzione per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "626e80b31637035d1e7abfa5795fa30b1c16c933",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a0da0e6164283b78673dc5b2b3e208f879068495",
+      "identifier": "test-bresimo-5",
+      "title": "Bilancio bresimo dataset 5",
+      "short_description": "Dati su bilancio del comune di bresimo",
+      "description": "Dataset di test numero 5 riguardante bilancio per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "51a176520426892b2d83f27259f78f3184ef00c4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e9d5d534c7982915fa008502a3a77885fb808d34",
+      "identifier": "test-bresimo-6",
+      "title": "Popolazione bresimo dataset 6",
+      "short_description": "Dati su popolazione del comune di bresimo",
+      "description": "Dataset di test numero 6 riguardante popolazione per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e08129ac147bde37c7331319bc15601759cf0164",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "5fe32a734139a5aa65ca07cd5103971b8d65ae09",
+      "identifier": "test-bresimo-7",
+      "title": "Rifiuti bresimo dataset 7",
+      "short_description": "Dati su rifiuti del comune di bresimo",
+      "description": "Dataset di test numero 7 riguardante rifiuti per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0f57926599878334ed5059d39aafef92eab1961c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b6ed9c4db25f1f0d2f5f3900be17fba84c49e305",
+      "identifier": "test-bresimo-8",
+      "title": "Sport bresimo dataset 8",
+      "short_description": "Dati su sport del comune di bresimo",
+      "description": "Dataset di test numero 8 riguardante sport per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "665348a3c035ab5f474c2314e92bfe0da4276c4c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c5a7332d4c1b82589efabaf1f290be0d27d9e36d",
+      "identifier": "test-bresimo-9",
+      "title": "Bilancio bresimo dataset 9",
+      "short_description": "Dati su bilancio del comune di bresimo",
+      "description": "Dataset di test numero 9 riguardante bilancio per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a7432f30d056d2cc0fb1563d3f79c953ea5dbdc7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4908819e245177ad530d2323b735bb2273af4dbe",
+      "identifier": "test-bresimo-10",
+      "title": "Bilancio bresimo dataset 10",
+      "short_description": "Dati su bilancio del comune di bresimo",
+      "description": "Dataset di test numero 10 riguardante bilancio per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "49f58b08667ebb155e70b85c47b98b237fdf02e3",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e5b1f5e0df642f5aa7eb6351cd1d9636bdbe7245",
+      "identifier": "test-bresimo-11",
+      "title": "Energia bresimo dataset 11",
+      "short_description": "Dati su energia del comune di bresimo",
+      "description": "Dataset di test numero 11 riguardante energia per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3757428e7646ac55156170836255913e13d0f7b0",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0310812f331d6f608988663abd23e76e57f9beb8",
+      "identifier": "test-bresimo-12",
+      "title": "Energia bresimo dataset 12",
+      "short_description": "Dati su energia del comune di bresimo",
+      "description": "Dataset di test numero 12 riguardante energia per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "ebe42fea301a24a06850ca5e9bf58c50ab934f95",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "bbf98ad82a8589f075de6e48d55b7176528ce598",
+      "identifier": "test-bresimo-13",
+      "title": "Sport bresimo dataset 13",
+      "short_description": "Dati su sport del comune di bresimo",
+      "description": "Dataset di test numero 13 riguardante sport per il comune di bresimo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "bresimo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "445f516419076c6d068d99b4cba414bb51a62efa",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/bresimo-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

@@ -1,0 +1,17 @@
+{
+  "id": "fe60614f2bed0917e25eb2e7c4ea75ef0b221f62",
+  "title": "Risorsa levico-terme 6",
+  "description": "Risorsa di test per levico-terme dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/levico-terme-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/levico-terme-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

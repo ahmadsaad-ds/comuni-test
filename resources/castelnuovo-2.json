@@ -1,0 +1,17 @@
+{
+  "id": "0b2caddc91230e1d309b0466027537afaf56ddb1",
+  "title": "Risorsa castelnuovo 2",
+  "description": "Risorsa di test per castelnuovo dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castelnuovo-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castelnuovo-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

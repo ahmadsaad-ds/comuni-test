@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "6e09a28c090ef23503e00eb7f4fb67d4f5868c47",
+      "identifier": "test-cles-0",
+      "title": "Sanita cles dataset 0",
+      "short_description": "Dati su sanita del comune di cles",
+      "description": "Dataset di test numero 0 riguardante sanita per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d92f39a5183c5a31211d7cca7d18d8e524c74d4c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "85119f6eb3b8853868c712a0e2c7c6a5090a5e69",
+      "identifier": "test-cles-1",
+      "title": "Popolazione cles dataset 1",
+      "short_description": "Dati su popolazione del comune di cles",
+      "description": "Dataset di test numero 1 riguardante popolazione per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "da39fcbcf902ffc755ae465945f809d30a238a6c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "cecd2afad20756859badaf09c663808bb97521de",
+      "identifier": "test-cles-2",
+      "title": "Sanita cles dataset 2",
+      "short_description": "Dati su sanita del comune di cles",
+      "description": "Dataset di test numero 2 riguardante sanita per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1b3bf35f40a61cfbd2550260e9011fdf7824d5fe",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "aae4d03c3664777ec7bb9d2e8eb5b26ddb0c39e7",
+      "identifier": "test-cles-3",
+      "title": "Cultura cles dataset 3",
+      "short_description": "Dati su cultura del comune di cles",
+      "description": "Dataset di test numero 3 riguardante cultura per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "524149947432dd4f318a252f76d1afc30f8a10ad",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "ffa8634a0c9a4468a1d173121f1828be36e76b5b",
+      "identifier": "test-cles-4",
+      "title": "Catasto cles dataset 4",
+      "short_description": "Dati su catasto del comune di cles",
+      "description": "Dataset di test numero 4 riguardante catasto per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f4f57c54c599a131cc3e97f4d6cad8e52f7c9025",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "be9b23b52d43f9be4a3cce9a7a7ae836face2775",
+      "identifier": "test-cles-5",
+      "title": "Bilancio cles dataset 5",
+      "short_description": "Dati su bilancio del comune di cles",
+      "description": "Dataset di test numero 5 riguardante bilancio per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "736d54f91322b4bbc295cdabebb172d33c8226a5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2cfc8765c80c69532649fd582ef2fcc139d1fdda",
+      "identifier": "test-cles-6",
+      "title": "Catasto cles dataset 6",
+      "short_description": "Dati su catasto del comune di cles",
+      "description": "Dataset di test numero 6 riguardante catasto per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "06d9af7cbee6d032aff8f2d4a144ba732753136e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8644b0ffd0f3ca148262e323b7e9bfa318b2c527",
+      "identifier": "test-cles-7",
+      "title": "Istruzione cles dataset 7",
+      "short_description": "Dati su istruzione del comune di cles",
+      "description": "Dataset di test numero 7 riguardante istruzione per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "eade37d0d8e094ac9f1ee4ea1e69a8359ad25b9c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "dc079a61c25a046387e83a73c62c4bef4df73fef",
+      "identifier": "test-cles-8",
+      "title": "Turismo cles dataset 8",
+      "short_description": "Dati su turismo del comune di cles",
+      "description": "Dataset di test numero 8 riguardante turismo per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c8ab8c2e5c96e8fce1683e47044a6acf9c6ec43d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a61996c62513e1b27f3a3e46636c4a24a646fae2",
+      "identifier": "test-cles-9",
+      "title": "Popolazione cles dataset 9",
+      "short_description": "Dati su popolazione del comune di cles",
+      "description": "Dataset di test numero 9 riguardante popolazione per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4da9f1af527b05966ac03ce513e7603fae1ff846",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "6e7ae669eca0ec081d7f486ba067b2f3e8482e8c",
+      "identifier": "test-cles-10",
+      "title": "Sport cles dataset 10",
+      "short_description": "Dati su sport del comune di cles",
+      "description": "Dataset di test numero 10 riguardante sport per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "02f837e369ffa5c96b90d23f23399a5aeada7759",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "db9d76dd504a2d1185708e9869ac443e2f835512",
+      "identifier": "test-cles-11",
+      "title": "Energia cles dataset 11",
+      "short_description": "Dati su energia del comune di cles",
+      "description": "Dataset di test numero 11 riguardante energia per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1c103f5d81733abc321607e20572669fae9a98ed",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "10c28338078e1c721196716c36a24b032aa40cb8",
+      "identifier": "test-cles-12",
+      "title": "Rifiuti cles dataset 12",
+      "short_description": "Dati su rifiuti del comune di cles",
+      "description": "Dataset di test numero 12 riguardante rifiuti per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1ca65996e9994b5401f55ebd663858eb3c1101a6",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "31759cacd41d3f01284a881b8ad57d9789b9281c",
+      "identifier": "test-cles-13",
+      "title": "Istruzione cles dataset 13",
+      "short_description": "Dati su istruzione del comune di cles",
+      "description": "Dataset di test numero 13 riguardante istruzione per il comune di cles. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "cles",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c80843cb993c3082527434dc7cede5c7bc24e218",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/cles-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

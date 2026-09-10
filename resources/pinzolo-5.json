@@ -1,0 +1,17 @@
+{
+  "id": "505fbe5f0cc6bbce0c504e109a6fbe1209c2c432",
+  "title": "Risorsa pinzolo 5",
+  "description": "Risorsa di test per pinzolo dataset 5",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pinzolo-5.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pinzolo-5.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

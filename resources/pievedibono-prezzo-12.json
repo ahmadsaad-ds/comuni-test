@@ -1,0 +1,17 @@
+{
+  "id": "6cbff5d381ac9730f0f5a9f62e4c6e6f20d2f997",
+  "title": "Risorsa pievedibono-prezzo 12",
+  "description": "Risorsa di test per pievedibono-prezzo dataset 12",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pievedibono-prezzo-12.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/pievedibono-prezzo-12.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

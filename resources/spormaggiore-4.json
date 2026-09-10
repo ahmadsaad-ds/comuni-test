@@ -1,0 +1,17 @@
+{
+  "id": "27a6f8de993a77c8beaf7f7ebac65ef97e14cc39",
+  "title": "Risorsa spormaggiore 4",
+  "description": "Risorsa di test per spormaggiore dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/spormaggiore-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/spormaggiore-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

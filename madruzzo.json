@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "2291d36d534b5e62a10a094a61217ab7dc48551e",
+      "identifier": "test-madruzzo-0",
+      "title": "Turismo madruzzo dataset 0",
+      "short_description": "Dati su turismo del comune di madruzzo",
+      "description": "Dataset di test numero 0 riguardante turismo per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "91dd00cba28a4958135021418b1f349752c96790",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9ae0a721fb9d850182dc6d42b16204ba724e0f05",
+      "identifier": "test-madruzzo-1",
+      "title": "Catasto madruzzo dataset 1",
+      "short_description": "Dati su catasto del comune di madruzzo",
+      "description": "Dataset di test numero 1 riguardante catasto per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c58e095e3d7b5f74798ab8dfc6f959ef68898bdf",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "ca9f06f9a9599cf07f2c5ca4a72bb354cff12c98",
+      "identifier": "test-madruzzo-2",
+      "title": "Istruzione madruzzo dataset 2",
+      "short_description": "Dati su istruzione del comune di madruzzo",
+      "description": "Dataset di test numero 2 riguardante istruzione per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e7e6c7f9f5488f93875a29d959b5fa638efce7af",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "501cabc2565a73435c54b98ab50f3bbad9fbfdeb",
+      "identifier": "test-madruzzo-3",
+      "title": "Istruzione madruzzo dataset 3",
+      "short_description": "Dati su istruzione del comune di madruzzo",
+      "description": "Dataset di test numero 3 riguardante istruzione per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "2ee198d8678016ccd49e8422f654f37dd0ffa46d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "59eb46be783f62d67b380afb511b169c05e0cd69",
+      "identifier": "test-madruzzo-4",
+      "title": "Rifiuti madruzzo dataset 4",
+      "short_description": "Dati su rifiuti del comune di madruzzo",
+      "description": "Dataset di test numero 4 riguardante rifiuti per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "407ef276c76259f29ad380537f6a187059f4db58",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a2a3c38d17f744a0063164c883b8d95bb851bb8e",
+      "identifier": "test-madruzzo-5",
+      "title": "Sanita madruzzo dataset 5",
+      "short_description": "Dati su sanita del comune di madruzzo",
+      "description": "Dataset di test numero 5 riguardante sanita per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "df65cbc9d5cf7097744b9a1edc1acd45b41bc8ee",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9c796a6defe747e457ed747bae0526f0f8a7104c",
+      "identifier": "test-madruzzo-6",
+      "title": "Ambiente madruzzo dataset 6",
+      "short_description": "Dati su ambiente del comune di madruzzo",
+      "description": "Dataset di test numero 6 riguardante ambiente per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "7e68ffcc052bc51f553ce65c2d9604ae87da27cb",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "28a3839427ef2414e638e1bc6986427cbc0cd1b4",
+      "identifier": "test-madruzzo-7",
+      "title": "Sanita madruzzo dataset 7",
+      "short_description": "Dati su sanita del comune di madruzzo",
+      "description": "Dataset di test numero 7 riguardante sanita per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "8c7de83b44aefc4a5b39e85b9950b81772df383d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2e4312c50f0d7100accfec8d761e705c82f1fe08",
+      "identifier": "test-madruzzo-8",
+      "title": "Istruzione madruzzo dataset 8",
+      "short_description": "Dati su istruzione del comune di madruzzo",
+      "description": "Dataset di test numero 8 riguardante istruzione per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c28a06e55d2be80abd003c4cc2d48c8d1eb6199e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "02de5a3f09a57df32788dbef4a2f68e79d8b1d30",
+      "identifier": "test-madruzzo-9",
+      "title": "Cultura madruzzo dataset 9",
+      "short_description": "Dati su cultura del comune di madruzzo",
+      "description": "Dataset di test numero 9 riguardante cultura per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f2768804e15cd713154f42b69436f9fd77093144",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c9594dc19e3338950e0356590a6db376a0bb9eb2",
+      "identifier": "test-madruzzo-10",
+      "title": "Mobilita madruzzo dataset 10",
+      "short_description": "Dati su mobilita del comune di madruzzo",
+      "description": "Dataset di test numero 10 riguardante mobilita per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e563f2b81ebeb914e52f7a32e757aeb233c5b0ed",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3934f2703ad89b6a703cc0b010f58e000036fc1a",
+      "identifier": "test-madruzzo-11",
+      "title": "Istruzione madruzzo dataset 11",
+      "short_description": "Dati su istruzione del comune di madruzzo",
+      "description": "Dataset di test numero 11 riguardante istruzione per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bdadd115c507c2e4ad3a64c6832e4e2f52c27d4c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "fca3aceb4367a03368eadd5692db69a41d9476cd",
+      "identifier": "test-madruzzo-12",
+      "title": "Catasto madruzzo dataset 12",
+      "short_description": "Dati su catasto del comune di madruzzo",
+      "description": "Dataset di test numero 12 riguardante catasto per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "93c760f1cd9afd3a0236c5f96a36420b3317798d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "425e810711a6eada862a6874f37f85164948b7db",
+      "identifier": "test-madruzzo-13",
+      "title": "Sanita madruzzo dataset 13",
+      "short_description": "Dati su sanita del comune di madruzzo",
+      "description": "Dataset di test numero 13 riguardante sanita per il comune di madruzzo. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "madruzzo",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "146f0b9d5b709fcf8481281ae29eb3c6508a0973",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/madruzzo-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

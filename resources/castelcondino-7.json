@@ -1,0 +1,17 @@
+{
+  "id": "e81033ed6e83ccafc178fd157ca8bb4c0b038eb6",
+  "title": "Risorsa castelcondino 7",
+  "description": "Risorsa di test per castelcondino dataset 7",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castelcondino-7.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/castelcondino-7.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

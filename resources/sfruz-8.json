@@ -1,0 +1,17 @@
+{
+  "id": "49af4ec25c5fccb32f7ff0c9b961bd2ed9ca863b",
+  "title": "Risorsa sfruz 8",
+  "description": "Risorsa di test per sfruz dataset 8",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sfruz-8.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sfruz-8.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

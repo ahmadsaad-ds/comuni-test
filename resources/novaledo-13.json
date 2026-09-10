@@ -1,0 +1,17 @@
+{
+  "id": "6a6e8f8138d61ce3abb734b14c4b0ab1105aea19",
+  "title": "Risorsa novaledo 13",
+  "description": "Risorsa di test per novaledo dataset 13",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/novaledo-13.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/novaledo-13.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

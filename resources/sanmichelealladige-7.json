@@ -1,0 +1,17 @@
+{
+  "id": "f6a66433a5df618e271ca6b64136380fe020c357",
+  "title": "Risorsa sanmichelealladige 7",
+  "description": "Risorsa di test per sanmichelealladige dataset 7",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sanmichelealladige-7.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sanmichelealladige-7.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

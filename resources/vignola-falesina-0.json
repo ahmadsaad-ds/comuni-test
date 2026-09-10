@@ -1,0 +1,17 @@
+{
+  "id": "a42f4add440ac9a2e3065a62b405577478b448f8",
+  "title": "Risorsa vignola-falesina 0",
+  "description": "Risorsa di test per vignola-falesina dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vignola-falesina-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vignola-falesina-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

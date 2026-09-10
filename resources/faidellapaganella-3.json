@@ -1,0 +1,17 @@
+{
+  "id": "1ef7f8eacd3f0871608f5a5ed1063aaf1f5d294c",
+  "title": "Risorsa faidellapaganella 3",
+  "description": "Risorsa di test per faidellapaganella dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/faidellapaganella-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/faidellapaganella-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

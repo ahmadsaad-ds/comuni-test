@@ -1,0 +1,17 @@
+{
+  "id": "cbff7799ec794551c0c72a6c0f7485cc7d6a4fc7",
+  "title": "Risorsa amblardon 3",
+  "description": "Risorsa di test per amblardon dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/amblardon-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/amblardon-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

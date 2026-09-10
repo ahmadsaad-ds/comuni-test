@@ -1,0 +1,17 @@
+{
+  "id": "007381bff0ef2786fd22f8abd35b462d6e8dfb8f",
+  "title": "Risorsa tioneditrento 3",
+  "description": "Risorsa di test per tioneditrento dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/tioneditrento-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/tioneditrento-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "4b482b0ae884e17c5869cd346b1938bc5aa49b81",
+  "title": "Risorsa vallarsa 0",
+  "description": "Risorsa di test per vallarsa dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vallarsa-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/vallarsa-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

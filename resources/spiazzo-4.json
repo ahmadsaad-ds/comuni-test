@@ -1,0 +1,17 @@
+{
+  "id": "b5875a2a9b150d8fbf1c33fa574c2aeeafa3cb1a",
+  "title": "Risorsa spiazzo 4",
+  "description": "Risorsa di test per spiazzo dataset 4",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/spiazzo-4.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/spiazzo-4.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

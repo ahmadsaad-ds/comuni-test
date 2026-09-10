@@ -1,0 +1,17 @@
+{
+  "id": "f83c345c9848634c7776f9840df30ac3ffdcf41a",
+  "title": "Risorsa ronzo-chienis 7",
+  "description": "Risorsa di test per ronzo-chienis dataset 7",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ronzo-chienis-7.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/ronzo-chienis-7.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

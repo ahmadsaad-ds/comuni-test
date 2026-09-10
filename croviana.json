@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "6444a75a191bf53e1ea89ef3580e4a414401c232",
+      "identifier": "test-croviana-0",
+      "title": "Rifiuti croviana dataset 0",
+      "short_description": "Dati su rifiuti del comune di croviana",
+      "description": "Dataset di test numero 0 riguardante rifiuti per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "rifiuti",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3954c8f086c76d9a586b84a2437ec89a2e6206bf",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "83dde711e151df29a7ca771b6811ffd77a24745b",
+      "identifier": "test-croviana-1",
+      "title": "Lavoro croviana dataset 1",
+      "short_description": "Dati su lavoro del comune di croviana",
+      "description": "Dataset di test numero 1 riguardante lavoro per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "7f05735a20ba85feac8749769fbbfdc75f69735a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "da318fc3869712c0f2a0caf67cd9c798308fa722",
+      "identifier": "test-croviana-2",
+      "title": "Mobilita croviana dataset 2",
+      "short_description": "Dati su mobilita del comune di croviana",
+      "description": "Dataset di test numero 2 riguardante mobilita per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "5f337676f10b7a2b46bc2ea275df29b2de78d360",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "6bbfb6eb15330c1054168c04faa8cb05992b6912",
+      "identifier": "test-croviana-3",
+      "title": "Sanita croviana dataset 3",
+      "short_description": "Dati su sanita del comune di croviana",
+      "description": "Dataset di test numero 3 riguardante sanita per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "6cd7a6e683907140d8ff9523c8df9de1f1ecfc5a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b09c408f09e705c0445f8bc527dd050799ee92f8",
+      "identifier": "test-croviana-4",
+      "title": "Bilancio croviana dataset 4",
+      "short_description": "Dati su bilancio del comune di croviana",
+      "description": "Dataset di test numero 4 riguardante bilancio per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bc2efa802d99ced4acc3930f49e83c0df7500251",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4e3fcc2aa2771c97a8e21095c452c1efb9f2e891",
+      "identifier": "test-croviana-5",
+      "title": "Catasto croviana dataset 5",
+      "short_description": "Dati su catasto del comune di croviana",
+      "description": "Dataset di test numero 5 riguardante catasto per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4bdebfa52ac6b408ef2ce63903faaf4b3f6d7de1",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "fd4fb231d113067b84cc98da3a14bfddf56abb07",
+      "identifier": "test-croviana-6",
+      "title": "Energia croviana dataset 6",
+      "short_description": "Dati su energia del comune di croviana",
+      "description": "Dataset di test numero 6 riguardante energia per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "5f6b446b437a8d9ff13a7e6520cfa0279ed8f8fd",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "191ed3fba21181e0dbc1a3899b76244e96a49ffd",
+      "identifier": "test-croviana-7",
+      "title": "Turismo croviana dataset 7",
+      "short_description": "Dati su turismo del comune di croviana",
+      "description": "Dataset di test numero 7 riguardante turismo per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "6c77003685521e7647694fd870c4ef5e8a987ad1",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "54e175e9ab063b718555683bc9027e95ea669215",
+      "identifier": "test-croviana-8",
+      "title": "Energia croviana dataset 8",
+      "short_description": "Dati su energia del comune di croviana",
+      "description": "Dataset di test numero 8 riguardante energia per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "060337ac6895d48d0ad7419f63245e3d701fc1c6",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3725d997918d793f70e6cb7e61c2db72de476fbe",
+      "identifier": "test-croviana-9",
+      "title": "Turismo croviana dataset 9",
+      "short_description": "Dati su turismo del comune di croviana",
+      "description": "Dataset di test numero 9 riguardante turismo per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "58e7c8b4b579d70f96c51427905cf33b5dae6006",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9f14d8b0ba81b056218e87e2f9a181bf6b3c1d96",
+      "identifier": "test-croviana-10",
+      "title": "Turismo croviana dataset 10",
+      "short_description": "Dati su turismo del comune di croviana",
+      "description": "Dataset di test numero 10 riguardante turismo per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "8c7c59dd528fa258d176273d3fae145dcfd27c95",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "48de638d95343edd15602ea0fa68bf9cb1e0c235",
+      "identifier": "test-croviana-11",
+      "title": "Sanita croviana dataset 11",
+      "short_description": "Dati su sanita del comune di croviana",
+      "description": "Dataset di test numero 11 riguardante sanita per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a3da8555e07fa44c4948d66e2b02d116fd76ce0d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "caada68244413db365c19a0018f2bb748db79f72",
+      "identifier": "test-croviana-12",
+      "title": "Sanita croviana dataset 12",
+      "short_description": "Dati su sanita del comune di croviana",
+      "description": "Dataset di test numero 12 riguardante sanita per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e7255fbcf7070897b39e367dc2b264833b547d72",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "147ff7e9808ccbbea80cc37e4191f485dc2c3cf9",
+      "identifier": "test-croviana-13",
+      "title": "Lavoro croviana dataset 13",
+      "short_description": "Dati su lavoro del comune di croviana",
+      "description": "Dataset di test numero 13 riguardante lavoro per il comune di croviana. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "croviana",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "1592679b24a28b923e5f4a7773e4b6329caef9c6",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/croviana-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

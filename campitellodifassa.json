@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "c276731e7299231bf81d90ed289fb2e33da1346d",
+      "identifier": "test-campitellodifassa-0",
+      "title": "Mobilita campitellodifassa dataset 0",
+      "short_description": "Dati su mobilita del comune di campitellodifassa",
+      "description": "Dataset di test numero 0 riguardante mobilita per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3c8ab20475b39b8bb4c4f1d9512a645c489f8544",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c645e00dbaf70c2ccc6bc465f40ed8cce9fab783",
+      "identifier": "test-campitellodifassa-1",
+      "title": "Lavoro campitellodifassa dataset 1",
+      "short_description": "Dati su lavoro del comune di campitellodifassa",
+      "description": "Dataset di test numero 1 riguardante lavoro per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a38e8a6af79b6f143e6fd883e0bc3715c8ca3f15",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "804630976c788b64d07a51e545976fba565c42f3",
+      "identifier": "test-campitellodifassa-2",
+      "title": "Energia campitellodifassa dataset 2",
+      "short_description": "Dati su energia del comune di campitellodifassa",
+      "description": "Dataset di test numero 2 riguardante energia per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d783146455d72a281079265be32a586e7883c6e2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e41d0438cd547594a7aed6e0799d263d6d912826",
+      "identifier": "test-campitellodifassa-3",
+      "title": "Popolazione campitellodifassa dataset 3",
+      "short_description": "Dati su popolazione del comune di campitellodifassa",
+      "description": "Dataset di test numero 3 riguardante popolazione per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c30ed678ecc52f63802e2b826b0028f6225cff6d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "ad3eb941d6c769a13f091f29667c7e2d95501896",
+      "identifier": "test-campitellodifassa-4",
+      "title": "Popolazione campitellodifassa dataset 4",
+      "short_description": "Dati su popolazione del comune di campitellodifassa",
+      "description": "Dataset di test numero 4 riguardante popolazione per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f815ea5995b9fe252be43c32a107b24e6f9deae4",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "af8ef328fd15b5ce1a025e8b0acb744ef2b16502",
+      "identifier": "test-campitellodifassa-5",
+      "title": "Sport campitellodifassa dataset 5",
+      "short_description": "Dati su sport del comune di campitellodifassa",
+      "description": "Dataset di test numero 5 riguardante sport per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "500ca6f87246ad528537acc19b923b88b713f249",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "f00d11627eea350aef378933a0f8b337d2964575",
+      "identifier": "test-campitellodifassa-6",
+      "title": "Lavoro campitellodifassa dataset 6",
+      "short_description": "Dati su lavoro del comune di campitellodifassa",
+      "description": "Dataset di test numero 6 riguardante lavoro per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bf3a18d858a7d7707603e7589aed23e659aa012b",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "4a7b8d344a9dc6b290f4bb6e6cca1fa320f49eaf",
+      "identifier": "test-campitellodifassa-7",
+      "title": "Trasporti campitellodifassa dataset 7",
+      "short_description": "Dati su trasporti del comune di campitellodifassa",
+      "description": "Dataset di test numero 7 riguardante trasporti per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "80b80c43093043cb01fcc855bea331bbf3e15abb",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e735d27c82b98bce9dd21e57b5633acac9fe9569",
+      "identifier": "test-campitellodifassa-8",
+      "title": "Catasto campitellodifassa dataset 8",
+      "short_description": "Dati su catasto del comune di campitellodifassa",
+      "description": "Dataset di test numero 8 riguardante catasto per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "e673bcf11c25779f0f37cca14ba78c8d24a0d13f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d86bd842483a555613134fc9779e17942ddfe2fb",
+      "identifier": "test-campitellodifassa-9",
+      "title": "Agricoltura campitellodifassa dataset 9",
+      "short_description": "Dati su agricoltura del comune di campitellodifassa",
+      "description": "Dataset di test numero 9 riguardante agricoltura per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "ef3de6b096f54eaf42976bdd37f84b4080e5f18c",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3caca5ecea02b6dc2ec3bd05c792afe34be5c0fd",
+      "identifier": "test-campitellodifassa-10",
+      "title": "Catasto campitellodifassa dataset 10",
+      "short_description": "Dati su catasto del comune di campitellodifassa",
+      "description": "Dataset di test numero 10 riguardante catasto per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f9c89ad66d517410a4f09ef23d39ec219414b345",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b7be4c599a7ea998f47fada8135cc0c32a16c7df",
+      "identifier": "test-campitellodifassa-11",
+      "title": "Trasporti campitellodifassa dataset 11",
+      "short_description": "Dati su trasporti del comune di campitellodifassa",
+      "description": "Dataset di test numero 11 riguardante trasporti per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "trasporti",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "7678f903f5009ed799f66f685597df34e9c4e12f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "fa0b6780d9fec9b472b0315b314b6471a91f68cc",
+      "identifier": "test-campitellodifassa-12",
+      "title": "Ambiente campitellodifassa dataset 12",
+      "short_description": "Dati su ambiente del comune di campitellodifassa",
+      "description": "Dataset di test numero 12 riguardante ambiente per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "5165be3cb844047090f57b6b6d21227462fea5d5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "83f00c10f8cdaf16c3dd0666408be388ffa1f28f",
+      "identifier": "test-campitellodifassa-13",
+      "title": "Cultura campitellodifassa dataset 13",
+      "short_description": "Dati su cultura del comune di campitellodifassa",
+      "description": "Dataset di test numero 13 riguardante cultura per il comune di campitellodifassa. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "campitellodifassa",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "38c110829b7168e73be09898c9469004c70fc668",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/campitellodifassa-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

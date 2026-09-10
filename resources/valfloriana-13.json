@@ -1,0 +1,17 @@
+{
+  "id": "e4e8b2e05ef5b6fae1955b1d0fd742d34f9d2e00",
+  "title": "Risorsa valfloriana 13",
+  "description": "Risorsa di test per valfloriana dataset 13",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/valfloriana-13.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/valfloriana-13.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "5f320195c26db1dd5e19ab5a7a14ec1b683a3a27",
+  "title": "Risorsa folgaria 1",
+  "description": "Risorsa di test per folgaria dataset 1",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/folgaria-1.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/folgaria-1.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

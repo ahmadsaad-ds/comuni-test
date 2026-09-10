@@ -1,0 +1,17 @@
+{
+  "id": "9523a29e1fd2228acdbe3e9a1047cc98d9679a3f",
+  "title": "Risorsa valdaone 12",
+  "description": "Risorsa di test per valdaone dataset 12",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/valdaone-12.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/valdaone-12.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

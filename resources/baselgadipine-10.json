@@ -1,0 +1,17 @@
+{
+  "id": "87586cfe60bbe671808edfe4a3c68d32058e3529",
+  "title": "Risorsa baselgadipine 10",
+  "description": "Risorsa di test per baselgadipine dataset 10",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/baselgadipine-10.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/baselgadipine-10.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "50527cc1c00badb5c863673e58d18f39663a96ab",
+  "title": "Risorsa sangiovannidifassasenjan 2",
+  "description": "Risorsa di test per sangiovannidifassasenjan dataset 2",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sangiovannidifassasenjan-2.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/sangiovannidifassasenjan-2.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

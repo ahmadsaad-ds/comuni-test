@@ -1,0 +1,17 @@
+{
+  "id": "8c3fe2ad901db8cd930ef725516cb289cf2d3e3f",
+  "title": "Risorsa calceranica 0",
+  "description": "Risorsa di test per calceranica dataset 0",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/calceranica-0.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/calceranica-0.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

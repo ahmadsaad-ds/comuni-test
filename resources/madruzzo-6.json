@@ -1,0 +1,17 @@
+{
+  "id": "b9a6b8f67a5eafb327d0d253281a653bcb7d7939",
+  "title": "Risorsa madruzzo 6",
+  "description": "Risorsa di test per madruzzo dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/madruzzo-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/madruzzo-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

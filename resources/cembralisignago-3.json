@@ -1,0 +1,17 @@
+{
+  "id": "3c806f9ed27cc8bb4f6128ff5e37da8198fa5cbf",
+  "title": "Risorsa cembralisignago 3",
+  "description": "Risorsa di test per cembralisignago dataset 3",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cembralisignago-3.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/cembralisignago-3.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

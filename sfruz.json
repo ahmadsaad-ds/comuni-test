@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "18d70bc5aa93d0dcbea17269d481f6fe2b4aa6eb",
+      "identifier": "test-sfruz-0",
+      "title": "Turismo sfruz dataset 0",
+      "short_description": "Dati su turismo del comune di sfruz",
+      "description": "Dataset di test numero 0 riguardante turismo per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "turismo",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cdc3d9be50288b4b4418fa8a5ebc1add08793f56",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "aa6ce2ae7d806a55ba1a0969df718c74f76e3407",
+      "identifier": "test-sfruz-1",
+      "title": "Popolazione sfruz dataset 1",
+      "short_description": "Dati su popolazione del comune di sfruz",
+      "description": "Dataset di test numero 1 riguardante popolazione per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "8696f37f8728ba13ec54accc44ab88240034d638",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8465db2d4fe4d6ea6dfd8863ef9e847c61c27b92",
+      "identifier": "test-sfruz-2",
+      "title": "Cultura sfruz dataset 2",
+      "short_description": "Dati su cultura del comune di sfruz",
+      "description": "Dataset di test numero 2 riguardante cultura per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4f1ed500d7c8e83b3ed63ecce3a1fb1bde86cb7a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "9752e368629451f8054bf13ca10983947b2c8518",
+      "identifier": "test-sfruz-3",
+      "title": "Cultura sfruz dataset 3",
+      "short_description": "Dati su cultura del comune di sfruz",
+      "description": "Dataset di test numero 3 riguardante cultura per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d3a2235756c201fd44a038a70d4c1ba896dfd08f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "dbf63b92ca8b330c613b4b961f99330f2b7f91a5",
+      "identifier": "test-sfruz-4",
+      "title": "Popolazione sfruz dataset 4",
+      "short_description": "Dati su popolazione del comune di sfruz",
+      "description": "Dataset di test numero 4 riguardante popolazione per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "4293fcfc335153246a1ab932ceaba255ac44cdca",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a5f5a3488560c623cb2222b54fe5766869c5f24f",
+      "identifier": "test-sfruz-5",
+      "title": "Lavoro sfruz dataset 5",
+      "short_description": "Dati su lavoro del comune di sfruz",
+      "description": "Dataset di test numero 5 riguardante lavoro per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "lavoro",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "c45a35fd921631937cf5fa83f9ccd6ac4f0db507",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "732af51a5cf398039af9f03168b680c623df4f0d",
+      "identifier": "test-sfruz-6",
+      "title": "Popolazione sfruz dataset 6",
+      "short_description": "Dati su popolazione del comune di sfruz",
+      "description": "Dataset di test numero 6 riguardante popolazione per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "popolazione",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "720026dfade0bd67471d89ef7f4d5202030700c5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c56fda8608b39a531371cb334e0762ca6e519122",
+      "identifier": "test-sfruz-7",
+      "title": "Istruzione sfruz dataset 7",
+      "short_description": "Dati su istruzione del comune di sfruz",
+      "description": "Dataset di test numero 7 riguardante istruzione per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d0fc9f75df5e7c79e1eef6324052abd09d92bfa7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "bc8ac7c48b64e433a2ed3cdd9cd334f01fbbce36",
+      "identifier": "test-sfruz-8",
+      "title": "Energia sfruz dataset 8",
+      "short_description": "Dati su energia del comune di sfruz",
+      "description": "Dataset di test numero 8 riguardante energia per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cee8ed86315a3d60246b846b95af5ee42556d46e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2d0e68f2015165dbda6261dad7ab8b9d8ded391c",
+      "identifier": "test-sfruz-9",
+      "title": "Catasto sfruz dataset 9",
+      "short_description": "Dati su catasto del comune di sfruz",
+      "description": "Dataset di test numero 9 riguardante catasto per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "catasto",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "3f493472cb026a70386ae1dfab3ec2252b2f5bf2",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a58ef9ce4c12d7eec97d7b6e98d6cac1fa5bf08b",
+      "identifier": "test-sfruz-10",
+      "title": "Istruzione sfruz dataset 10",
+      "short_description": "Dati su istruzione del comune di sfruz",
+      "description": "Dataset di test numero 10 riguardante istruzione per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "f694e92f2a2d0d61eacad64bf85854c9a5b2d162",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "5a84a3a5d1a810181ea8fcaffce665dc7f585a57",
+      "identifier": "test-sfruz-11",
+      "title": "Istruzione sfruz dataset 11",
+      "short_description": "Dati su istruzione del comune di sfruz",
+      "description": "Dataset di test numero 11 riguardante istruzione per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a3db6ac7362d36455c1b515b417ec3194ce1c4fa",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "3915a1d855c0cd1af9bfd5b0ee64aca50df4d009",
+      "identifier": "test-sfruz-12",
+      "title": "Energia sfruz dataset 12",
+      "short_description": "Dati su energia del comune di sfruz",
+      "description": "Dataset di test numero 12 riguardante energia per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "0551ce959d7be8caa9945f10776164d0b31d6307",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "eb74cd4e429c50626ce919e31e5e102df6b00edd",
+      "identifier": "test-sfruz-13",
+      "title": "Mobilita sfruz dataset 13",
+      "short_description": "Dati su mobilita del comune di sfruz",
+      "description": "Dataset di test numero 13 riguardante mobilita per il comune di sfruz. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "mobilita",
+        "sfruz",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9e6da647574a2f754892fe1a437b3de63749bc2d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/sfruz-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}

@@ -1,0 +1,17 @@
+{
+  "id": "56c3cc4893c7f4af9d1b5711b158d037c67cc5d7",
+  "title": "Risorsa villalagarina 5",
+  "description": "Risorsa di test per villalagarina dataset 5",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/villalagarina-5.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/villalagarina-5.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "e19481efa9f3fdd888bc6b7a8a21e2a00fa835f3",
+  "title": "Risorsa segonzano 7",
+  "description": "Risorsa di test per segonzano dataset 7",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/segonzano-7.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/segonzano-7.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

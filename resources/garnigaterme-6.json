@@ -1,0 +1,17 @@
+{
+  "id": "4c7d5d53885f1001c01ad01e56b855494f9e1683",
+  "title": "Risorsa garnigaterme 6",
+  "description": "Risorsa di test per garnigaterme dataset 6",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/garnigaterme-6.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/garnigaterme-6.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

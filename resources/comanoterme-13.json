@@ -1,0 +1,17 @@
+{
+  "id": "2bf546e3e7014fa63d48547280c83e59c57b039b",
+  "title": "Risorsa comanoterme 13",
+  "description": "Risorsa di test per comanoterme dataset 13",
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/comanoterme-13.csv",
+  "download_url": {
+    "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/data/comanoterme-13.csv"
+  },
+  "format": [
+    "CSV"
+  ],
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "modified": "2026-04-17T00:00:00",
+  "resource_name": "TypedDistribution"
+}

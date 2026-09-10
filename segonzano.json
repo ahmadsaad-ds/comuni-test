@@ -1,0 +1,414 @@
+{
+  "items": [
+    {
+      "id": "a376386085aa24ca6ba034101188017a5003d3dd",
+      "identifier": "test-segonzano-0",
+      "title": "Energia segonzano dataset 0",
+      "short_description": "Dati su energia del comune di segonzano",
+      "description": "Dataset di test numero 0 riguardante energia per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "40af95576c63333bd7d5225c4519133525d241ef",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-0.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "64f205afb6c2c3e02d2f0575f82690ca6619f256",
+      "identifier": "test-segonzano-1",
+      "title": "Istruzione segonzano dataset 1",
+      "short_description": "Dati su istruzione del comune di segonzano",
+      "description": "Dataset di test numero 1 riguardante istruzione per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "a4f4eb07f1ffa4367120041aef75d2e20b1468e5",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-1.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "64c41bc69d625b0fddee8a9472188dfaabc7a830",
+      "identifier": "test-segonzano-2",
+      "title": "Sanita segonzano dataset 2",
+      "short_description": "Dati su sanita del comune di segonzano",
+      "description": "Dataset di test numero 2 riguardante sanita per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "413df8357d3bb2accb7793c5491984df79deb0a6",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-2.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c386d60f4e4253b415da00892d07e9250f04591d",
+      "identifier": "test-segonzano-3",
+      "title": "Cultura segonzano dataset 3",
+      "short_description": "Dati su cultura del comune di segonzano",
+      "description": "Dataset di test numero 3 riguardante cultura per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "cultura",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "8faf46979b2270b66a2da494d1ae0d1e51c9606a",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-3.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "e3787a4472e6c66bcb90068c83df7af00881edec",
+      "identifier": "test-segonzano-4",
+      "title": "Ambiente segonzano dataset 4",
+      "short_description": "Dati su ambiente del comune di segonzano",
+      "description": "Dataset di test numero 4 riguardante ambiente per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "511918b213c2e351980c1ccfafc1d0060686623d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-4.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "0b89bbe8c16231d4887cdb8665097a3fdce1c332",
+      "identifier": "test-segonzano-5",
+      "title": "Agricoltura segonzano dataset 5",
+      "short_description": "Dati su agricoltura del comune di segonzano",
+      "description": "Dataset di test numero 5 riguardante agricoltura per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "6137efcc5d9e511549f4207e6cd4a1c60d1e3dad",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-5.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2f99a4e02b454e81d0078850f77eeb8eaf628db4",
+      "identifier": "test-segonzano-6",
+      "title": "Ambiente segonzano dataset 6",
+      "short_description": "Dati su ambiente del comune di segonzano",
+      "description": "Dataset di test numero 6 riguardante ambiente per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "ambiente",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "64c4b5a3faa367dc249ec41970054c88c3fc5aab",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-6.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "8ac320c8233ec24cf88b5ba96ca80c79238e4086",
+      "identifier": "test-segonzano-7",
+      "title": "Agricoltura segonzano dataset 7",
+      "short_description": "Dati su agricoltura del comune di segonzano",
+      "description": "Dataset di test numero 7 riguardante agricoltura per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "agricoltura",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "cba191ab78ed6fcfd02bce93d1da4b79afa10eca",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-7.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "47c155ecac0c244256a0988f8557b14f097d4d82",
+      "identifier": "test-segonzano-8",
+      "title": "Energia segonzano dataset 8",
+      "short_description": "Dati su energia del comune di segonzano",
+      "description": "Dataset di test numero 8 riguardante energia per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "energia",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "d8e2d804fcdbc16372c370b25111c51da24a0c76",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-8.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "b1b5fcae7513a2a2cd45126c539e554536504083",
+      "identifier": "test-segonzano-9",
+      "title": "Sport segonzano dataset 9",
+      "short_description": "Dati su sport del comune di segonzano",
+      "description": "Dataset di test numero 9 riguardante sport per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sport",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "fd3a0ec297b53de03552fcf6fb1d202bdac55fca",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-9.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "2026f00586abed5ec4808151df2ff695b46abad0",
+      "identifier": "test-segonzano-10",
+      "title": "Istruzione segonzano dataset 10",
+      "short_description": "Dati su istruzione del comune di segonzano",
+      "description": "Dataset di test numero 10 riguardante istruzione per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "istruzione",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "780ada274920b2443a5cc6f0339e57d03198b8bd",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-10.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "c80f228b33ef28db1a2c7cafb21868349ad5e444",
+      "identifier": "test-segonzano-11",
+      "title": "Bilancio segonzano dataset 11",
+      "short_description": "Dati su bilancio del comune di segonzano",
+      "description": "Dataset di test numero 11 riguardante bilancio per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "624fc654751efb66e9dce678a1506e8c3b156902",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-11.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "d653e379468eb9f92c0ea2d34d640c4264975c9b",
+      "identifier": "test-segonzano-12",
+      "title": "Bilancio segonzano dataset 12",
+      "short_description": "Dati su bilancio del comune di segonzano",
+      "description": "Dataset di test numero 12 riguardante bilancio per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "bilancio",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "bbfa7244f93281836f91f648b77c04933028de60",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-12.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "a76fa8c80b7729cc5b78de8d7b178d72d9aea4f6",
+      "identifier": "test-segonzano-13",
+      "title": "Sanita segonzano dataset 13",
+      "short_description": "Dati su sanita del comune di segonzano",
+      "description": "Dataset di test numero 13 riguardante sanita per il comune di segonzano. Contenuto generato per test di carico harvesting.",
+      "language": [
+        "italiano"
+      ],
+      "modified": "2026-04-17",
+      "keyword": [
+        "sanita",
+        "segonzano",
+        "test",
+        "opendata"
+      ],
+      "theme": null,
+      "distribution": [
+        {
+          "id": "9979051bbd171a1aedf0c93f5666c766c18c2873",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/resources/segonzano-13.json",
+          "priority": 1
+        }
+      ],
+      "contact_point": null,
+      "publisher": null,
+      "creator": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 14
+}
