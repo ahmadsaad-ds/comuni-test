@@ -1,0 +1,881 @@
+{
+  "items": [
+    {
+      "id": "harvest-validation-test-A",
+      "uri": "https://www.provincia.tn.it/api/openapi/dati-e-statistiche/dataset/5543af8464581f93b4d63992385efe3c#Societa-sportive-che-aderiscono-al-progetto-Voucher-sportivo-2026",
+      "published_at": "2026-09-22T10:19:22+02:00",
+      "modified_at": "2026-09-23T12:24:39+02:00",
+      "is_public": true,
+      "title": "TEST A - OK  CC BY 4.0 + Italiano",
+      "abstract": "Elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto che permette alle famiglie di richiedere un contributo a sostegno dell'attività sportiva dei figli.",
+      "description": "<p>Il progetto “Voucher sportivo per le famiglie” ha l'obiettivo di sostenere le famiglie in difficoltà economica e le famiglie numerose (con 3 o più figli), in possesso di determinati requisiti e residenti nel territorio provinciale, nell'avvicinamento allo sport dei figli minorenni ed equiparati, attraverso un contributo alla frequenza.</p><p>Affinché le famiglie possano richiedere il sostegno economico, le società sportive devono aderire al progetto. Il dataset espone l'elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto nell'anno 2026.</p>",
+      "description_od": "",
+      "identifier": "harvest-validation-test-A",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-09-22",
+      "accrualperiodicity": [
+        "Non viene aggiornato (mai)"
+      ],
+      "modified": "2026-09-22",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureU439",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureU439#Ufficio-politiche-per-i-giovani-e-servizio-civile",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [],
+      "topics": [
+        {
+          "id": "societa",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/societa#Famiglia-sociale-e-comunita",
+          "priority": 1
+        },
+        {
+          "id": "766fd8c1ac024d72975aeb95387605dc",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/766fd8c1ac024d72975aeb95387605dc#Turismo-e-sport",
+          "priority": 2
+        }
+      ],
+      "theme": [
+        "Popolazione e società"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": {
+        "apiEnabled": false,
+        "extraUsers": null,
+        "itemName": "item",
+        "views": [
+          "table"
+        ],
+        "fields": [
+          {
+            "identifier": "associazione_sportiva",
+            "label": "Associazione sportiva",
+            "type": "string",
+            "required": "false",
+            "js_label": "Associazione sportiva"
+          },
+          {
+            "identifier": "cap",
+            "label": "CAP",
+            "type": "string",
+            "required": "false",
+            "js_label": "CAP"
+          },
+          {
+            "identifier": "sede_legale",
+            "label": "Sede legale",
+            "type": "string",
+            "required": "false",
+            "js_label": "Sede legale"
+          },
+          {
+            "identifier": "disciplina_1",
+            "label": "Disciplina 1",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 1"
+          },
+          {
+            "identifier": "disciplina_2",
+            "label": "Disciplina 2",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 2"
+          },
+          {
+            "identifier": "disciplina_3",
+            "label": "Disciplina 3",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 3"
+          },
+          {
+            "identifier": "disciplina_4",
+            "label": "Disciplina 4",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 4"
+          },
+          {
+            "identifier": "disciplina_5",
+            "label": "Disciplina 5",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 5"
+          },
+          {
+            "identifier": "disciplina_6",
+            "label": "Disciplina 6",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 6"
+          },
+          {
+            "identifier": "disciplina_7",
+            "label": "Disciplina 7",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 7"
+          },
+          {
+            "identifier": "discipline",
+            "label": "Discipline",
+            "type": "string",
+            "required": "false",
+            "js_label": "Discipline"
+          }
+        ],
+        "facetsSettings": [
+          "associazione_sportiva",
+          "sede_legale"
+        ],
+        "isEnabledSearchInput": true,
+        "calendarSettings": [],
+        "tableSettings": {
+          "show_fields": [
+            "associazione_sportiva",
+            "cap",
+            "discipline",
+            "sede_legale"
+          ],
+          "view": "default",
+          "order": "asc"
+        },
+        "chartSettings": null,
+        "counterSettings": {
+          "count_field": "false"
+        },
+        "openingView": "table"
+      },
+      "download_file": [],
+      "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQslntaTQLYjQnJnj8y9_swSaoPbLu-NVYlK8-cel-uJcGir97M3rr7sQ7hQSFK5pAcu9NOG9E5TJlM/pub?gid=0&single=true&output=csv|Elenco società 2026",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "harvest-validation-test-B",
+      "uri": "https://www.provincia.tn.it/api/openapi/dati-e-statistiche/dataset/5543af8464581f93b4d63992385efe3c#Societa-sportive-che-aderiscono-al-progetto-Voucher-sportivo-2026",
+      "published_at": "2026-09-22T10:19:22+02:00",
+      "modified_at": "2026-09-23T12:24:39+02:00",
+      "is_public": true,
+      "title": "TEST B - OK  CC0 + Deutsch",
+      "abstract": "Elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto che permette alle famiglie di richiedere un contributo a sostegno dell'attività sportiva dei figli.",
+      "description": "<p>Il progetto “Voucher sportivo per le famiglie” ha l'obiettivo di sostenere le famiglie in difficoltà economica e le famiglie numerose (con 3 o più figli), in possesso di determinati requisiti e residenti nel territorio provinciale, nell'avvicinamento allo sport dei figli minorenni ed equiparati, attraverso un contributo alla frequenza.</p><p>Affinché le famiglie possano richiedere il sostegno economico, le società sportive devono aderire al progetto. Il dataset espone l'elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto nell'anno 2026.</p>",
+      "description_od": "",
+      "identifier": "harvest-validation-test-B",
+      "conforms_to": [],
+      "language": [
+        "Deutsch"
+      ],
+      "version_info": "",
+      "issued": "2026-09-22",
+      "accrualperiodicity": [
+        "Non viene aggiornato (mai)"
+      ],
+      "modified": "2026-09-22",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureU439",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureU439#Ufficio-politiche-per-i-giovani-e-servizio-civile",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [],
+      "topics": [
+        {
+          "id": "societa",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/societa#Famiglia-sociale-e-comunita",
+          "priority": 1
+        },
+        {
+          "id": "766fd8c1ac024d72975aeb95387605dc",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/766fd8c1ac024d72975aeb95387605dc#Turismo-e-sport",
+          "priority": 2
+        }
+      ],
+      "theme": [
+        "Popolazione e società"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": {
+        "apiEnabled": false,
+        "extraUsers": null,
+        "itemName": "item",
+        "views": [
+          "table"
+        ],
+        "fields": [
+          {
+            "identifier": "associazione_sportiva",
+            "label": "Associazione sportiva",
+            "type": "string",
+            "required": "false",
+            "js_label": "Associazione sportiva"
+          },
+          {
+            "identifier": "cap",
+            "label": "CAP",
+            "type": "string",
+            "required": "false",
+            "js_label": "CAP"
+          },
+          {
+            "identifier": "sede_legale",
+            "label": "Sede legale",
+            "type": "string",
+            "required": "false",
+            "js_label": "Sede legale"
+          },
+          {
+            "identifier": "disciplina_1",
+            "label": "Disciplina 1",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 1"
+          },
+          {
+            "identifier": "disciplina_2",
+            "label": "Disciplina 2",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 2"
+          },
+          {
+            "identifier": "disciplina_3",
+            "label": "Disciplina 3",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 3"
+          },
+          {
+            "identifier": "disciplina_4",
+            "label": "Disciplina 4",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 4"
+          },
+          {
+            "identifier": "disciplina_5",
+            "label": "Disciplina 5",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 5"
+          },
+          {
+            "identifier": "disciplina_6",
+            "label": "Disciplina 6",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 6"
+          },
+          {
+            "identifier": "disciplina_7",
+            "label": "Disciplina 7",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 7"
+          },
+          {
+            "identifier": "discipline",
+            "label": "Discipline",
+            "type": "string",
+            "required": "false",
+            "js_label": "Discipline"
+          }
+        ],
+        "facetsSettings": [
+          "associazione_sportiva",
+          "sede_legale"
+        ],
+        "isEnabledSearchInput": true,
+        "calendarSettings": [],
+        "tableSettings": {
+          "show_fields": [
+            "associazione_sportiva",
+            "cap",
+            "discipline",
+            "sede_legale"
+          ],
+          "view": "default",
+          "order": "asc"
+        },
+        "chartSettings": null,
+        "counterSettings": {
+          "count_field": "false"
+        },
+        "openingView": "table"
+      },
+      "download_file": [],
+      "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQslntaTQLYjQnJnj8y9_swSaoPbLu-NVYlK8-cel-uJcGir97M3rr7sQ7hQSFK5pAcu9NOG9E5TJlM/pub?gid=0&single=true&output=csv|Elenco società 2026",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons CC0 1.0 Universal - Public Domain Dedication (CC0 1.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "harvest-validation-test-C",
+      "uri": "https://www.provincia.tn.it/api/openapi/dati-e-statistiche/dataset/5543af8464581f93b4d63992385efe3c#Societa-sportive-che-aderiscono-al-progetto-Voucher-sportivo-2026",
+      "published_at": "2026-09-22T10:19:22+02:00",
+      "modified_at": "2026-09-23T12:24:39+02:00",
+      "is_public": true,
+      "title": "TEST C - REJECT licence CC BY-SA 4.0",
+      "abstract": "Elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto che permette alle famiglie di richiedere un contributo a sostegno dell'attività sportiva dei figli.",
+      "description": "<p>Il progetto “Voucher sportivo per le famiglie” ha l'obiettivo di sostenere le famiglie in difficoltà economica e le famiglie numerose (con 3 o più figli), in possesso di determinati requisiti e residenti nel territorio provinciale, nell'avvicinamento allo sport dei figli minorenni ed equiparati, attraverso un contributo alla frequenza.</p><p>Affinché le famiglie possano richiedere il sostegno economico, le società sportive devono aderire al progetto. Il dataset espone l'elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto nell'anno 2026.</p>",
+      "description_od": "",
+      "identifier": "harvest-validation-test-C",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-09-22",
+      "accrualperiodicity": [
+        "Non viene aggiornato (mai)"
+      ],
+      "modified": "2026-09-22",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureU439",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureU439#Ufficio-politiche-per-i-giovani-e-servizio-civile",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [],
+      "topics": [
+        {
+          "id": "societa",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/societa#Famiglia-sociale-e-comunita",
+          "priority": 1
+        },
+        {
+          "id": "766fd8c1ac024d72975aeb95387605dc",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/766fd8c1ac024d72975aeb95387605dc#Turismo-e-sport",
+          "priority": 2
+        }
+      ],
+      "theme": [
+        "Popolazione e società"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": {
+        "apiEnabled": false,
+        "extraUsers": null,
+        "itemName": "item",
+        "views": [
+          "table"
+        ],
+        "fields": [
+          {
+            "identifier": "associazione_sportiva",
+            "label": "Associazione sportiva",
+            "type": "string",
+            "required": "false",
+            "js_label": "Associazione sportiva"
+          },
+          {
+            "identifier": "cap",
+            "label": "CAP",
+            "type": "string",
+            "required": "false",
+            "js_label": "CAP"
+          },
+          {
+            "identifier": "sede_legale",
+            "label": "Sede legale",
+            "type": "string",
+            "required": "false",
+            "js_label": "Sede legale"
+          },
+          {
+            "identifier": "disciplina_1",
+            "label": "Disciplina 1",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 1"
+          },
+          {
+            "identifier": "disciplina_2",
+            "label": "Disciplina 2",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 2"
+          },
+          {
+            "identifier": "disciplina_3",
+            "label": "Disciplina 3",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 3"
+          },
+          {
+            "identifier": "disciplina_4",
+            "label": "Disciplina 4",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 4"
+          },
+          {
+            "identifier": "disciplina_5",
+            "label": "Disciplina 5",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 5"
+          },
+          {
+            "identifier": "disciplina_6",
+            "label": "Disciplina 6",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 6"
+          },
+          {
+            "identifier": "disciplina_7",
+            "label": "Disciplina 7",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 7"
+          },
+          {
+            "identifier": "discipline",
+            "label": "Discipline",
+            "type": "string",
+            "required": "false",
+            "js_label": "Discipline"
+          }
+        ],
+        "facetsSettings": [
+          "associazione_sportiva",
+          "sede_legale"
+        ],
+        "isEnabledSearchInput": true,
+        "calendarSettings": [],
+        "tableSettings": {
+          "show_fields": [
+            "associazione_sportiva",
+            "cap",
+            "discipline",
+            "sede_legale"
+          ],
+          "view": "default",
+          "order": "asc"
+        },
+        "chartSettings": null,
+        "counterSettings": {
+          "count_field": "false"
+        },
+        "openingView": "table"
+      },
+      "download_file": [],
+      "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQslntaTQLYjQnJnj8y9_swSaoPbLu-NVYlK8-cel-uJcGir97M3rr7sQ7hQSFK5pAcu9NOG9E5TJlM/pub?gid=0&single=true&output=csv|Elenco società 2026",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "harvest-validation-test-D",
+      "uri": "https://www.provincia.tn.it/api/openapi/dati-e-statistiche/dataset/5543af8464581f93b4d63992385efe3c#Societa-sportive-che-aderiscono-al-progetto-Voucher-sportivo-2026",
+      "published_at": "2026-09-22T10:19:22+02:00",
+      "modified_at": "2026-09-23T12:24:39+02:00",
+      "is_public": true,
+      "title": "TEST D - REJECT no licence",
+      "abstract": "Elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto che permette alle famiglie di richiedere un contributo a sostegno dell'attività sportiva dei figli.",
+      "description": "<p>Il progetto “Voucher sportivo per le famiglie” ha l'obiettivo di sostenere le famiglie in difficoltà economica e le famiglie numerose (con 3 o più figli), in possesso di determinati requisiti e residenti nel territorio provinciale, nell'avvicinamento allo sport dei figli minorenni ed equiparati, attraverso un contributo alla frequenza.</p><p>Affinché le famiglie possano richiedere il sostegno economico, le società sportive devono aderire al progetto. Il dataset espone l'elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto nell'anno 2026.</p>",
+      "description_od": "",
+      "identifier": "harvest-validation-test-D",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-09-22",
+      "accrualperiodicity": [
+        "Non viene aggiornato (mai)"
+      ],
+      "modified": "2026-09-22",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureU439",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureU439#Ufficio-politiche-per-i-giovani-e-servizio-civile",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [],
+      "topics": [
+        {
+          "id": "societa",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/societa#Famiglia-sociale-e-comunita",
+          "priority": 1
+        },
+        {
+          "id": "766fd8c1ac024d72975aeb95387605dc",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/766fd8c1ac024d72975aeb95387605dc#Turismo-e-sport",
+          "priority": 2
+        }
+      ],
+      "theme": [
+        "Popolazione e società"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": {
+        "apiEnabled": false,
+        "extraUsers": null,
+        "itemName": "item",
+        "views": [
+          "table"
+        ],
+        "fields": [
+          {
+            "identifier": "associazione_sportiva",
+            "label": "Associazione sportiva",
+            "type": "string",
+            "required": "false",
+            "js_label": "Associazione sportiva"
+          },
+          {
+            "identifier": "cap",
+            "label": "CAP",
+            "type": "string",
+            "required": "false",
+            "js_label": "CAP"
+          },
+          {
+            "identifier": "sede_legale",
+            "label": "Sede legale",
+            "type": "string",
+            "required": "false",
+            "js_label": "Sede legale"
+          },
+          {
+            "identifier": "disciplina_1",
+            "label": "Disciplina 1",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 1"
+          },
+          {
+            "identifier": "disciplina_2",
+            "label": "Disciplina 2",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 2"
+          },
+          {
+            "identifier": "disciplina_3",
+            "label": "Disciplina 3",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 3"
+          },
+          {
+            "identifier": "disciplina_4",
+            "label": "Disciplina 4",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 4"
+          },
+          {
+            "identifier": "disciplina_5",
+            "label": "Disciplina 5",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 5"
+          },
+          {
+            "identifier": "disciplina_6",
+            "label": "Disciplina 6",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 6"
+          },
+          {
+            "identifier": "disciplina_7",
+            "label": "Disciplina 7",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 7"
+          },
+          {
+            "identifier": "discipline",
+            "label": "Discipline",
+            "type": "string",
+            "required": "false",
+            "js_label": "Discipline"
+          }
+        ],
+        "facetsSettings": [
+          "associazione_sportiva",
+          "sede_legale"
+        ],
+        "isEnabledSearchInput": true,
+        "calendarSettings": [],
+        "tableSettings": {
+          "show_fields": [
+            "associazione_sportiva",
+            "cap",
+            "discipline",
+            "sede_legale"
+          ],
+          "view": "default",
+          "order": "asc"
+        },
+        "chartSettings": null,
+        "counterSettings": {
+          "count_field": "false"
+        },
+        "openingView": "table"
+      },
+      "download_file": [],
+      "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQslntaTQLYjQnJnj8y9_swSaoPbLu-NVYlK8-cel-uJcGir97M3rr7sQ7hQSFK5pAcu9NOG9E5TJlM/pub?gid=0&single=true&output=csv|Elenco società 2026",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [],
+      "temporal": [],
+      "resource_name": "TypedDataset"
+    },
+    {
+      "id": "harvest-validation-test-E",
+      "uri": "https://www.provincia.tn.it/api/openapi/dati-e-statistiche/dataset/5543af8464581f93b4d63992385efe3c#Societa-sportive-che-aderiscono-al-progetto-Voucher-sportivo-2026",
+      "published_at": "2026-09-22T10:19:22+02:00",
+      "modified_at": "2026-09-23T12:24:39+02:00",
+      "is_public": true,
+      "title": "TEST E - REJECT language Francais",
+      "abstract": "Elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto che permette alle famiglie di richiedere un contributo a sostegno dell'attività sportiva dei figli.",
+      "description": "<p>Il progetto “Voucher sportivo per le famiglie” ha l'obiettivo di sostenere le famiglie in difficoltà economica e le famiglie numerose (con 3 o più figli), in possesso di determinati requisiti e residenti nel territorio provinciale, nell'avvicinamento allo sport dei figli minorenni ed equiparati, attraverso un contributo alla frequenza.</p><p>Affinché le famiglie possano richiedere il sostegno economico, le società sportive devono aderire al progetto. Il dataset espone l'elenco delle società sportive della Provincia autonoma di Trento che hanno aderito al progetto nell'anno 2026.</p>",
+      "description_od": "",
+      "identifier": "harvest-validation-test-E",
+      "conforms_to": [],
+      "language": [
+        "Français"
+      ],
+      "version_info": "",
+      "issued": "2026-09-22",
+      "accrualperiodicity": [
+        "Non viene aggiornato (mai)"
+      ],
+      "modified": "2026-09-22",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureU439",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureU439#Ufficio-politiche-per-i-giovani-e-servizio-civile",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [],
+      "topics": [
+        {
+          "id": "societa",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/societa#Famiglia-sociale-e-comunita",
+          "priority": 1
+        },
+        {
+          "id": "766fd8c1ac024d72975aeb95387605dc",
+          "uri": "https://www.provincia.tn.it/api/openapi/argomenti/766fd8c1ac024d72975aeb95387605dc#Turismo-e-sport",
+          "priority": 2
+        }
+      ],
+      "theme": [
+        "Popolazione e società"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": {
+        "apiEnabled": false,
+        "extraUsers": null,
+        "itemName": "item",
+        "views": [
+          "table"
+        ],
+        "fields": [
+          {
+            "identifier": "associazione_sportiva",
+            "label": "Associazione sportiva",
+            "type": "string",
+            "required": "false",
+            "js_label": "Associazione sportiva"
+          },
+          {
+            "identifier": "cap",
+            "label": "CAP",
+            "type": "string",
+            "required": "false",
+            "js_label": "CAP"
+          },
+          {
+            "identifier": "sede_legale",
+            "label": "Sede legale",
+            "type": "string",
+            "required": "false",
+            "js_label": "Sede legale"
+          },
+          {
+            "identifier": "disciplina_1",
+            "label": "Disciplina 1",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 1"
+          },
+          {
+            "identifier": "disciplina_2",
+            "label": "Disciplina 2",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 2"
+          },
+          {
+            "identifier": "disciplina_3",
+            "label": "Disciplina 3",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 3"
+          },
+          {
+            "identifier": "disciplina_4",
+            "label": "Disciplina 4",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 4"
+          },
+          {
+            "identifier": "disciplina_5",
+            "label": "Disciplina 5",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 5"
+          },
+          {
+            "identifier": "disciplina_6",
+            "label": "Disciplina 6",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 6"
+          },
+          {
+            "identifier": "disciplina_7",
+            "label": "Disciplina 7",
+            "type": "string",
+            "required": "false",
+            "js_label": "Disciplina 7"
+          },
+          {
+            "identifier": "discipline",
+            "label": "Discipline",
+            "type": "string",
+            "required": "false",
+            "js_label": "Discipline"
+          }
+        ],
+        "facetsSettings": [
+          "associazione_sportiva",
+          "sede_legale"
+        ],
+        "isEnabledSearchInput": true,
+        "calendarSettings": [],
+        "tableSettings": {
+          "show_fields": [
+            "associazione_sportiva",
+            "cap",
+            "discipline",
+            "sede_legale"
+          ],
+          "view": "default",
+          "order": "asc"
+        },
+        "chartSettings": null,
+        "counterSettings": {
+          "count_field": "false"
+        },
+        "openingView": "table"
+      },
+      "download_file": [],
+      "download_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQslntaTQLYjQnJnj8y9_swSaoPbLu-NVYlK8-cel-uJcGir97M3rr7sQ7hQSFK5pAcu9NOG9E5TJlM/pub?gid=0&single=true&output=csv|Elenco società 2026",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 5
+}
