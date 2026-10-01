@@ -1,0 +1,11 @@
+{"items": [
+  {"id": "rt-1", "catalogo_od": true, "is_public": true, "title": "RT1 download_url e resources",
+   "language": ["italiano"], "license": ["Creative Commons Attribution 4.0 International (CC BY 4.0)"],
+   "download_url": "https://example.org/a.csv|File principale", "format": ["CSV"],
+   "resources": [{"title": "Extra", "url_download": "https://example.org/b.csv", "format": ["CSV"]}]},
+  {"id": "rt-2", "catalogo_od": true, "is_public": true, "title": "RT2 solo resources",
+   "language": ["italiano"], "license": ["Creative Commons Attribution 4.0 International (CC BY 4.0)"],
+   "resources": [{"title": "Extra", "url_download": "https://example.org/c.csv", "format": ["CSV"]}]},
+  {"id": "rt-3", "catalogo_od": true, "is_public": true, "title": "RT3 nessun file",
+   "language": ["italiano"], "license": ["Creative Commons Attribution 4.0 International (CC BY 4.0)"]}
+], "next": null}
