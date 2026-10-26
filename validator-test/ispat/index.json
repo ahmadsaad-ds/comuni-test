@@ -1,0 +1,79 @@
+{
+  "IndicatoriStrutturali": [
+    {
+      "id": "vt01",
+      "Descrizione": "VT ISPAT 01-ok-json-csv",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt01.json"
+    },
+    {
+      "id": "vt02",
+      "Descrizione": "VT ISPAT 02-ok-cc0-mensile",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt02.json"
+    },
+    {
+      "id": "vt03",
+      "Descrizione": "VT ISPAT 03-ok-frequency-code",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt03.json"
+    },
+    {
+      "id": "vt04",
+      "Descrizione": "VT ISPAT 04-ok-json-only",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt04.json"
+    },
+    {
+      "id": "vt05",
+      "Descrizione": "VT ISPAT 05-ok-numeratore",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt05.json"
+    },
+    {
+      "id": "vt06",
+      "Descrizione": "VT ISPAT 06-licence-wrong",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt06.json"
+    },
+    {
+      "id": "vt07",
+      "Descrizione": "VT ISPAT 07-licence-missing",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt07.json"
+    },
+    {
+      "id": "vt08",
+      "Descrizione": "VT ISPAT 08-licence-long-label",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt08.json"
+    },
+    {
+      "id": "vt09",
+      "Descrizione": "VT ISPAT 09-frequency-missing",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt09.json"
+    },
+    {
+      "id": "vt10",
+      "Descrizione": "VT ISPAT 10-frequency-wrong",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt10.json"
+    },
+    {
+      "id": "vt11",
+      "Descrizione": "VT ISPAT 11-indicator-json-404",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt11.json"
+    },
+    {
+      "id": "vt12",
+      "Descrizione": "VT ISPAT 12-csv-404",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt12.json"
+    },
+    {
+      "id": "vt13",
+      "Descrizione": "VT ISPAT 13-csv-unknown-text-plain",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt13.json"
+    },
+    {
+      "id": "vt14",
+      "Descrizione": "VT ISPAT 14-real-statweb-links",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/vt14.json"
+    },
+    {
+      "id": "vt15",
+      "Descrizione": "VT ISPAT 15-metadata-404",
+      "URL": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/ispat/metadata/missing-vt15.json"
+    }
+  ]
+}

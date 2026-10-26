@@ -1,0 +1,25 @@
+{
+  "IndicatoriStrutturali": [
+    {
+      "Descrizione": "VT ISPAT 14-real-statweb-links",
+      "Area": "",
+      "Settore": "Famiglia e comportamenti sociali",
+      "Algoritmo": "Indicatore di prova per i validatori dell'harvester",
+      "AnnoInizio": "2011",
+      "AnnoFine": "2025",
+      "FreqAggiornamento": "Annuale",
+      "UltimoAggiornamento": "26/10/2026",
+      "Fenomeno": "Stock",
+      "LivelloGeografico": "Provincia",
+      "ConfrontiTerritoriali": "Trentino. Italia",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 14-real-statweb-links. Esito atteso: rejected - REAL statweb links of indicator 597: JSON is served as text/html (-> HTML), CSV as text/plain (-> unknown): rejected, as every real ISPAT dataset with a CSV",
+      "Licenza": "CC BY 4.0",
+      "Tema": "GOVE",
+      "NsoggDiffonPro": "ISPAT",
+      "NsoggDiffonNaz": "",
+      "NsoggDiffonInt": "",
+      "Indicatore": "https://statweb.provincia.tn.it/indicatoristrutturali/exp.aspx?fmt=json&idind=597&t=i",
+      "IndicatoreCSV": "https://statweb.provincia.tn.it/indicatoristrutturali/exp.aspx?fmt=csv&idind=597&t=i"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "IndicatoriStrutturali": [
+    {
+      "Descrizione": "VT ISPAT 05-ok-numeratore",
+      "Area": "",
+      "Settore": "Famiglia e comportamenti sociali",
+      "Algoritmo": "Indicatore di prova per i validatori dell'harvester",
+      "AnnoInizio": "2011",
+      "AnnoFine": "2025",
+      "FreqAggiornamento": "Annuale",
+      "UltimoAggiornamento": "26/10/2026",
+      "Fenomeno": "Stock",
+      "LivelloGeografico": "Provincia",
+      "ConfrontiTerritoriali": "Trentino. Italia",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 05-ok-numeratore. Esito atteso: imported - Indicatore + TabNumeratore, each with CSV twin: 4 resources",
+      "Licenza": "CC BY 4.0",
+      "Tema": "GOVE",
+      "NsoggDiffonPro": "ISPAT",
+      "NsoggDiffonNaz": "",
+      "NsoggDiffonInt": "",
+      "Indicatore": "https://dati.trentino.it/api/3/action/status_show",
+      "IndicatoreCSV": "https://www.comune.mori.tn.it/exportas/csv/place",
+      "TabNumeratore": "https://dati.trentino.it/api/3/action/status_show",
+      "TabNumeratoreCSV": "https://www.comune.mori.tn.it/exportas/csv/organization"
+    }
+  ]
+}

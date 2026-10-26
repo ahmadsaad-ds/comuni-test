@@ -1,0 +1,25 @@
+{
+  "IndicatoriStrutturali": [
+    {
+      "Descrizione": "VT ISPAT 12-csv-404",
+      "Area": "",
+      "Settore": "Famiglia e comportamenti sociali",
+      "Algoritmo": "Indicatore di prova per i validatori dell'harvester",
+      "AnnoInizio": "2011",
+      "AnnoFine": "2025",
+      "FreqAggiornamento": "Annuale",
+      "UltimoAggiornamento": "26/10/2026",
+      "Fenomeno": "Stock",
+      "LivelloGeografico": "Provincia",
+      "ConfrontiTerritoriali": "Trentino. Italia",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 12-csv-404. Esito atteso: rejected - CSV twin could not be downloaded (404)",
+      "Licenza": "CC BY 4.0",
+      "Tema": "GOVE",
+      "NsoggDiffonPro": "ISPAT",
+      "NsoggDiffonNaz": "",
+      "NsoggDiffonInt": "",
+      "Indicatore": "https://dati.trentino.it/api/3/action/status_show",
+      "IndicatoreCSV": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/does-not-exist.csv"
+    }
+  ]
+}

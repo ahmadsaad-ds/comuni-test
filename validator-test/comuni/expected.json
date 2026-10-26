@@ -1,0 +1,268 @@
+{
+  "f0e0ecf6b869768b7dd080ab42916f04": {
+    "case": "01-ok-json-csv",
+    "outcome": "imported",
+    "detail": "baseline, like the real Mori records (JSON + CSV)",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "4cd2414c25f60ca4394fb8d2beff4c1c": {
+    "case": "02-ok-cc0-deutsch-freq-code",
+    "outcome": "imported",
+    "detail": "CC0, deutsch, frequency given as EU code",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "DEU",
+      "license_id": "cc-zero"
+    }
+  },
+  "c7fba5f61bc15e2411b1b6f8b029744b": {
+    "case": "03-ok-english-update-cont",
+    "outcome": "imported",
+    "detail": "english, 'In continuo aggiornamento'",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "UPDATE_CONT",
+      "language": "ENG",
+      "license_id": "cc-by"
+    }
+  },
+  "5f5408c1b4b9cdcfbb599e99723b1d7d": {
+    "case": "04-ok-download-url-only",
+    "outcome": "imported",
+    "detail": "single resource from download_url 'url|name'",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "n_resources": 1,
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "5b7a4a56e54de116231bf86d7041d101": {
+    "case": "05-ok-frequency-mai",
+    "outcome": "imported",
+    "detail": "'mai' = NEVER",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "NEVER",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "17c09ee403b65814c59d8ccf1e44977c": {
+    "case": "06-ok-formats-swapped",
+    "outcome": "imported",
+    "detail": "declared formats swapped (as on a real Mori record): real formats win",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "946bc7b11e16033c89278cc1fb05f8d8": {
+    "case": "07-ok-web-page",
+    "outcome": "imported",
+    "detail": "web page link: accepted as HTML",
+    "checks": {
+      "formats": [
+        "HTML"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "f2a891429d7361c090e458c97bb98963": {
+    "case": "08-ok-google-sheet-range-suffix",
+    "outcome": "imported",
+    "detail": "OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML",
+    "checks": {
+      "formats": [
+        "HTML"
+      ],
+      "urls": [
+        "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "abe6b15b195a6db670740fb093304af1": {
+    "case": "09-ok-domain-without-scheme",
+    "outcome": "imported",
+    "detail": "link 'www.comune...' without https://: scheme added",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "urls": [
+        "https://www.comune.mori.tn.it/exportas/csv/place"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "9d505abe1fd5765fcc168346036f5a32": {
+    "case": "10-ok-identifier-empty",
+    "outcome": "imported",
+    "detail": "no identifier: built as <IPA of the source organisation>_<guid>",
+    "checks": {
+      "identifier": "{ipa}_{guid}",
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "a83bc6282218ca57f7e29cf937c01888": {
+    "case": "11-ok-language-missing",
+    "outcome": "imported",
+    "detail": "no language: OP_DATPRO (not declared), accepted",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "OP_DATPRO",
+      "license_id": "cc-by"
+    }
+  },
+  "660ab4a265698b05b5a4986345a5a017": {
+    "case": "12-ok-catalogo-od-true",
+    "outcome": "imported",
+    "detail": "catalogo_od true (baseline has no catalogo_od, like Mori)",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "46dac348a1e7eb642e4e4f8d7963da30": {
+    "case": "13-skip-catalogo-od-false",
+    "outcome": "skipped",
+    "detail": "catalogo_od false: not queued in gather_stage"
+  },
+  "fe6d87908cc1650e960395b009a5b580": {
+    "case": "14-skip-not-public",
+    "outcome": "skipped",
+    "detail": "is_public false: not queued (imported only with \"include_private\": true in the source config)"
+  },
+  "e7714b5449a5b9f847f4a3f6b851654a": {
+    "case": "15-licence-wrong",
+    "outcome": "rejected",
+    "detail": "licence 'GPL 3.0' not accepted (dataset and resources)",
+    "stage": "import"
+  },
+  "e91dc3fe1aa22667ed8d3e649dc2cca5": {
+    "case": "16-licence-missing",
+    "outcome": "rejected",
+    "detail": "licence missing (dataset and resources)",
+    "stage": "import"
+  },
+  "3dfd3b57ab5d40a4213cac35f3cebb01": {
+    "case": "17-licence-short-label",
+    "outcome": "rejected",
+    "detail": "'CC BY 4.0': dataset licence recognised, resource licence not (no exact dcatapit label)",
+    "stage": "import"
+  },
+  "5face1f9aa3cc1397f814b37de2f7851": {
+    "case": "18-language-wrong",
+    "outcome": "rejected",
+    "detail": "language 'francais' not accepted",
+    "stage": "import"
+  },
+  "a1c382e8b0b8838806143fc8f7e939d9": {
+    "case": "19-frequency-missing",
+    "outcome": "rejected",
+    "detail": "frequency missing",
+    "stage": "import"
+  },
+  "f3fd61a7a76f19ca12c6f6d4a5917993": {
+    "case": "20-frequency-wrong",
+    "outcome": "rejected",
+    "detail": "frequency 'ogni tanto' not in the EU vocabulary",
+    "stage": "import"
+  },
+  "ca929a3c4f55dd80dcaa64aff3c359b5": {
+    "case": "21-frequency-pat-label",
+    "outcome": "rejected",
+    "detail": "frequency 'Non viene aggiornato (mai)' not in the EU vocabulary",
+    "stage": "import"
+  },
+  "3e9c78a737e91d2970cb50bf91a09ca1": {
+    "case": "22-no-resources",
+    "outcome": "rejected",
+    "detail": "no resource has a download URL",
+    "stage": "import"
+  },
+  "e44cabb6d0842c6db34986f8d4f97fd1": {
+    "case": "23-resource-without-url",
+    "outcome": "rejected",
+    "detail": "no resource has a download URL",
+    "stage": "import"
+  },
+  "5926aeaf6c93949cd626b7f6a783d24b": {
+    "case": "24-relative-link",
+    "outcome": "rejected",
+    "detail": "relative link joined to the SOURCE site (raw.githubusercontent.com here) -> 404",
+    "stage": "import"
+  },
+  "71b6120455da150cf65b5a6732b876b7": {
+    "case": "25-link-404",
+    "outcome": "rejected",
+    "detail": "file could not be downloaded (HTTP 404)",
+    "stage": "import"
+  },
+  "fc5f5785db5872fb94d890bfaafacf29": {
+    "case": "26-private-google-sheet",
+    "outcome": "rejected",
+    "detail": "file could not be downloaded (HTTP 401)",
+    "stage": "import"
+  },
+  "16ce0f09ad9f22605f8d106f02ee7082": {
+    "case": "27-format-unknown-text-plain",
+    "outcome": "rejected",
+    "detail": "format could not be determined (content type text/plain)",
+    "stage": "import"
+  },
+  "6f0b43687053052aae30a73abb65182d": {
+    "case": "28-one-good-one-broken-resource",
+    "outcome": "rejected",
+    "detail": "resource 2 could not be downloaded (404)",
+    "stage": "import"
+  }
+}

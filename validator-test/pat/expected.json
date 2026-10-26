@@ -1,0 +1,224 @@
+{
+  "7932402e89ecbcb5b9d6160e638353ea": {
+    "case": "01-ok-csv",
+    "outcome": "imported",
+    "detail": "baseline",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "distribution_formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "841a1cf1348ea333ac127e8c52c8acfa": {
+    "case": "02-ok-cc0-deutsch-freq-code",
+    "outcome": "imported",
+    "detail": "CC0, deutsch, frequency given as EU code",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "DEU",
+      "license_id": "cc-zero"
+    }
+  },
+  "dc5ef3d28682b96cd37e9701d7cc0306": {
+    "case": "03-ok-english-update-cont",
+    "outcome": "imported",
+    "detail": "english, 'In continuo aggiornamento'",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "UPDATE_CONT",
+      "language": "ENG",
+      "license_id": "cc-by"
+    }
+  },
+  "150197cd898ae3875ed0cb2cb2b90c7d": {
+    "case": "04-ok-frequency-mai",
+    "outcome": "imported",
+    "detail": "'mai' = NEVER",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "NEVER",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "b5672d150e1bf4b8e87fceb897781c2b": {
+    "case": "05-ok-google-sheet-range-suffix",
+    "outcome": "imported",
+    "detail": "sheet link with '\";\"range' suffix (real PAT shape): cleaned; format = declared CSV",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "urls": [
+        "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "30c6b517df1e49a805cce47561efa104": {
+    "case": "06-ok-language-missing",
+    "outcome": "imported",
+    "detail": "no language: OP_DATPRO (not declared), accepted",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "OP_DATPRO",
+      "license_id": "cc-by"
+    }
+  },
+  "d84997331656666b1eb44cd93eaea808": {
+    "case": "07-exempt-licence-wrong",
+    "outcome": "imported",
+    "detail": "licence NOT checked: 'GPL 3.0' -> license_id empty, resources default CC BY 4.0",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": null,
+      "license_types": [
+        "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"
+      ]
+    }
+  },
+  "95357c2e4f0ee5e92ce7eef2b805dbe9": {
+    "case": "08-exempt-licence-missing",
+    "outcome": "imported",
+    "detail": "licence NOT checked: missing -> license_id empty, resources default CC BY 4.0",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": null,
+      "license_types": [
+        "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"
+      ]
+    }
+  },
+  "b2d1b315075e103ebb939b5bba7acf95": {
+    "case": "09-exempt-format-wrong",
+    "outcome": "imported",
+    "detail": "format NOT checked: declared 'EXCEL' (not an EU code; note XYZ IS one) kept, distribution_format OP_DATPRO",
+    "checks": {
+      "formats": [
+        "EXCEL"
+      ],
+      "distribution_formats": [
+        "OP_DATPRO"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "9d94dcf7508ed69f9e8008c8a3d70207": {
+    "case": "10-exempt-format-missing",
+    "outcome": "imported",
+    "detail": "format NOT checked: no format -> distribution_format OP_DATPRO",
+    "checks": {
+      "distribution_formats": [
+        "OP_DATPRO"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "73ab6a4c711b0fa59714c71fb38dbeb2": {
+    "case": "11-exempt-link-404",
+    "outcome": "imported",
+    "detail": "file NOT downloaded: a 404 link is imported",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "d85f45aff7a01184e1f07c3a74c68270": {
+    "case": "12-exempt-web-page-declared-csv",
+    "outcome": "imported",
+    "detail": "file NOT downloaded: web page declared CSV keeps format CSV",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "9e5d3a086483961e42a4d99b8cface5c": {
+    "case": "13-language-wrong",
+    "outcome": "rejected",
+    "detail": "language 'francais' not accepted",
+    "stage": "import"
+  },
+  "f6bc433f56a4bc6ace8ac29a0e1de681": {
+    "case": "14-frequency-missing",
+    "outcome": "rejected",
+    "detail": "frequency missing (new EU frequency rule)",
+    "stage": "import"
+  },
+  "6a09b5e4a4def97e78b13ad2b3cc4b27": {
+    "case": "15-frequency-wrong",
+    "outcome": "rejected",
+    "detail": "frequency 'ogni tanto' not in the EU vocabulary",
+    "stage": "import"
+  },
+  "9dc3863baef47f4b15b596880ab334a2": {
+    "case": "16-frequency-pat-label",
+    "outcome": "rejected",
+    "detail": "frequency 'Non viene aggiornato (mai)' (used by a real PAT dataset) not in the EU vocabulary",
+    "stage": "import"
+  },
+  "d4d0ad3183edae0e9e34510f443c8d78": {
+    "case": "17-skip-catalogo-od-false",
+    "outcome": "skipped",
+    "detail": "catalogo_od false: not queued"
+  },
+  "5d4d6ce2259c340d8761c4bd4239a22c": {
+    "case": "18-skip-not-public",
+    "outcome": "skipped",
+    "detail": "is_public false: not queued"
+  },
+  "c49a56a73d2e8f3ea3ebabc5ebf2ba80": {
+    "case": "19-skip-catalogo-od-missing",
+    "outcome": "skipped",
+    "detail": "no catalogo_od: not queued (PAT needs it true)"
+  },
+  "7a371564d6314cbbca9c045e2d208a29": {
+    "case": "20-no-resources",
+    "outcome": "rejected",
+    "detail": "no resource has a download URL",
+    "stage": "import"
+  },
+  "f0bebbc378bac99f8477f316f3ee61c7": {
+    "case": "21-resource-without-url",
+    "outcome": "rejected",
+    "detail": "no resource has a download URL",
+    "stage": "import"
+  }
+}

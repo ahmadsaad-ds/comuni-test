@@ -1,0 +1,25 @@
+{
+  "is_public": true,
+  "short_description": "",
+  "description_oc": "",
+  "download_url": null,
+  "access_url": "https://www.comune.mori.tn.it/exportas/csv/place|File CSV",
+  "topics": [],
+  "modified": "2026-10-26T00:00:00",
+  "license": [],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "resource_name": "TypedDistribution",
+  "id": "291915bf15425a1e34a0821c6591a320",
+  "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/15-resource-licence-missing-1.json",
+  "published_at": "2026-10-26T09:00:00+02:00",
+  "modified_at": "2026-10-26T09:00:00+02:00",
+  "title": "Risorsa 1 di 15-resource-licence-missing",
+  "description": "<p>Risorsa di prova</p>"
+}

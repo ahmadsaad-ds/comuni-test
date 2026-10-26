@@ -1,0 +1,135 @@
+{
+  "statistica:vt01": {
+    "case": "01-ok-json-csv",
+    "outcome": "imported",
+    "detail": "baseline: JSON + CSV twin",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "ANNUAL",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "statistica:vt02": {
+    "case": "02-ok-cc0-mensile",
+    "outcome": "imported",
+    "detail": "CC0 1.0, 'Mensile'",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-zero"
+    }
+  },
+  "statistica:vt03": {
+    "case": "03-ok-frequency-code",
+    "outcome": "imported",
+    "detail": "frequency given as EU code",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "ANNUAL",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "statistica:vt04": {
+    "case": "04-ok-json-only",
+    "outcome": "imported",
+    "detail": "no CSV twin: one resource",
+    "checks": {
+      "formats": [
+        "JSON"
+      ],
+      "n_resources": 1,
+      "frequency": "ANNUAL",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "statistica:vt05": {
+    "case": "05-ok-numeratore",
+    "outcome": "imported",
+    "detail": "Indicatore + TabNumeratore, each with CSV twin: 4 resources",
+    "checks": {
+      "formats": [
+        "JSON",
+        "CSV",
+        "JSON",
+        "CSV"
+      ],
+      "n_resources": 4,
+      "frequency": "ANNUAL",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "statistica:vt06": {
+    "case": "06-licence-wrong",
+    "outcome": "rejected",
+    "detail": "licence 'IODL 2.0' not accepted",
+    "stage": "import"
+  },
+  "statistica:vt07": {
+    "case": "07-licence-missing",
+    "outcome": "rejected",
+    "detail": "licence missing",
+    "stage": "import"
+  },
+  "statistica:vt08": {
+    "case": "08-licence-long-label",
+    "outcome": "rejected",
+    "detail": "full label 'Creative Commons Attribution 4.0 International (CC BY 4.0)': dataset licence recognised, resource licence not (ISPAT matches only the short label)",
+    "stage": "import"
+  },
+  "statistica:vt09": {
+    "case": "09-frequency-missing",
+    "outcome": "rejected",
+    "detail": "frequency missing",
+    "stage": "import"
+  },
+  "statistica:vt10": {
+    "case": "10-frequency-wrong",
+    "outcome": "rejected",
+    "detail": "frequency 'ogni tanto' not in the EU vocabulary",
+    "stage": "import"
+  },
+  "statistica:vt11": {
+    "case": "11-indicator-json-404",
+    "outcome": "rejected",
+    "detail": "JSON resource not downloadable: it and its CSV twin are skipped -> no resource has a download URL",
+    "stage": "import"
+  },
+  "statistica:vt12": {
+    "case": "12-csv-404",
+    "outcome": "rejected",
+    "detail": "CSV twin could not be downloaded (404)",
+    "stage": "import"
+  },
+  "statistica:vt13": {
+    "case": "13-csv-unknown-text-plain",
+    "outcome": "rejected",
+    "detail": "CSV twin served as text/plain: format could not be determined",
+    "stage": "import"
+  },
+  "statistica:vt14": {
+    "case": "14-real-statweb-links",
+    "outcome": "rejected",
+    "detail": "REAL statweb links of indicator 597: JSON is served as text/html (-> HTML), CSV as text/plain (-> unknown): rejected, as every real ISPAT dataset with a CSV",
+    "stage": "import"
+  },
+  "statistica:vt15": {
+    "case": "15-metadata-404",
+    "outcome": "rejected",
+    "detail": "indicator metadata URL not found",
+    "stage": "fetch"
+  }
+}

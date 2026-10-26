@@ -1,0 +1,27 @@
+{
+  "is_public": true,
+  "short_description": "",
+  "description_oc": "",
+  "download_url": null,
+  "access_url": "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing\";\"Elenco!A1:H|Elenco",
+  "topics": [],
+  "modified": "2026-10-26T00:00:00",
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "resource_name": "TypedDistribution",
+  "id": "d1d916075f17fb790320d6c6298539d8",
+  "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/09-ok-google-sheet-range-suffix-1.json",
+  "published_at": "2026-10-26T09:00:00+02:00",
+  "modified_at": "2026-10-26T09:00:00+02:00",
+  "title": "Risorsa 1 di 09-ok-google-sheet-range-suffix",
+  "description": "<p>Risorsa di prova</p>"
+}

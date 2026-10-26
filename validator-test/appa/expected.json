@@ -1,0 +1,251 @@
+{
+  "d1f36bf210ae34914373e969c122e20e": {
+    "case": "01-ok-csv",
+    "outcome": "imported",
+    "detail": "baseline",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "97290af2c12f95590ad965f9438ffa45": {
+    "case": "02-ok-json-cc0-deutsch-freq-code",
+    "outcome": "imported",
+    "detail": "CC0, deutsch, frequency given as EU code",
+    "checks": {
+      "formats": [
+        "JSON"
+      ],
+      "frequency": "MONTHLY",
+      "language": "DEU",
+      "license_id": "cc-zero"
+    }
+  },
+  "14e6b0d1d25c71a16e939a05cccde1fc": {
+    "case": "03-ok-english-update-cont",
+    "outcome": "imported",
+    "detail": "english, 'In continuo aggiornamento'",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "UPDATE_CONT",
+      "language": "ENG",
+      "license_id": "cc-by"
+    }
+  },
+  "3ffacb9b4ed96b8e150a8688d47a99fd": {
+    "case": "04-ok-frequency-mai",
+    "outcome": "imported",
+    "detail": "'mai' = NEVER",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "NEVER",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "7389bd011c03a2f4db39122b5cbe9b11": {
+    "case": "05-ok-frequency-irregolare",
+    "outcome": "imported",
+    "detail": "'Irregolare' = IRREG",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "IRREG",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "b4e355aed268b49faeb2d2416273cac1": {
+    "case": "06-ok-format-corrected",
+    "outcome": "imported",
+    "detail": "declared JSON, real file CSV: real format wins",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "0b4869693c8e4edc785d207a9cfe29f8": {
+    "case": "07-ok-download-url-object",
+    "outcome": "imported",
+    "detail": "link in download_url.uri instead of access_url",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "1e72796ed821334c7469898451a78087": {
+    "case": "08-ok-web-page-declared-csv",
+    "outcome": "imported",
+    "detail": "web page where a CSV was declared: accepted as HTML",
+    "checks": {
+      "formats": [
+        "HTML"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "598dfe078453663f2c7944f24db82d83": {
+    "case": "09-ok-google-sheet-range-suffix",
+    "outcome": "imported",
+    "detail": "OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML",
+    "checks": {
+      "formats": [
+        "HTML"
+      ],
+      "urls": [
+        "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "235292627cda92356a596e6a03cf305b": {
+    "case": "10-ok-one-resource-without-url-dropped",
+    "outcome": "imported",
+    "detail": "resource without URL dropped, the other kept",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "n_resources": 1,
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "c0cbbe10beb841082f7b31d31ae18c64": {
+    "case": "11-ok-language-missing",
+    "outcome": "imported",
+    "detail": "no language: OP_DATPRO (not declared), accepted",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "OP_DATPRO",
+      "license_id": "cc-by"
+    }
+  },
+  "dd852a509adf90fca7045a633a011275": {
+    "case": "12-dataset-licence-wrong",
+    "outcome": "rejected",
+    "detail": "dataset licence 'GPL 3.0' not accepted",
+    "stage": "import"
+  },
+  "104096a9292e41daee9303c8c0257575": {
+    "case": "13-dataset-licence-missing",
+    "outcome": "rejected",
+    "detail": "dataset licence missing",
+    "stage": "import"
+  },
+  "d6d2bb5c89b407db508660ba93cada27": {
+    "case": "14-resource-licence-wrong",
+    "outcome": "rejected",
+    "detail": "resource licence 'GPL 3.0' not accepted",
+    "stage": "import"
+  },
+  "9c391bbb06724b5fb51b708fb97623b3": {
+    "case": "15-resource-licence-missing",
+    "outcome": "rejected",
+    "detail": "resource licence missing",
+    "stage": "import"
+  },
+  "3a54f35b0091d05b8aeb41cae4f52df3": {
+    "case": "16-resource-licence-short-label",
+    "outcome": "rejected",
+    "detail": "resource licence 'CC BY 4.0' (short label) not found among the dcatapit labels -> not accepted",
+    "stage": "import"
+  },
+  "3fc1d653a04a10700e0b93c9478f9b59": {
+    "case": "17-language-wrong",
+    "outcome": "rejected",
+    "detail": "language 'francais' not accepted",
+    "stage": "import"
+  },
+  "464c7c7933710a958742e887bd4bbab8": {
+    "case": "18-frequency-missing",
+    "outcome": "rejected",
+    "detail": "frequency missing",
+    "stage": "import"
+  },
+  "55bd7bc8135cb392aad2fc2d66e7575e": {
+    "case": "19-frequency-wrong",
+    "outcome": "rejected",
+    "detail": "frequency 'ogni tanto' not in the EU vocabulary",
+    "stage": "import"
+  },
+  "f4026c2da6293b161b384383ad896cb4": {
+    "case": "20-frequency-pat-label",
+    "outcome": "rejected",
+    "detail": "frequency 'Non viene aggiornato (mai)' not in the EU vocabulary",
+    "stage": "import"
+  },
+  "19dfd6974a06056b1217a584b5f883a0": {
+    "case": "21-no-distribution",
+    "outcome": "rejected",
+    "detail": "no resource has a download URL",
+    "stage": "import"
+  },
+  "ab6e64fbd534926aa7f1ee1e1d8106a1": {
+    "case": "22-resource-without-url",
+    "outcome": "rejected",
+    "detail": "no resource has a download URL",
+    "stage": "import"
+  },
+  "72a4870ac8377ea54536b1faa0eba7a8": {
+    "case": "23-distribution-uri-404",
+    "outcome": "rejected",
+    "detail": "resource JSON not found in fetch_stage -> no resource has a download URL",
+    "stage": "import"
+  },
+  "78264ed6e4e3c044f9d0b2d7f1d7e528": {
+    "case": "24-link-404",
+    "outcome": "rejected",
+    "detail": "file could not be downloaded (HTTP 404)",
+    "stage": "import"
+  },
+  "6a3314359209059c60fccf32c9c7347a": {
+    "case": "25-private-google-sheet",
+    "outcome": "rejected",
+    "detail": "file could not be downloaded (HTTP 401)",
+    "stage": "import"
+  },
+  "3fe840b1a391cb7a70bb779333f03119": {
+    "case": "26-format-unknown-text-plain",
+    "outcome": "rejected",
+    "detail": "format could not be determined (content type text/plain)",
+    "stage": "import"
+  },
+  "eb74b410a90df32e338259f55ca33f01": {
+    "case": "27-one-good-one-broken-resource",
+    "outcome": "rejected",
+    "detail": "resource 2 could not be downloaded (404)",
+    "stage": "import"
+  },
+  "3f8a5f9b5f21221a32cd0b46391fb932": {
+    "case": "28-identifier-missing",
+    "outcome": "rejected",
+    "detail": "identifier missing (dcatapit mandatory field, schema check)",
+    "stage": "import"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "is_public": true,
+  "short_description": "",
+  "description_oc": "",
+  "download_url": null,
+  "access_url": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/plain-text-sample.csv|File",
+  "topics": [],
+  "modified": "2026-10-26T00:00:00",
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "resource_name": "TypedDistribution",
+  "id": "4504c35b7052b3e6adc6ae52aed55989",
+  "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/26-format-unknown-text-plain-1.json",
+  "published_at": "2026-10-26T09:00:00+02:00",
+  "modified_at": "2026-10-26T09:00:00+02:00",
+  "title": "Risorsa 1 di 26-format-unknown-text-plain",
+  "description": "<p>Risorsa di prova</p>"
+}

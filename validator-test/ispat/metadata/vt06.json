@@ -1,0 +1,25 @@
+{
+  "IndicatoriStrutturali": [
+    {
+      "Descrizione": "VT ISPAT 06-licence-wrong",
+      "Area": "",
+      "Settore": "Famiglia e comportamenti sociali",
+      "Algoritmo": "Indicatore di prova per i validatori dell'harvester",
+      "AnnoInizio": "2011",
+      "AnnoFine": "2025",
+      "FreqAggiornamento": "Annuale",
+      "UltimoAggiornamento": "26/10/2026",
+      "Fenomeno": "Stock",
+      "LivelloGeografico": "Provincia",
+      "ConfrontiTerritoriali": "Trentino. Italia",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 06-licence-wrong. Esito atteso: rejected - licence 'IODL 2.0' not accepted",
+      "Licenza": "IODL 2.0",
+      "Tema": "GOVE",
+      "NsoggDiffonPro": "ISPAT",
+      "NsoggDiffonNaz": "",
+      "NsoggDiffonInt": "",
+      "Indicatore": "https://dati.trentino.it/api/3/action/status_show",
+      "IndicatoreCSV": "https://www.comune.mori.tn.it/exportas/csv/place"
+    }
+  ]
+}

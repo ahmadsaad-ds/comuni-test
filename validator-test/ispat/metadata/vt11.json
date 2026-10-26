@@ -1,0 +1,25 @@
+{
+  "IndicatoriStrutturali": [
+    {
+      "Descrizione": "VT ISPAT 11-indicator-json-404",
+      "Area": "",
+      "Settore": "Famiglia e comportamenti sociali",
+      "Algoritmo": "Indicatore di prova per i validatori dell'harvester",
+      "AnnoInizio": "2011",
+      "AnnoFine": "2025",
+      "FreqAggiornamento": "Annuale",
+      "UltimoAggiornamento": "26/10/2026",
+      "Fenomeno": "Stock",
+      "LivelloGeografico": "Provincia",
+      "ConfrontiTerritoriali": "Trentino. Italia",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 11-indicator-json-404. Esito atteso: rejected - JSON resource not downloadable: it and its CSV twin are skipped -> no resource has a download URL",
+      "Licenza": "CC BY 4.0",
+      "Tema": "GOVE",
+      "NsoggDiffonPro": "ISPAT",
+      "NsoggDiffonNaz": "",
+      "NsoggDiffonInt": "",
+      "Indicatore": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/does-not-exist.json",
+      "IndicatoreCSV": "https://www.comune.mori.tn.it/exportas/csv/place"
+    }
+  ]
+}

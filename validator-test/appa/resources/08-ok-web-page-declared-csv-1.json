@@ -1,0 +1,27 @@
+{
+  "is_public": true,
+  "short_description": "",
+  "description_oc": "",
+  "download_url": null,
+  "access_url": "https://www.comune.mori.tn.it/|Pagina",
+  "topics": [],
+  "modified": "2026-10-26T00:00:00",
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "resource_name": "TypedDistribution",
+  "id": "ed997ee3898ded97a36832eac82ea258",
+  "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/08-ok-web-page-declared-csv-1.json",
+  "published_at": "2026-10-26T09:00:00+02:00",
+  "modified_at": "2026-10-26T09:00:00+02:00",
+  "title": "Risorsa 1 di 08-ok-web-page-declared-csv",
+  "description": "<p>Risorsa di prova</p>"
+}

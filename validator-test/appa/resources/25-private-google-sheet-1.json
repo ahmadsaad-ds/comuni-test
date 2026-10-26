@@ -1,0 +1,27 @@
+{
+  "is_public": true,
+  "short_description": "",
+  "description_oc": "",
+  "download_url": null,
+  "access_url": "https://docs.google.com/spreadsheets/d/1mjFUUw4-kR_Ms9cdL3wd5r3qmEnzk-t3NaCzP48ggcI/export?format=csv|Foglio",
+  "topics": [],
+  "modified": "2026-10-26T00:00:00",
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "resource_name": "TypedDistribution",
+  "id": "ced4b9f3349b273456c82a016e5bda63",
+  "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/25-private-google-sheet-1.json",
+  "published_at": "2026-10-26T09:00:00+02:00",
+  "modified_at": "2026-10-26T09:00:00+02:00",
+  "title": "Risorsa 1 di 25-private-google-sheet",
+  "description": "<p>Risorsa di prova</p>"
+}

@@ -1,0 +1,27 @@
+{
+  "is_public": true,
+  "short_description": "",
+  "description_oc": "",
+  "download_url": null,
+  "access_url": "",
+  "topics": [],
+  "modified": "2026-10-26T00:00:00",
+  "license": [
+    "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  ],
+  "language": [
+    "Italiano"
+  ],
+  "format": [
+    "CSV"
+  ],
+  "transparency_section": [],
+  "keyword": [],
+  "resource_name": "TypedDistribution",
+  "id": "351a571ff7b7f542e02016b43f7d999a",
+  "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/22-resource-without-url-1.json",
+  "published_at": "2026-10-26T09:00:00+02:00",
+  "modified_at": "2026-10-26T09:00:00+02:00",
+  "title": "Risorsa 1 di 22-resource-without-url",
+  "description": "<p>Risorsa di prova</p>"
+}

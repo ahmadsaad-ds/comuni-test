@@ -1,0 +1,1512 @@
+{
+  "items": [
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "f0e0ecf6b869768b7dd080ab42916f04",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#01-ok-json-csv",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 01-ok-json-csv",
+      "abstract": "Caso di prova 01-ok-json-csv",
+      "identifier": "vt-comuni-01-ok-json-csv",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 01-ok-json-csv. Esito atteso: imported - baseline, like the real Mori records (JSON + CSV)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons CC0 1.0 Universal - Public Domain Dedication (CC0 1.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "MONTHLY"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Deutsch"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "4cd2414c25f60ca4394fb8d2beff4c1c",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#02-ok-cc0-deutsch-freq-code",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 02-ok-cc0-deutsch-freq-code",
+      "abstract": "Caso di prova 02-ok-cc0-deutsch-freq-code",
+      "identifier": "vt-comuni-02-ok-cc0-deutsch-freq-code",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 02-ok-cc0-deutsch-freq-code. Esito atteso: imported - CC0, deutsch, frequency given as EU code</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "In continuo aggiornamento"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "English"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "c7fba5f61bc15e2411b1b6f8b029744b",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#03-ok-english-update-cont",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 03-ok-english-update-cont",
+      "abstract": "Caso di prova 03-ok-english-update-cont",
+      "identifier": "vt-comuni-03-ok-english-update-cont",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 03-ok-english-update-cont. Esito atteso: imported - english, 'In continuo aggiornamento'</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "5f5408c1b4b9cdcfbb599e99723b1d7d",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#04-ok-download-url-only",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 04-ok-download-url-only",
+      "abstract": "Caso di prova 04-ok-download-url-only",
+      "identifier": "vt-comuni-04-ok-download-url-only",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 04-ok-download-url-only. Esito atteso: imported - single resource from download_url 'url|name'</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "mai"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "5b7a4a56e54de116231bf86d7041d101",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#05-ok-frequency-mai",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 05-ok-frequency-mai",
+      "abstract": "Caso di prova 05-ok-frequency-mai",
+      "identifier": "vt-comuni-05-ok-frequency-mai",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 05-ok-frequency-mai. Esito atteso: imported - 'mai' = NEVER</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "CSV"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "JSON"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "17c09ee403b65814c59d8ccf1e44977c",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#06-ok-formats-swapped",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 06-ok-formats-swapped",
+      "abstract": "Caso di prova 06-ok-formats-swapped",
+      "identifier": "vt-comuni-06-ok-formats-swapped",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 06-ok-formats-swapped. Esito atteso: imported - declared formats swapped (as on a real Mori record): real formats win</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [],
+      "download_url": "https://www.comune.mori.tn.it/|Pagina",
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "946bc7b11e16033c89278cc1fb05f8d8",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#07-ok-web-page",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 07-ok-web-page",
+      "abstract": "Caso di prova 07-ok-web-page",
+      "identifier": "vt-comuni-07-ok-web-page",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 07-ok-web-page. Esito atteso: imported - web page link: accepted as HTML</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [],
+      "download_url": "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing\";\"Elenco!A1:H|Elenco",
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "f2a891429d7361c090e458c97bb98963",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#08-ok-google-sheet-range-suffix",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 08-ok-google-sheet-range-suffix",
+      "abstract": "Caso di prova 08-ok-google-sheet-range-suffix",
+      "identifier": "vt-comuni-08-ok-google-sheet-range-suffix",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-ok-google-sheet-range-suffix. Esito atteso: imported - OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "abe6b15b195a6db670740fb093304af1",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#09-ok-domain-without-scheme",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 09-ok-domain-without-scheme",
+      "abstract": "Caso di prova 09-ok-domain-without-scheme",
+      "identifier": "vt-comuni-09-ok-domain-without-scheme",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 09-ok-domain-without-scheme. Esito atteso: imported - link 'www.comune...' without https://: scheme added</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "9d505abe1fd5765fcc168346036f5a32",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#10-ok-identifier-empty",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 10-ok-identifier-empty",
+      "abstract": "Caso di prova 10-ok-identifier-empty",
+      "identifier": "",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 10-ok-identifier-empty. Esito atteso: imported - no identifier: built as <IPA of the source organisation>_<guid></p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "a83bc6282218ca57f7e29cf937c01888",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#11-ok-language-missing",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 11-ok-language-missing",
+      "abstract": "Caso di prova 11-ok-language-missing",
+      "identifier": "vt-comuni-11-ok-language-missing",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 11-ok-language-missing. Esito atteso: imported - no language: OP_DATPRO (not declared), accepted</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "660ab4a265698b05b5a4986345a5a017",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#12-ok-catalogo-od-true",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 12-ok-catalogo-od-true",
+      "abstract": "Caso di prova 12-ok-catalogo-od-true",
+      "identifier": "vt-comuni-12-ok-catalogo-od-true",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 12-ok-catalogo-od-true. Esito atteso: imported - catalogo_od true (baseline has no catalogo_od, like Mori)</p>",
+      "catalogo_od": true
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "46dac348a1e7eb642e4e4f8d7963da30",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#13-skip-catalogo-od-false",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 13-skip-catalogo-od-false",
+      "abstract": "Caso di prova 13-skip-catalogo-od-false",
+      "identifier": "vt-comuni-13-skip-catalogo-od-false",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 13-skip-catalogo-od-false. Esito atteso: skipped - catalogo_od false: not queued in gather_stage</p>",
+      "catalogo_od": false
+    },
+    {
+      "is_public": false,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "fe6d87908cc1650e960395b009a5b580",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#14-skip-not-public",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 14-skip-not-public",
+      "abstract": "Caso di prova 14-skip-not-public",
+      "identifier": "vt-comuni-14-skip-not-public",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 14-skip-not-public. Esito atteso: skipped - is_public false: not queued (imported only with \"include_private\": true in the source config)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "GPL 3.0"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "e7714b5449a5b9f847f4a3f6b851654a",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#15-licence-wrong",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 15-licence-wrong",
+      "abstract": "Caso di prova 15-licence-wrong",
+      "identifier": "vt-comuni-15-licence-wrong",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 15-licence-wrong. Esito atteso: rejected - licence 'GPL 3.0' not accepted (dataset and resources)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "e91dc3fe1aa22667ed8d3e649dc2cca5",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#16-licence-missing",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 16-licence-missing",
+      "abstract": "Caso di prova 16-licence-missing",
+      "identifier": "vt-comuni-16-licence-missing",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 16-licence-missing. Esito atteso: rejected - licence missing (dataset and resources)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "CC BY 4.0"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "3dfd3b57ab5d40a4213cac35f3cebb01",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#17-licence-short-label",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 17-licence-short-label",
+      "abstract": "Caso di prova 17-licence-short-label",
+      "identifier": "vt-comuni-17-licence-short-label",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 17-licence-short-label. Esito atteso: rejected - 'CC BY 4.0': dataset licence recognised, resource licence not (no exact dcatapit label)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "francais"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "5face1f9aa3cc1397f814b37de2f7851",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#18-language-wrong",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 18-language-wrong",
+      "abstract": "Caso di prova 18-language-wrong",
+      "identifier": "vt-comuni-18-language-wrong",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 18-language-wrong. Esito atteso: rejected - language 'francais' not accepted</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "a1c382e8b0b8838806143fc8f7e939d9",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#19-frequency-missing",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 19-frequency-missing",
+      "abstract": "Caso di prova 19-frequency-missing",
+      "identifier": "vt-comuni-19-frequency-missing",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 19-frequency-missing. Esito atteso: rejected - frequency missing</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "ogni tanto"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "f3fd61a7a76f19ca12c6f6d4a5917993",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#20-frequency-wrong",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 20-frequency-wrong",
+      "abstract": "Caso di prova 20-frequency-wrong",
+      "identifier": "vt-comuni-20-frequency-wrong",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 20-frequency-wrong. Esito atteso: rejected - frequency 'ogni tanto' not in the EU vocabulary</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Non viene aggiornato (mai)"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "ca929a3c4f55dd80dcaa64aff3c359b5",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#21-frequency-pat-label",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 21-frequency-pat-label",
+      "abstract": "Caso di prova 21-frequency-pat-label",
+      "identifier": "vt-comuni-21-frequency-pat-label",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 21-frequency-pat-label. Esito atteso: rejected - frequency 'Non viene aggiornato (mai)' not in the EU vocabulary</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "3e9c78a737e91d2970cb50bf91a09ca1",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#22-no-resources",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 22-no-resources",
+      "abstract": "Caso di prova 22-no-resources",
+      "identifier": "vt-comuni-22-no-resources",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 22-no-resources. Esito atteso: rejected - no resource has a download URL</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "e44cabb6d0842c6db34986f8d4f97fd1",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#23-resource-without-url",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 23-resource-without-url",
+      "abstract": "Caso di prova 23-resource-without-url",
+      "identifier": "vt-comuni-23-resource-without-url",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 23-resource-without-url. Esito atteso: rejected - no resource has a download URL</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "5926aeaf6c93949cd626b7f6a783d24b",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#24-relative-link",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 24-relative-link",
+      "abstract": "Caso di prova 24-relative-link",
+      "identifier": "vt-comuni-24-relative-link",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 24-relative-link. Esito atteso: rejected - relative link joined to the SOURCE site (raw.githubusercontent.com here) -> 404</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/does-not-exist.csv",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "71b6120455da150cf65b5a6732b876b7",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#25-link-404",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 25-link-404",
+      "abstract": "Caso di prova 25-link-404",
+      "identifier": "vt-comuni-25-link-404",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 25-link-404. Esito atteso: rejected - file could not be downloaded (HTTP 404)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "https://docs.google.com/spreadsheets/d/1mjFUUw4-kR_Ms9cdL3wd5r3qmEnzk-t3NaCzP48ggcI/export?format=csv",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "fc5f5785db5872fb94d890bfaafacf29",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#26-private-google-sheet",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 26-private-google-sheet",
+      "abstract": "Caso di prova 26-private-google-sheet",
+      "identifier": "vt-comuni-26-private-google-sheet",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 26-private-google-sheet. Esito atteso: rejected - file could not be downloaded (HTTP 401)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "CSV"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/plain-text-sample.csv",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "16ce0f09ad9f22605f8d106f02ee7082",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#27-format-unknown-text-plain",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 27-format-unknown-text-plain",
+      "abstract": "Caso di prova 27-format-unknown-text-plain",
+      "identifier": "vt-comuni-27-format-unknown-text-plain",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 27-format-unknown-text-plain. Esito atteso: rejected - format could not be determined (content type text/plain)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Buona",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        },
+        {
+          "index": 1,
+          "title": "Rotta",
+          "url_download": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/does-not-exist.csv",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "6f0b43687053052aae30a73abb65182d",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#28-one-good-one-broken-resource",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 28-one-good-one-broken-resource",
+      "abstract": "Caso di prova 28-one-good-one-broken-resource",
+      "identifier": "vt-comuni-28-one-good-one-broken-resource",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 28-one-good-one-broken-resource. Esito atteso: rejected - resource 2 could not be downloaded (404)</p>"
+    }
+  ],
+  "self": null,
+  "prev": null,
+  "next": null,
+  "count": 28
+}
