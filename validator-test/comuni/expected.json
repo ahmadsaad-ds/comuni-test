@@ -72,11 +72,11 @@
   "17c09ee403b65814c59d8ccf1e44977c": {
     "case": "06-ok-formats-swapped",
     "outcome": "imported",
-    "detail": "declared formats swapped (as on a real Mori record): real formats win",
+    "detail": "declared formats swapped (as on a real Mori record): declared formats kept (files not downloaded)",
     "checks": {
       "formats": [
-        "JSON",
-        "CSV"
+        "CSV",
+        "JSON"
       ],
       "frequency": "MONTHLY",
       "language": "ITA",
@@ -86,10 +86,10 @@
   "946bc7b11e16033c89278cc1fb05f8d8": {
     "case": "07-ok-web-page",
     "outcome": "imported",
-    "detail": "web page link: accepted as HTML",
+    "detail": "web page link declared CSV: kept as CSV (file not downloaded)",
     "checks": {
       "formats": [
-        "HTML"
+        "CSV"
       ],
       "frequency": "MONTHLY",
       "language": "ITA",
@@ -99,10 +99,10 @@
   "f2a891429d7361c090e458c97bb98963": {
     "case": "08-ok-google-sheet-range-suffix",
     "outcome": "imported",
-    "detail": "OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML",
+    "detail": "OpenCity sheet link with '\";\"range' suffix: cleaned, declared CSV kept",
     "checks": {
       "formats": [
-        "HTML"
+        "CSV"
       ],
       "urls": [
         "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing"
@@ -237,32 +237,93 @@
   },
   "5926aeaf6c93949cd626b7f6a783d24b": {
     "case": "24-relative-link",
-    "outcome": "rejected",
-    "detail": "relative link joined to the SOURCE site (raw.githubusercontent.com here) -> 404",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "relative link joined to the source site (raw.githubusercontent.com here): imported, file not downloaded",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "71b6120455da150cf65b5a6732b876b7": {
     "case": "25-link-404",
-    "outcome": "rejected",
-    "detail": "file could not be downloaded (HTTP 404)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "404 link: imported (file not downloaded)",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "fc5f5785db5872fb94d890bfaafacf29": {
     "case": "26-private-google-sheet",
-    "outcome": "rejected",
-    "detail": "file could not be downloaded (HTTP 401)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "private sheet (401): imported (file not downloaded)",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "16ce0f09ad9f22605f8d106f02ee7082": {
     "case": "27-format-unknown-text-plain",
-    "outcome": "rejected",
-    "detail": "format could not be determined (content type text/plain)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "file served as text/plain: declared CSV kept",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "6f0b43687053052aae30a73abb65182d": {
     "case": "28-one-good-one-broken-resource",
+    "outcome": "imported",
+    "detail": "second link 404: imported (files not downloaded)",
+    "checks": {
+      "formats": [
+        "CSV",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "bfd7896886f13df02f86ed512f821faa": {
+    "case": "29-licence-cc-by-1",
     "outcome": "rejected",
-    "detail": "resource 2 could not be downloaded (404)",
+    "detail": "licence 'CC BY 1.0' (real Pergine label) not accepted",
     "stage": "import"
+  },
+  "e4b27dd79ec44540fabd8c9efc459c77": {
+    "case": "30-format-excel",
+    "outcome": "rejected",
+    "detail": "format 'EXCEL' not in the EU file type vocabulary",
+    "stage": "import"
+  },
+  "5c59bb7a886b97f77b36f0b05b1a05da": {
+    "case": "31-format-lowercase",
+    "outcome": "imported",
+    "detail": "format 'csv' in lower case: normalised to CSV",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   }
 }

@@ -12,7 +12,7 @@
       "Fenomeno": "Stock",
       "LivelloGeografico": "Provincia",
       "ConfrontiTerritoriali": "Trentino. Italia",
-      "Note": "Dataset di prova per i validatori dell'harvester. Caso 13-csv-unknown-text-plain. Esito atteso: rejected - CSV twin served as text/plain: format could not be determined",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 13-csv-unknown-text-plain. Esito atteso: imported - CSV twin served as text/plain: imported, fixed format CSV",
       "Licenza": "CC BY 4.0",
       "Tema": "GOVE",
       "NsoggDiffonPro": "ISPAT",

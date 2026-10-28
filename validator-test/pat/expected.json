@@ -18,7 +18,7 @@
   "841a1cf1348ea333ac127e8c52c8acfa": {
     "case": "02-ok-cc0-deutsch-freq-code",
     "outcome": "imported",
-    "detail": "CC0, deutsch, frequency given as EU code",
+    "detail": "CC0, deutsch, frequency given as EU code (parse_frequency)",
     "checks": {
       "formats": [
         "CSV"
@@ -85,31 +85,21 @@
   },
   "d84997331656666b1eb44cd93eaea808": {
     "case": "07-exempt-licence-wrong",
-    "outcome": "imported",
-    "detail": "licence NOT checked: 'GPL 3.0' -> license_id empty, resources default CC BY 4.0",
-    "checks": {
-      "formats": [
-        "CSV"
-      ],
-      "frequency": "MONTHLY",
-      "language": "ITA",
-      "license_id": null,
-      "license_types": [
-        "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"
-      ]
-    }
+    "outcome": "rejected",
+    "detail": "licence 'GPL 3.0' not accepted (dataset and resources)",
+    "stage": "import"
   },
   "95357c2e4f0ee5e92ce7eef2b805dbe9": {
     "case": "08-exempt-licence-missing",
     "outcome": "imported",
-    "detail": "licence NOT checked: missing -> license_id empty, resources default CC BY 4.0",
+    "detail": "licence missing: license_id default cc-by, resources default CC BY 4.0",
     "checks": {
       "formats": [
         "CSV"
       ],
       "frequency": "MONTHLY",
       "language": "ITA",
-      "license_id": null,
+      "license_id": "cc-by",
       "license_types": [
         "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"
       ]
@@ -117,32 +107,15 @@
   },
   "b2d1b315075e103ebb939b5bba7acf95": {
     "case": "09-exempt-format-wrong",
-    "outcome": "imported",
-    "detail": "format NOT checked: declared 'EXCEL' (not an EU code; note XYZ IS one) kept, distribution_format OP_DATPRO",
-    "checks": {
-      "formats": [
-        "EXCEL"
-      ],
-      "distribution_formats": [
-        "OP_DATPRO"
-      ],
-      "frequency": "MONTHLY",
-      "language": "ITA",
-      "license_id": "cc-by"
-    }
+    "outcome": "rejected",
+    "detail": "format 'EXCEL' not in the EU file type vocabulary",
+    "stage": "import"
   },
   "9d94dcf7508ed69f9e8008c8a3d70207": {
     "case": "10-exempt-format-missing",
-    "outcome": "imported",
-    "detail": "format NOT checked: no format -> distribution_format OP_DATPRO",
-    "checks": {
-      "distribution_formats": [
-        "OP_DATPRO"
-      ],
-      "frequency": "MONTHLY",
-      "language": "ITA",
-      "license_id": "cc-by"
-    }
+    "outcome": "rejected",
+    "detail": "format missing",
+    "stage": "import"
   },
   "73ab6a4c711b0fa59714c71fb38dbeb2": {
     "case": "11-exempt-link-404",
@@ -219,6 +192,132 @@
     "case": "21-resource-without-url",
     "outcome": "rejected",
     "detail": "no resource has a download URL",
+    "stage": "import"
+  },
+  "47dfe3a29d9cc651ff0efab039ff5ffb": {
+    "case": "22-licence-cc-by-1",
+    "outcome": "rejected",
+    "detail": "licence 'CC BY 1.0' (real Pergine label) not accepted",
+    "stage": "import"
+  },
+  "370b62813169019a335e9f221aa34f57": {
+    "case": "23-licence-short-label",
+    "outcome": "rejected",
+    "detail": "'CC BY 4.0': dataset licence recognised, resource licence not (no exact dcatapit label)",
+    "stage": "import"
+  },
+  "f11769efafc9d82f3c1e6424ffdf13c6": {
+    "case": "24-format-lowercase",
+    "outcome": "imported",
+    "detail": "format 'csv' in lower case: normalised to CSV",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "distribution_formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "9bb2784f0ba48863b603c086a73461d7": {
+    "case": "25-format-xyz",
+    "outcome": "imported",
+    "detail": "format 'XYZ': not a common format, but an EU code -> accepted",
+    "checks": {
+      "formats": [
+        "XYZ"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "291c3fc8dec15561ebd19b03ee5c1faa": {
+    "case": "26-frequency-spaces",
+    "outcome": "imported",
+    "detail": "frequency ' Mensile ' with spaces: MONTHLY",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "63e1ae6b3c7e4c968afe1d1ded8f0d43": {
+    "case": "27-frequency-sconosciuto",
+    "outcome": "imported",
+    "detail": "frequency 'Sconosciuto' (used by a real PAT dataset): UNKNOWN",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "UNKNOWN",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "fcfeac0874c5718187bd269530821fff": {
+    "case": "28-language-inglese",
+    "outcome": "imported",
+    "detail": "language 'Inglese' (as OpenCity writes it): ENG",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ENG",
+      "license_id": "cc-by"
+    }
+  },
+  "9e7969fc96193e28f176503e579add6e": {
+    "case": "29-language-tedesco",
+    "outcome": "imported",
+    "detail": "language 'Tedesco': DEU",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "DEU",
+      "license_id": "cc-by"
+    }
+  },
+  "6dc250873e99911c424ee0cf34561ad9": {
+    "case": "30-two-languages",
+    "outcome": "imported",
+    "detail": "languages ['Francese', 'Italiano']: the first recognised one (ITA) is kept",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "3fb8d3b9ca1dbbfd871ddaaf2036311f": {
+    "case": "31-resources-only",
+    "outcome": "imported",
+    "detail": "no download_url, files only in 'resources': no empty main resource",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "n_resources": 1,
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "0051372c7c206dbb7c5d80076724849b": {
+    "case": "32-resource-format-excel",
+    "outcome": "rejected",
+    "detail": "second resource with format 'EXCEL' not in the EU vocabulary",
     "stage": "import"
   }
 }

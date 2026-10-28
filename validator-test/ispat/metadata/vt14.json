@@ -12,7 +12,7 @@
       "Fenomeno": "Stock",
       "LivelloGeografico": "Provincia",
       "ConfrontiTerritoriali": "Trentino. Italia",
-      "Note": "Dataset di prova per i validatori dell'harvester. Caso 14-real-statweb-links. Esito atteso: rejected - REAL statweb links of indicator 597: JSON is served as text/html (-> HTML), CSV as text/plain (-> unknown): rejected, as every real ISPAT dataset with a CSV",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 14-real-statweb-links. Esito atteso: imported - REAL statweb links of indicator 597: imported with fixed formats JSON + CSV, as the real ISPAT datasets",
       "Licenza": "CC BY 4.0",
       "Tema": "GOVE",
       "NsoggDiffonPro": "ISPAT",

@@ -321,7 +321,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 06-ok-format-corrected",
       "identifier": "vt-appa-06-ok-format-corrected",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 06-ok-format-corrected. Esito atteso: imported - declared JSON, real file CSV: real format wins</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 06-ok-format-corrected. Esito atteso: imported - declared JSON, file is CSV: the declared format is kept (the file is not downloaded)</p>",
       "distribution": [
         {
           "id": "7040fe8843652776727bd67386fb83df",
@@ -431,7 +431,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 08-ok-web-page-declared-csv",
       "identifier": "vt-appa-08-ok-web-page-declared-csv",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-ok-web-page-declared-csv. Esito atteso: imported - web page where a CSV was declared: accepted as HTML</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-ok-web-page-declared-csv. Esito atteso: imported - web page where a CSV was declared: kept as CSV (the file is not downloaded)</p>",
       "distribution": [
         {
           "id": "ed997ee3898ded97a36832eac82ea258",
@@ -486,7 +486,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 09-ok-google-sheet-range-suffix",
       "identifier": "vt-appa-09-ok-google-sheet-range-suffix",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 09-ok-google-sheet-range-suffix. Esito atteso: imported - OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 09-ok-google-sheet-range-suffix. Esito atteso: imported - OpenCity sheet link with '\";\"range' suffix: cleaned, declared CSV kept</p>",
       "distribution": [
         {
           "id": "d1d916075f17fb790320d6c6298539d8",
@@ -541,7 +541,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 10-ok-one-resource-without-url-dropped",
       "identifier": "vt-appa-10-ok-one-resource-without-url-dropped",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 10-ok-one-resource-without-url-dropped. Esito atteso: imported - resource without URL dropped, the other kept</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 10-ok-one-resource-without-url-dropped. Esito atteso: rejected - one resource without URL: the whole dataset is rejected (04/05)</p>",
       "distribution": [
         {
           "id": "a95614e7d52ad42d165b2bbb0259887e",
@@ -707,7 +707,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 13-dataset-licence-missing",
       "identifier": "vt-appa-13-dataset-licence-missing",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 13-dataset-licence-missing. Esito atteso: rejected - dataset licence missing</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 13-dataset-licence-missing. Esito atteso: imported - dataset licence missing: default cc-by</p>",
       "distribution": [
         {
           "id": "3352f7421d87de73be6b0b9ef17a1730",
@@ -817,7 +817,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 15-resource-licence-missing",
       "identifier": "vt-appa-15-resource-licence-missing",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 15-resource-licence-missing. Esito atteso: rejected - resource licence missing</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 15-resource-licence-missing. Esito atteso: imported - resource licence missing: default CC BY 4.0</p>",
       "distribution": [
         {
           "id": "291915bf15425a1e34a0821c6591a320",
@@ -1304,7 +1304,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 24-link-404",
       "identifier": "vt-appa-24-link-404",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 24-link-404. Esito atteso: rejected - file could not be downloaded (HTTP 404)</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 24-link-404. Esito atteso: imported - 404 link: imported (the file is not downloaded)</p>",
       "distribution": [
         {
           "id": "ad972d600dc36a5a724d21894777a940",
@@ -1359,7 +1359,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 25-private-google-sheet",
       "identifier": "vt-appa-25-private-google-sheet",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 25-private-google-sheet. Esito atteso: rejected - file could not be downloaded (HTTP 401)</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 25-private-google-sheet. Esito atteso: imported - private sheet (401): imported (the file is not downloaded)</p>",
       "distribution": [
         {
           "id": "ced4b9f3349b273456c82a016e5bda63",
@@ -1414,7 +1414,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 26-format-unknown-text-plain",
       "identifier": "vt-appa-26-format-unknown-text-plain",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 26-format-unknown-text-plain. Esito atteso: rejected - format could not be determined (content type text/plain)</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 26-format-unknown-text-plain. Esito atteso: imported - file served as text/plain: imported, declared CSV kept</p>",
       "distribution": [
         {
           "id": "4504c35b7052b3e6adc6ae52aed55989",
@@ -1469,7 +1469,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT APPA 27-one-good-one-broken-resource",
       "identifier": "vt-appa-27-one-good-one-broken-resource",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 27-one-good-one-broken-resource. Esito atteso: rejected - resource 2 could not be downloaded (404)</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 27-one-good-one-broken-resource. Esito atteso: imported - second link 404: imported (the files are not downloaded)</p>",
       "distribution": [
         {
           "id": "3dc687fd44a0fbefff61b6dd4085d8d3",
@@ -1537,10 +1537,450 @@
           "priority": 1
         }
       ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 29-resource-licence-cc-by-1",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "2feedb52b6561e52479967698a4e2453",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#29-resource-licence-cc-by-1",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 29-resource-licence-cc-by-1",
+      "identifier": "vt-appa-29-resource-licence-cc-by-1",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 29-resource-licence-cc-by-1. Esito atteso: rejected - resource licence 'CC BY 1.0' (real Pergine label) not accepted</p>",
+      "distribution": [
+        {
+          "id": "c6cc8b578340ed1abd24ab8f787b7f2f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/29-resource-licence-cc-by-1-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 30-dataset-licence-cc-by-1",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 1.0 Generic (CC BY 1.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "b09538f0964f64be1d548558196e0462",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#30-dataset-licence-cc-by-1",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 30-dataset-licence-cc-by-1",
+      "identifier": "vt-appa-30-dataset-licence-cc-by-1",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 30-dataset-licence-cc-by-1. Esito atteso: rejected - dataset licence 'CC BY 1.0' not accepted</p>",
+      "distribution": [
+        {
+          "id": "988e7b60a4ccb7c32942c1f361f284c7",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/30-dataset-licence-cc-by-1-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 31-format-lowercase",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "95eabbfa416d048f5f86a89963267f9a",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#31-format-lowercase",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 31-format-lowercase",
+      "identifier": "vt-appa-31-format-lowercase",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 31-format-lowercase. Esito atteso: imported - format 'json' in lower case: normalised to JSON</p>",
+      "distribution": [
+        {
+          "id": "3101413415d20fffbc9cd5d26aa75f92",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/31-format-lowercase-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 32-format-excel",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "474a4d77453c5789a80df2e5a69a92ff",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#32-format-excel",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 32-format-excel",
+      "identifier": "vt-appa-32-format-excel",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 32-format-excel. Esito atteso: rejected - format 'EXCEL' not in the EU file type vocabulary</p>",
+      "distribution": [
+        {
+          "id": "3f94f6e8ea67458280f7a2a47dd71a2f",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/32-format-excel-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 33-format-missing",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "a11920a61dd1804fc757b6c23ac29079",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#33-format-missing",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 33-format-missing",
+      "identifier": "vt-appa-33-format-missing",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 33-format-missing. Esito atteso: rejected - format missing</p>",
+      "distribution": [
+        {
+          "id": "9dffe60fdbe735c4ab86d0399d1fc58d",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/33-format-missing-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 34-frequency-eu-code",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "ANNUAL"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "8faf6ae9a61b76c045b2f07978706f14",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#34-frequency-eu-code",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 34-frequency-eu-code",
+      "identifier": "vt-appa-34-frequency-eu-code",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 34-frequency-eu-code. Esito atteso: imported - frequency given as EU code 'ANNUAL'</p>",
+      "distribution": [
+        {
+          "id": "36256357af83a66897556f710f621ddb",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/34-frequency-eu-code-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 35-language-inglese",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "language": [
+        "Inglese"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "a1e1f85287243fc8d66e0c4e07d8d543",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#35-language-inglese",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 35-language-inglese",
+      "identifier": "vt-appa-35-language-inglese",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 35-language-inglese. Esito atteso: imported - language 'Inglese' (as OpenCity writes it): ENG</p>",
+      "distribution": [
+        {
+          "id": "0c9e8d7d266be0f1b515676872f8433e",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/35-language-inglese-1.json",
+          "priority": 1
+        }
+      ]
+    },
+    {
+      "is_public": true,
+      "short_description": "Caso di prova 36-licence-cc0",
+      "resources": [],
+      "download_file": [],
+      "format": [],
+      "license": [
+        "Creative Commons CC0 1.0 Universal - Public Domain Dedication (CC0 1.0)"
+      ],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "standard": "",
+      "topics": [],
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "publisher": null,
+      "creator": [],
+      "contact_point": null,
+      "issued": "2026-10-26",
+      "modified": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "start_date": null,
+      "end_date": null,
+      "spatial_coverage": "https://www.geonames.org/3165241",
+      "spatial": [],
+      "conforms_to": [],
+      "related_document": [],
+      "download_url": null,
+      "keyword": [
+        "test",
+        "validatori"
+      ],
+      "transparency_section": [],
+      "resource_name": "TypedDataset",
+      "id": "c81eb50368529fd604d7015ce74fb830",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/catalogo.json#36-licence-cc0",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT APPA 36-licence-cc0",
+      "identifier": "vt-appa-36-licence-cc0",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 36-licence-cc0. Esito atteso: imported - CC0 on dataset and resource</p>",
+      "distribution": [
+        {
+          "id": "cb3701f49977d55af49960e1ab892fae",
+          "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/appa/resources/36-licence-cc0-1.json",
+          "priority": 1
+        }
+      ]
     }
   ],
   "self": null,
   "prev": null,
   "next": null,
-  "count": 28
+  "count": 36
 }

@@ -327,7 +327,7 @@
       "title": "VT Comuni 06-ok-formats-swapped",
       "abstract": "Caso di prova 06-ok-formats-swapped",
       "identifier": "vt-comuni-06-ok-formats-swapped",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 06-ok-formats-swapped. Esito atteso: imported - declared formats swapped (as on a real Mori record): real formats win</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 06-ok-formats-swapped. Esito atteso: imported - declared formats swapped (as on a real Mori record): declared formats kept (files not downloaded)</p>"
     },
     {
       "is_public": true,
@@ -371,7 +371,7 @@
       "title": "VT Comuni 07-ok-web-page",
       "abstract": "Caso di prova 07-ok-web-page",
       "identifier": "vt-comuni-07-ok-web-page",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 07-ok-web-page. Esito atteso: imported - web page link: accepted as HTML</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 07-ok-web-page. Esito atteso: imported - web page link declared CSV: kept as CSV (file not downloaded)</p>"
     },
     {
       "is_public": true,
@@ -415,7 +415,7 @@
       "title": "VT Comuni 08-ok-google-sheet-range-suffix",
       "abstract": "Caso di prova 08-ok-google-sheet-range-suffix",
       "identifier": "vt-comuni-08-ok-google-sheet-range-suffix",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-ok-google-sheet-range-suffix. Esito atteso: imported - OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-ok-google-sheet-range-suffix. Esito atteso: imported - OpenCity sheet link with '\";\"range' suffix: cleaned, declared CSV kept</p>"
     },
     {
       "is_public": true,
@@ -1292,7 +1292,7 @@
       "title": "VT Comuni 24-relative-link",
       "abstract": "Caso di prova 24-relative-link",
       "identifier": "vt-comuni-24-relative-link",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 24-relative-link. Esito atteso: rejected - relative link joined to the SOURCE site (raw.githubusercontent.com here) -> 404</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 24-relative-link. Esito atteso: imported - relative link joined to the source site (raw.githubusercontent.com here): imported, file not downloaded</p>"
     },
     {
       "is_public": true,
@@ -1343,7 +1343,7 @@
       "title": "VT Comuni 25-link-404",
       "abstract": "Caso di prova 25-link-404",
       "identifier": "vt-comuni-25-link-404",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 25-link-404. Esito atteso: rejected - file could not be downloaded (HTTP 404)</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 25-link-404. Esito atteso: imported - 404 link: imported (file not downloaded)</p>"
     },
     {
       "is_public": true,
@@ -1394,7 +1394,7 @@
       "title": "VT Comuni 26-private-google-sheet",
       "abstract": "Caso di prova 26-private-google-sheet",
       "identifier": "vt-comuni-26-private-google-sheet",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 26-private-google-sheet. Esito atteso: rejected - file could not be downloaded (HTTP 401)</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 26-private-google-sheet. Esito atteso: imported - private sheet (401): imported (file not downloaded)</p>"
     },
     {
       "is_public": true,
@@ -1445,7 +1445,7 @@
       "title": "VT Comuni 27-format-unknown-text-plain",
       "abstract": "Caso di prova 27-format-unknown-text-plain",
       "identifier": "vt-comuni-27-format-unknown-text-plain",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 27-format-unknown-text-plain. Esito atteso: rejected - format could not be determined (content type text/plain)</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 27-format-unknown-text-plain. Esito atteso: imported - file served as text/plain: declared CSV kept</p>"
     },
     {
       "is_public": true,
@@ -1502,11 +1502,170 @@
       "title": "VT Comuni 28-one-good-one-broken-resource",
       "abstract": "Caso di prova 28-one-good-one-broken-resource",
       "identifier": "vt-comuni-28-one-good-one-broken-resource",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 28-one-good-one-broken-resource. Esito atteso: rejected - resource 2 could not be downloaded (404)</p>"
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 28-one-good-one-broken-resource. Esito atteso: imported - second link 404: imported (files not downloaded)</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 1.0 Generic (CC BY 1.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "bfd7896886f13df02f86ed512f821faa",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#29-licence-cc-by-1",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 29-licence-cc-by-1",
+      "abstract": "Caso di prova 29-licence-cc-by-1",
+      "identifier": "vt-comuni-29-licence-cc-by-1",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 29-licence-cc-by-1. Esito atteso: rejected - licence 'CC BY 1.0' (real Pergine label) not accepted</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "EXCEL"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "EXCEL"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "e4b27dd79ec44540fabd8c9efc459c77",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#30-format-excel",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 30-format-excel",
+      "abstract": "Caso di prova 30-format-excel",
+      "identifier": "vt-comuni-30-format-excel",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 30-format-excel. Esito atteso: rejected - format 'EXCEL' not in the EU file type vocabulary</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "csv"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "csv"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "5c59bb7a886b97f77b36f0b05b1a05da",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#31-format-lowercase",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 31-format-lowercase",
+      "abstract": "Caso di prova 31-format-lowercase",
+      "identifier": "vt-comuni-31-format-lowercase",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 31-format-lowercase. Esito atteso: imported - format 'csv' in lower case: normalised to CSV</p>"
     }
   ],
   "self": null,
   "prev": null,
   "next": null,
-  "count": 28
+  "count": 31
 }

@@ -123,7 +123,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT PAT 02-ok-cc0-deutsch-freq-code",
       "abstract": "Caso di prova 02-ok-cc0-deutsch-freq-code",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 02-ok-cc0-deutsch-freq-code. Esito atteso: imported - CC0, deutsch, frequency given as EU code</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 02-ok-cc0-deutsch-freq-code. Esito atteso: imported - CC0, deutsch, frequency given as EU code (parse_frequency)</p>",
       "identifier": "vt-pat-02-ok-cc0-deutsch-freq-code"
     },
     {
@@ -436,7 +436,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT PAT 07-exempt-licence-wrong",
       "abstract": "Caso di prova 07-exempt-licence-wrong",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 07-exempt-licence-wrong. Esito atteso: imported - licence NOT checked: 'GPL 3.0' -> license_id empty, resources default CC BY 4.0</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 07-exempt-licence-wrong. Esito atteso: rejected - licence 'GPL 3.0' not accepted (dataset and resources)</p>",
       "identifier": "vt-pat-07-exempt-licence-wrong"
     },
     {
@@ -497,7 +497,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT PAT 08-exempt-licence-missing",
       "abstract": "Caso di prova 08-exempt-licence-missing",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-exempt-licence-missing. Esito atteso: imported - licence NOT checked: missing -> license_id empty, resources default CC BY 4.0</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 08-exempt-licence-missing. Esito atteso: imported - licence missing: license_id default cc-by, resources default CC BY 4.0</p>",
       "identifier": "vt-pat-08-exempt-licence-missing"
     },
     {
@@ -560,7 +560,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT PAT 09-exempt-format-wrong",
       "abstract": "Caso di prova 09-exempt-format-wrong",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 09-exempt-format-wrong. Esito atteso: imported - format NOT checked: declared 'EXCEL' (not an EU code; note XYZ IS one) kept, distribution_format OP_DATPRO</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 09-exempt-format-wrong. Esito atteso: rejected - format 'EXCEL' not in the EU file type vocabulary</p>",
       "identifier": "vt-pat-09-exempt-format-wrong"
     },
     {
@@ -621,7 +621,7 @@
       "modified_at": "2026-10-26T09:00:00+02:00",
       "title": "VT PAT 10-exempt-format-missing",
       "abstract": "Caso di prova 10-exempt-format-missing",
-      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 10-exempt-format-missing. Esito atteso: imported - format NOT checked: no format -> distribution_format OP_DATPRO</p>",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 10-exempt-format-missing. Esito atteso: rejected - format missing</p>",
       "identifier": "vt-pat-10-exempt-format-missing"
     },
     {
@@ -1320,10 +1320,718 @@
       "abstract": "Caso di prova 21-resource-without-url",
       "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 21-resource-without-url. Esito atteso: rejected - no resource has a download URL</p>",
       "identifier": "vt-pat-21-resource-without-url"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 1.0 Generic (CC BY 1.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "47dfe3a29d9cc651ff0efab039ff5ffb",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#22-licence-cc-by-1",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 22-licence-cc-by-1",
+      "abstract": "Caso di prova 22-licence-cc-by-1",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 22-licence-cc-by-1. Esito atteso: rejected - licence 'CC BY 1.0' (real Pergine label) not accepted</p>",
+      "identifier": "vt-pat-22-licence-cc-by-1"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "CC BY 4.0"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "370b62813169019a335e9f221aa34f57",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#23-licence-short-label",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 23-licence-short-label",
+      "abstract": "Caso di prova 23-licence-short-label",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 23-licence-short-label. Esito atteso: rejected - 'CC BY 4.0': dataset licence recognised, resource licence not (no exact dcatapit label)</p>",
+      "identifier": "vt-pat-23-licence-short-label"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "csv"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "f11769efafc9d82f3c1e6424ffdf13c6",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#24-format-lowercase",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 24-format-lowercase",
+      "abstract": "Caso di prova 24-format-lowercase",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 24-format-lowercase. Esito atteso: imported - format 'csv' in lower case: normalised to CSV</p>",
+      "identifier": "vt-pat-24-format-lowercase"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "XYZ"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "9bb2784f0ba48863b603c086a73461d7",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#25-format-xyz",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 25-format-xyz",
+      "abstract": "Caso di prova 25-format-xyz",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 25-format-xyz. Esito atteso: imported - format 'XYZ': not a common format, but an EU code -> accepted</p>",
+      "identifier": "vt-pat-25-format-xyz"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        " Mensile "
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "291c3fc8dec15561ebd19b03ee5c1faa",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#26-frequency-spaces",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 26-frequency-spaces",
+      "abstract": "Caso di prova 26-frequency-spaces",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 26-frequency-spaces. Esito atteso: imported - frequency ' Mensile ' with spaces: MONTHLY</p>",
+      "identifier": "vt-pat-26-frequency-spaces"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Sconosciuto"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "63e1ae6b3c7e4c968afe1d1ded8f0d43",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#27-frequency-sconosciuto",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 27-frequency-sconosciuto",
+      "abstract": "Caso di prova 27-frequency-sconosciuto",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 27-frequency-sconosciuto. Esito atteso: imported - frequency 'Sconosciuto' (used by a real PAT dataset): UNKNOWN</p>",
+      "identifier": "vt-pat-27-frequency-sconosciuto"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Inglese"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "fcfeac0874c5718187bd269530821fff",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#28-language-inglese",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 28-language-inglese",
+      "abstract": "Caso di prova 28-language-inglese",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 28-language-inglese. Esito atteso: imported - language 'Inglese' (as OpenCity writes it): ENG</p>",
+      "identifier": "vt-pat-28-language-inglese"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Tedesco"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "9e7969fc96193e28f176503e579add6e",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#29-language-tedesco",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 29-language-tedesco",
+      "abstract": "Caso di prova 29-language-tedesco",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 29-language-tedesco. Esito atteso: imported - language 'Tedesco': DEU</p>",
+      "identifier": "vt-pat-29-language-tedesco"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Francese",
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "6dc250873e99911c424ee0cf34561ad9",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#30-two-languages",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 30-two-languages",
+      "abstract": "Caso di prova 30-two-languages",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 30-two-languages. Esito atteso: imported - languages ['Francese', 'Italiano']: the first recognised one (ITA) is kept</p>",
+      "identifier": "vt-pat-30-two-languages"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": null,
+      "format": [
+        "CSV"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Elenco",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "3fb8d3b9ca1dbbfd871ddaaf2036311f",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#31-resources-only",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 31-resources-only",
+      "abstract": "Caso di prova 31-resources-only",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 31-resources-only. Esito atteso: imported - no download_url, files only in 'resources': no empty main resource</p>",
+      "identifier": "vt-pat-31-resources-only"
+    },
+    {
+      "is_public": true,
+      "description_od": "",
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "issued": "2026-10-26",
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "modified": "2026-10-26",
+      "start_date": null,
+      "end_date": null,
+      "publisher": [
+        {
+          "id": "structureP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/amministrazione/strutture-organizzative/structureP330#Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "rights_holder": "Provincia autonoma di Trento",
+      "creator": [],
+      "has_spatial_coverage": "Provincia autonoma di Trento",
+      "contact_point": [
+        {
+          "id": "contactpointP330",
+          "uri": "https://www.provincia.tn.it/api/openapi/media/classificazioni/punti-di-contatto/contactpointP330#Contatti-di-Umst-digitalizzazione-e-reti",
+          "priority": 1
+        }
+      ],
+      "topics": [],
+      "theme": [
+        "Economia e finanze"
+      ],
+      "related_document": [],
+      "keyword": [],
+      "related_dataset": [],
+      "transparency_section": [],
+      "catalogo_od": true,
+      "show_fullwidth": true,
+      "csv_resource": null,
+      "download_file": [],
+      "download_url": "https://www.comune.mori.tn.it/exportas/csv/place|Elenco luoghi",
+      "format": [
+        "CSV"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Foglio",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/organization",
+          "format": "EXCEL"
+        }
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "temporal": [],
+      "resource_name": "TypedDataset",
+      "id": "0051372c7c206dbb7c5d80076724849b",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/pat/catalogo.json#32-resource-format-excel",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT PAT 32-resource-format-excel",
+      "abstract": "Caso di prova 32-resource-format-excel",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 32-resource-format-excel. Esito atteso: rejected - second resource with format 'EXCEL' not in the EU vocabulary</p>",
+      "identifier": "vt-pat-32-resource-format-excel"
     }
   ],
   "self": null,
   "prev": null,
   "next": null,
-  "count": 21
+  "count": 32
 }

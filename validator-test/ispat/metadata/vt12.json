@@ -12,7 +12,7 @@
       "Fenomeno": "Stock",
       "LivelloGeografico": "Provincia",
       "ConfrontiTerritoriali": "Trentino. Italia",
-      "Note": "Dataset di prova per i validatori dell'harvester. Caso 12-csv-404. Esito atteso: rejected - CSV twin could not be downloaded (404)",
+      "Note": "Dataset di prova per i validatori dell'harvester. Caso 12-csv-404. Esito atteso: imported - CSV twin 404: imported (the CSV is not downloaded)",
       "Licenza": "CC BY 4.0",
       "Tema": "GOVE",
       "NsoggDiffonPro": "ISPAT",

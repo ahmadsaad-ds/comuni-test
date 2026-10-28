@@ -67,10 +67,10 @@
   "b4e355aed268b49faeb2d2416273cac1": {
     "case": "06-ok-format-corrected",
     "outcome": "imported",
-    "detail": "declared JSON, real file CSV: real format wins",
+    "detail": "declared JSON, file is CSV: the declared format is kept (the file is not downloaded)",
     "checks": {
       "formats": [
-        "CSV"
+        "JSON"
       ],
       "frequency": "MONTHLY",
       "language": "ITA",
@@ -93,10 +93,10 @@
   "1e72796ed821334c7469898451a78087": {
     "case": "08-ok-web-page-declared-csv",
     "outcome": "imported",
-    "detail": "web page where a CSV was declared: accepted as HTML",
+    "detail": "web page where a CSV was declared: kept as CSV (the file is not downloaded)",
     "checks": {
       "formats": [
-        "HTML"
+        "CSV"
       ],
       "frequency": "MONTHLY",
       "language": "ITA",
@@ -106,10 +106,10 @@
   "598dfe078453663f2c7944f24db82d83": {
     "case": "09-ok-google-sheet-range-suffix",
     "outcome": "imported",
-    "detail": "OpenCity sheet link with '\";\"range' suffix: cleaned, accepted as HTML",
+    "detail": "OpenCity sheet link with '\";\"range' suffix: cleaned, declared CSV kept",
     "checks": {
       "formats": [
-        "HTML"
+        "CSV"
       ],
       "urls": [
         "https://docs.google.com/spreadsheets/d/1m74kuWPyuGvBjA2qTe68TTJn5Mb-YiqrYAZhrupowzc/edit?usp=sharing"
@@ -121,17 +121,9 @@
   },
   "235292627cda92356a596e6a03cf305b": {
     "case": "10-ok-one-resource-without-url-dropped",
-    "outcome": "imported",
-    "detail": "resource without URL dropped, the other kept",
-    "checks": {
-      "formats": [
-        "CSV"
-      ],
-      "n_resources": 1,
-      "frequency": "MONTHLY",
-      "language": "ITA",
-      "license_id": "cc-by"
-    }
+    "outcome": "rejected",
+    "detail": "one resource without URL: the whole dataset is rejected (04/05)",
+    "stage": "import"
   },
   "c0cbbe10beb841082f7b31d31ae18c64": {
     "case": "11-ok-language-missing",
@@ -154,9 +146,16 @@
   },
   "104096a9292e41daee9303c8c0257575": {
     "case": "13-dataset-licence-missing",
-    "outcome": "rejected",
-    "detail": "dataset licence missing",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "dataset licence missing: default cc-by",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "d6d2bb5c89b407db508660ba93cada27": {
     "case": "14-resource-licence-wrong",
@@ -166,9 +165,19 @@
   },
   "9c391bbb06724b5fb51b708fb97623b3": {
     "case": "15-resource-licence-missing",
-    "outcome": "rejected",
-    "detail": "resource licence missing",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "resource licence missing: default CC BY 4.0",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "license_types": [
+        "https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "3a54f35b0091d05b8aeb41cae4f52df3": {
     "case": "16-resource-licence-short-label",
@@ -220,32 +229,138 @@
   },
   "78264ed6e4e3c044f9d0b2d7f1d7e528": {
     "case": "24-link-404",
-    "outcome": "rejected",
-    "detail": "file could not be downloaded (HTTP 404)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "404 link: imported (the file is not downloaded)",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "6a3314359209059c60fccf32c9c7347a": {
     "case": "25-private-google-sheet",
-    "outcome": "rejected",
-    "detail": "file could not be downloaded (HTTP 401)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "private sheet (401): imported (the file is not downloaded)",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "3fe840b1a391cb7a70bb779333f03119": {
     "case": "26-format-unknown-text-plain",
-    "outcome": "rejected",
-    "detail": "format could not be determined (content type text/plain)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "file served as text/plain: imported, declared CSV kept",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "eb74b410a90df32e338259f55ca33f01": {
     "case": "27-one-good-one-broken-resource",
-    "outcome": "rejected",
-    "detail": "resource 2 could not be downloaded (404)",
-    "stage": "import"
+    "outcome": "imported",
+    "detail": "second link 404: imported (the files are not downloaded)",
+    "checks": {
+      "formats": [
+        "CSV",
+        "CSV"
+      ],
+      "n_resources": 2,
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   },
   "3f8a5f9b5f21221a32cd0b46391fb932": {
     "case": "28-identifier-missing",
     "outcome": "rejected",
     "detail": "identifier missing (dcatapit mandatory field, schema check)",
     "stage": "import"
+  },
+  "2feedb52b6561e52479967698a4e2453": {
+    "case": "29-resource-licence-cc-by-1",
+    "outcome": "rejected",
+    "detail": "resource licence 'CC BY 1.0' (real Pergine label) not accepted",
+    "stage": "import"
+  },
+  "b09538f0964f64be1d548558196e0462": {
+    "case": "30-dataset-licence-cc-by-1",
+    "outcome": "rejected",
+    "detail": "dataset licence 'CC BY 1.0' not accepted",
+    "stage": "import"
+  },
+  "95eabbfa416d048f5f86a89963267f9a": {
+    "case": "31-format-lowercase",
+    "outcome": "imported",
+    "detail": "format 'json' in lower case: normalised to JSON",
+    "checks": {
+      "formats": [
+        "JSON"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "474a4d77453c5789a80df2e5a69a92ff": {
+    "case": "32-format-excel",
+    "outcome": "rejected",
+    "detail": "format 'EXCEL' not in the EU file type vocabulary",
+    "stage": "import"
+  },
+  "a11920a61dd1804fc757b6c23ac29079": {
+    "case": "33-format-missing",
+    "outcome": "rejected",
+    "detail": "format missing",
+    "stage": "import"
+  },
+  "8faf6ae9a61b76c045b2f07978706f14": {
+    "case": "34-frequency-eu-code",
+    "outcome": "imported",
+    "detail": "frequency given as EU code 'ANNUAL'",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "ANNUAL",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "a1e1f85287243fc8d66e0c4e07d8d543": {
+    "case": "35-language-inglese",
+    "outcome": "imported",
+    "detail": "language 'Inglese' (as OpenCity writes it): ENG",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ENG",
+      "license_id": "cc-by"
+    }
+  },
+  "c81eb50368529fd604d7015ce74fb830": {
+    "case": "36-licence-cc0",
+    "outcome": "imported",
+    "detail": "CC0 on dataset and resource",
+    "checks": {
+      "formats": [
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-zero"
+    }
   }
 }
