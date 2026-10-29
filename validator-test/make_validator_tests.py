@@ -309,6 +309,13 @@ COMUNI_RECORD = {
 COK = dict(formats=["JSON", "CSV"], frequency="MONTHLY", language="ITA", license_id="cc-by")
 ONE_RES = {"resources": [], "format": ["CSV"]}
 
+# Date reali di un dataset PAT (formato OpenCity AAAA-MM-GG) e la temporal_coverage
+# che ne risulta in CKAN.
+DATES_BOTH = {"start_date": "2025-01-01", "end_date": "2026-02-28"}
+DATES_START = {"start_date": "2025-01-01"}
+TEMPORAL_BOTH = '[{"temporal_start": "2025-01-01", "temporal_end": "2026-02-28"}]'
+TEMPORAL_START = '[{"temporal_start": "2025-01-01"}]'
+
 
 def _res(url, fmt="CSV", title="File"):
     return {"resources": [{"index": 0, "title": title, "url_download": url, "format": fmt}], "format": [fmt]}
@@ -376,6 +383,8 @@ COMUNI_CASES = [
      _res(CSV_URL, fmt="csv")),
     ("32-format-missing", rejected("format missing"),
      {"resources": [{"index": 0, "title": "File", "url_download": CSV_URL, "format": ""}], "format": []}),
+    ("33-temporal-start-end", imported("start_date and end_date: temporal coverage with both", temporal_coverage=TEMPORAL_BOTH, **COK), DATES_BOTH),
+    ("34-temporal-start-only", imported("start_date only: temporal coverage with the start", temporal_coverage=TEMPORAL_START, **COK), DATES_START),
 ]
 
 

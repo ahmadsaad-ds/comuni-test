@@ -1711,10 +1711,124 @@
       "abstract": "Caso di prova 32-format-missing",
       "identifier": "vt-comuni-32-format-missing",
       "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 32-format-missing. Esito atteso: rejected - format missing</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": "2025-01-01",
+      "end_date": "2026-02-28",
+      "id": "306cf9b89274023eb30c8edf94454cca",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#33-temporal-start-end",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 33-temporal-start-end",
+      "abstract": "Caso di prova 33-temporal-start-end",
+      "identifier": "vt-comuni-33-temporal-start-end",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 33-temporal-start-end. Esito atteso: imported - start_date and end_date: temporal coverage with both</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [
+        "JSON"
+      ],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "Luoghi in formato JSON",
+          "url_download": "https://www.comune.mori.tn.it/opendata/api/content/search/classes%20%5Bplace%5D",
+          "format": "JSON"
+        },
+        {
+          "index": 1,
+          "title": "Luoghi in formato CSV",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": "CSV"
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "id": "b0890adc07b8da7477101cea0bb3d400",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#34-temporal-start-only",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 34-temporal-start-only",
+      "abstract": "Caso di prova 34-temporal-start-only",
+      "identifier": "vt-comuni-34-temporal-start-only",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 34-temporal-start-only. Esito atteso: imported - start_date only: temporal coverage with the start</p>"
     }
   ],
   "self": null,
   "prev": null,
   "next": null,
-  "count": 32
+  "count": 34
 }

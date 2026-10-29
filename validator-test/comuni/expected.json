@@ -331,5 +331,35 @@
     "outcome": "rejected",
     "detail": "format missing",
     "stage": "import"
+  },
+  "306cf9b89274023eb30c8edf94454cca": {
+    "case": "33-temporal-start-end",
+    "outcome": "imported",
+    "detail": "start_date and end_date: temporal coverage with both",
+    "checks": {
+      "temporal_coverage": "[{\"temporal_start\": \"2025-01-01\", \"temporal_end\": \"2026-02-28\"}]",
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
+  },
+  "b0890adc07b8da7477101cea0bb3d400": {
+    "case": "34-temporal-start-only",
+    "outcome": "imported",
+    "detail": "start_date only: temporal coverage with the start",
+    "checks": {
+      "temporal_coverage": "[{\"temporal_start\": \"2025-01-01\"}]",
+      "formats": [
+        "JSON",
+        "CSV"
+      ],
+      "frequency": "MONTHLY",
+      "language": "ITA",
+      "license_id": "cc-by"
+    }
   }
 }
