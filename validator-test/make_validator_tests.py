@@ -374,6 +374,8 @@ COMUNI_CASES = [
     ("30-format-excel", rejected("format 'EXCEL' not in the EU file type vocabulary"), _res(CSV_URL, fmt="EXCEL")),
     ("31-format-lowercase", imported("format 'csv' in lower case: normalised to CSV", formats=["CSV"], frequency="MONTHLY", language="ITA", license_id="cc-by"),
      _res(CSV_URL, fmt="csv")),
+    ("32-format-missing", rejected("format missing"),
+     {"resources": [{"index": 0, "title": "File", "url_download": CSV_URL, "format": ""}], "format": []}),
 ]
 
 

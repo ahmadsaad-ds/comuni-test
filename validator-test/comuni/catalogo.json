@@ -1662,10 +1662,59 @@
       "abstract": "Caso di prova 31-format-lowercase",
       "identifier": "vt-comuni-31-format-lowercase",
       "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 31-format-lowercase. Esito atteso: imported - format 'csv' in lower case: normalised to CSV</p>"
+    },
+    {
+      "is_public": true,
+      "theme": [
+        "Governo e settore pubblico"
+      ],
+      "topics": [],
+      "format": [],
+      "license": [
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+      ],
+      "resources": [
+        {
+          "index": 0,
+          "title": "File",
+          "url_download": "https://www.comune.mori.tn.it/exportas/csv/place",
+          "format": ""
+        }
+      ],
+      "download_url": null,
+      "download_file": [],
+      "csv_resource": null,
+      "modified": "2026-10-26",
+      "rights_holder": [],
+      "accrualperiodicity": [
+        "Mensile"
+      ],
+      "spatial": [],
+      "issued": "2026-10-26",
+      "temporal": [],
+      "creator": [],
+      "publisher": [],
+      "conforms_to": [],
+      "language": [
+        "Italiano"
+      ],
+      "version_info": "",
+      "contact_point": [],
+      "keyword": "",
+      "start_date": null,
+      "end_date": null,
+      "id": "1febd3cb031820591f1d91af43c7934a",
+      "uri": "https://raw.githubusercontent.com/ahmadsaad-ds/comuni-test/refs/heads/main/validator-test/comuni/catalogo.json#32-format-missing",
+      "published_at": "2026-10-26T09:00:00+02:00",
+      "modified_at": "2026-10-26T09:00:00+02:00",
+      "title": "VT Comuni 32-format-missing",
+      "abstract": "Caso di prova 32-format-missing",
+      "identifier": "vt-comuni-32-format-missing",
+      "description": "<p>Dataset di prova per i validatori dell'harvester. Caso 32-format-missing. Esito atteso: rejected - format missing</p>"
     }
   ],
   "self": null,
   "prev": null,
   "next": null,
-  "count": 31
+  "count": 32
 }

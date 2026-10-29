@@ -325,5 +325,11 @@
       "language": "ITA",
       "license_id": "cc-by"
     }
+  },
+  "1febd3cb031820591f1d91af43c7934a": {
+    "case": "32-format-missing",
+    "outcome": "rejected",
+    "detail": "format missing",
+    "stage": "import"
   }
 }
